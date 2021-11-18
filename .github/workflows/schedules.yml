@@ -1,8 +1,10 @@
+
 name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: 30 0 * * *
+  # 19:00 UTC is 4:00 JST
+  - cron: 30 19 * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -12,12 +14,12 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        python-version: "3.9"
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install starred
+        pip install starred==3.2.0
     - name: update repo
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username maguowei --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: starred --username ${{ github.repository_owner }} --repository awesome-stars --sort --token ${GH_TOKEN} --message 'stars update by github actions cron'
