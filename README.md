@@ -45,7 +45,7 @@
 - [kamaboko123/30daysOS](https://github.com/kamaboko123/30daysOS) - HariboteOS develop
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [m0lese/Linux-Phaco](https://github.com/m0lese/Linux-Phaco) - Personal fork of Linux Kernel with custom patches applied from various sources
+- [kinale/Linux-Phaco](https://github.com/kinale/Linux-Phaco) - Personal fork of Linux Kernel with custom patches applied from various sources
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [qrush/unix](https://github.com/qrush/unix) - Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
@@ -312,6 +313,8 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
+- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) - 🔑 Google Auth Library for Node.js
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
