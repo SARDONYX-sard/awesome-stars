@@ -17,6 +17,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Nunjucks](#nunjucks)
   - [Others](#others)
@@ -207,6 +208,10 @@
 ## Jupyter Notebook 
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+## Kotlin 
+
+- [yumemi-inc/android-engineer-codecheck](https://github.com/yumemi-inc/android-engineer-codecheck) - This is a code check task for Android engineers employment in YUMEMI.
 
 ## Lua 
 
