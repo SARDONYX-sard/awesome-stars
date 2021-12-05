@@ -331,6 +331,7 @@
 
 ## Swift 
 
+- [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Widget that show your AirPods / AirPods Pro / Airpods Max battery directly from your MacOS status bar. M1 Macbook and Intel Macbook Compatible
 
 ## TypeScript 
