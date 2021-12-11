@@ -33,6 +33,7 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
 
@@ -308,6 +309,9 @@
 
 ## Rust 
 
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [rust-dev-tools/fmt-rfcs](https://github.com/rust-dev-tools/fmt-rfcs) - RFCs for Rust formatting guidelines and changes to Rustfmt
+- [yoshd/stun-client](https://github.com/yoshd/stun-client) - A simple async-std-based STUN client written in Rust
 - [AaronErhardt/relm4](https://github.com/AaronErhardt/relm4) - An idiomatic GUI library inspired by Elm and based on gtk4-rs
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
@@ -390,7 +394,7 @@
 - [ics-creative/project-japanese-proofreading](https://github.com/ics-creative/project-japanese-proofreading) - テキストファイルやMarkdownファイルの日本語の文章をチェックするVS Codeの拡張機能
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
@@ -421,6 +425,10 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [thesugar/thesugar.me](https://github.com/thesugar/thesugar.me) - my personal website
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
+
+## Vim script 
+
+- [Jxck/dotfiles](https://github.com/Jxck/dotfiles) - dotfiles
 
 ## Vue 
 
