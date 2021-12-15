@@ -21,6 +21,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Nunjucks](#nunjucks)
+  - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
   - [PowerShell](#powershell)
@@ -109,6 +110,7 @@
 
 ## HTML 
 
+- [opera7133/Blonde](https://github.com/opera7133/Blonde) - Blonde, A simple theme using Tailwind CSS.
 - [PortSwigger/css-exfiltration](https://github.com/PortSwigger/css-exfiltration) - 
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
@@ -131,6 +133,7 @@
 
 ## JavaScript 
 
+- [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -245,6 +248,10 @@
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
+## OCaml 
+
+- [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml 🐫 🎮
 
 ## Others 
 
