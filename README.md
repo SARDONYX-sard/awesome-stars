@@ -20,6 +20,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Markdown](#markdown)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Others](#others)
@@ -134,6 +135,7 @@
 
 ## JavaScript 
 
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -246,6 +248,10 @@
 
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -321,6 +327,8 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -333,7 +341,7 @@
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://academy.kerkour.com/black-hat-rust?coupon=GITHUB
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
