@@ -78,6 +78,7 @@
 
 ## CSS 
 
+- [Yagami360/My_NoteBook](https://github.com/Yagami360/My_NoteBook) - サイエンス、テクノロジー、エンジニアリング関連の情報を記載したノート（忘備録）です。
 - [eliasson/liquorice](https://github.com/eliasson/liquorice) - Liquorice is a small black and white theme for Hugo.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -112,6 +113,7 @@
 
 ## HTML 
 
+- [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
 - [opera7133/Blonde](https://github.com/opera7133/Blonde) - Blonde, A simple theme using Tailwind CSS.
 - [PortSwigger/css-exfiltration](https://github.com/PortSwigger/css-exfiltration) - 
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
@@ -262,6 +264,7 @@
 
 ## Others 
 
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [ABZ-Aaron/CheatSheets](https://github.com/ABZ-Aaron/CheatSheets) - Just a place to store cheatsheets
 - [mebiusbox/lab](https://github.com/mebiusbox/lab) - 
 - [IQAndreas/markdown-licenses](https://github.com/IQAndreas/markdown-licenses) - A collection of open source licenses in Markdown format. Contributions are always welcome!
@@ -328,6 +331,7 @@
 
 ## Rust 
 
+- [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
