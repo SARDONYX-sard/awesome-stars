@@ -47,7 +47,7 @@
 
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [satoru-takeuchi/linux-in-practice](https://github.com/satoru-takeuchi/linux-in-practice) - 
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [kamaboko123/30daysOS](https://github.com/kamaboko123/30daysOS) - HariboteOS develop
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -264,6 +264,7 @@
 
 ## Others 
 
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [ABZ-Aaron/CheatSheets](https://github.com/ABZ-Aaron/CheatSheets) - Just a place to store cheatsheets
 - [mebiusbox/lab](https://github.com/mebiusbox/lab) - 
@@ -380,6 +381,7 @@
 
 ## TypeScript 
 
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [Quramy/eslint-plugin-tutorial](https://github.com/Quramy/eslint-plugin-tutorial) - A tutorial/template repository to explain how to create your eslint plugins
