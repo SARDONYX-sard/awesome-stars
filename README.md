@@ -332,6 +332,8 @@
 
 ## Rust 
 
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
+- [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -387,6 +389,7 @@
 
 ## TypeScript 
 
+- [mizchi/tsx-source-jump](https://github.com/mizchi/tsx-source-jump) - 
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev
@@ -467,6 +470,7 @@
 
 ## Vim script 
 
+- [yuki-yano/dotfiles](https://github.com/yuki-yano/dotfiles) - My configuration files.
 - [Jxck/dotfiles](https://github.com/Jxck/dotfiles) - dotfiles
 
 ## Vue 
