@@ -78,6 +78,7 @@
 
 ## CSS 
 
+- [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [Yagami360/My_NoteBook](https://github.com/Yagami360/My_NoteBook) - サイエンス、テクノロジー、エンジニアリング関連の情報を記載したノート（忘備録）です。
 - [eliasson/liquorice](https://github.com/eliasson/liquorice) - Liquorice is a small black and white theme for Hugo.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
@@ -182,7 +183,7 @@
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [cornerstonejs/cornerstoneTools](https://github.com/cornerstonejs/cornerstoneTools) - A framework for tools built on top of Cornerstone.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [vinissimus/next-translate](https://github.com/vinissimus/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
@@ -312,6 +313,8 @@
 
 ## Python 
 
+- [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!
 - [spyoungtech/ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey. Harness the automation power of AutoHotkey with the beauty of Python.
 - [google/budoux](https://github.com/google/budoux) - 
@@ -389,7 +392,7 @@
 
 ## TypeScript 
 
-- [mizchi/tsx-source-jump](https://github.com/mizchi/tsx-source-jump) - 
+- [mizchi/tsx-source-jump](https://github.com/mizchi/tsx-source-jump) - Jump from the HTML element to the source code of the generator
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev
