@@ -334,6 +334,7 @@
 
 ## Rust 
 
+- [teru01/toytcp](https://github.com/teru01/toytcp) - Toy TCP implementation with Rust （技術書典10「Rustで始めるTCP自作入門」ソースコード）
 - [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
