@@ -83,6 +83,7 @@
 - [eliasson/liquorice](https://github.com/eliasson/liquorice) - Liquorice is a small black and white theme for Hugo.
 - [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Recreating Windows 11 settings using React JS
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+- [rui314/rui314.github.io](https://github.com/rui314/rui314.github.io) - 
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
@@ -124,7 +125,6 @@
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [rui314/rui314.github.io](https://github.com/rui314/rui314.github.io) - 
 - [ics-creative/210414_requestAnimationFrame](https://github.com/ics-creative/210414_requestAnimationFrame) - 
 - [sergioramos/remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism
 - [node4good/lodash-contrib](https://github.com/node4good/lodash-contrib) - The brass buckles on lodash's utility belt
