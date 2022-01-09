@@ -347,6 +347,9 @@
 
 ## Rust 
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
@@ -417,6 +420,7 @@
 
 ## TypeScript 
 
+- [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
 - [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
