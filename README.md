@@ -51,7 +51,7 @@
 - [kamaboko123/30daysOS](https://github.com/kamaboko123/30daysOS) - HariboteOS develop
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [m0lese/Linux-Phaco](https://github.com/m0lese/Linux-Phaco) - Personal fork of Linux Kernel (5.12.14) with custom patches applied from various sources
+- [m0lese/Linux-Phaco](https://github.com/m0lese/Linux-Phaco) - Personal fork of Linux Kernel (5.12.14) with custom patches applied from various sources (unmaintained)
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [qrush/unix](https://github.com/qrush/unix) - Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
