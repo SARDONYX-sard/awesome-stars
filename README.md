@@ -368,6 +368,10 @@
 
 ## Rust 
 
+- [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [retep998/winapi-rs](https://github.com/retep998/winapi-rs) - Rust bindings to Windows API
