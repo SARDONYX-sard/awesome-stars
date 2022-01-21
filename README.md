@@ -153,6 +153,7 @@
 
 ## JavaScript 
 
+- [hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard - Customizable, responsive and lightweight
 - [rustwasm/create-wasm-app](https://github.com/rustwasm/create-wasm-app) - npm init template for consuming rustwasm pkgs
 - [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
@@ -343,6 +344,7 @@
 
 ## Python 
 
+- [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) - Animation Behavior Patching Tool
 - [FFRI/FEXRD](https://github.com/FFRI/FEXRD) - Feature Extractor for FFRI Dataset
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - python based key customization utility
@@ -479,6 +481,7 @@
 
 ## TypeScript 
 
+- [HeadlightStudios/bestyled-gamepad](https://github.com/HeadlightStudios/bestyled-gamepad) - A stylish gamepad component for React, Preact, etc.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
