@@ -153,6 +153,8 @@
 
 ## JavaScript 
 
+- [DmitrySoshnikov/syntax](https://github.com/DmitrySoshnikov/syntax) - Syntactic analysis toolkit, language-agnostic parser generator.
+- [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 - [hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard - Customizable, responsive and lightweight
 - [rustwasm/create-wasm-app](https://github.com/rustwasm/create-wasm-app) - npm init template for consuming rustwasm pkgs
 - [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
