@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [wixtoolset/wix3](https://github.com/wixtoolset/wix3) - WiX Toolset v3.x
 - [cocoa-mhlw/cocoa](https://github.com/cocoa-mhlw/cocoa) - 
 - [AdaptiveCode/AdaptiveCode](https://github.com/AdaptiveCode/AdaptiveCode) - Master repository for all of the accompanying sample code from 'Adaptive Code'
@@ -70,6 +71,7 @@
 
 ## C++ 
 
+- [LoliGothick/mitama-cpp-result](https://github.com/LoliGothick/mitama-cpp-result) - A Library that provides `result&lt;T, E&gt;` and `maybe&lt;T&gt;` and monadic functions for them.
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 - [Samsung/rlottie](https://github.com/Samsung/rlottie) - A platform independent standalone library that plays Lottie Animation.
 - [crftwr/pyauto](https://github.com/crftwr/pyauto) - windows low-level feature library
@@ -294,6 +296,8 @@
 
 ## Others 
 
+- [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
+- [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [JuanitoFatas/what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - Solving the second hard problem in Computer Science.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gedevan-Aleksizde/pandas-cheat-sheet-ja](https://github.com/Gedevan-Aleksizde/pandas-cheat-sheet-ja) - pandas 公式チートシートの非公式翻訳版
@@ -379,6 +383,8 @@
 
 ## Rust 
 
+- [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust
+- [qnighy/yasna.rs](https://github.com/qnighy/yasna.rs) - ASN.1 library for Rust
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [webdesus/fs_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
@@ -590,6 +596,7 @@
 
 ## WebAssembly 
 
+- [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to C
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [uhyo/uhyohyo.net](https://github.com/uhyo/uhyohyo.net) - uhyohyo.net
 
