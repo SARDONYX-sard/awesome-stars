@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [wixtoolset/wix3](https://github.com/wixtoolset/wix3) - WiX Toolset v3.x
 - [cocoa-mhlw/cocoa](https://github.com/cocoa-mhlw/cocoa) - 
@@ -71,6 +72,7 @@
 
 ## C++ 
 
+- [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [LoliGothick/mitama-cpp-result](https://github.com/LoliGothick/mitama-cpp-result) - A Library that provides `result&lt;T, E&gt;` and `maybe&lt;T&gt;` and monadic functions for them.
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 - [Samsung/rlottie](https://github.com/Samsung/rlottie) - A platform independent standalone library that plays Lottie Animation.
