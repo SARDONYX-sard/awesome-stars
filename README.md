@@ -131,6 +131,7 @@
 
 ## HTML 
 
+- [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
@@ -357,6 +358,8 @@
 
 ## Python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) - Animation Behavior Patching Tool
 - [FFRI/FEXRD](https://github.com/FFRI/FEXRD) - Feature Extractor for FFRI Dataset
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
@@ -388,6 +391,9 @@
 
 ## Rust 
 
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+- [j5ik2o/oni-comb-rs](https://github.com/j5ik2o/oni-comb-rs) - A Rust crate for LL(k) parser combinators.
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust
 - [qnighy/yasna.rs](https://github.com/qnighy/yasna.rs) - ASN.1 library for Rust
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
