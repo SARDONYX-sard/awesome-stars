@@ -96,7 +96,6 @@
 - [Yagami360/My_NoteBook](https://github.com/Yagami360/My_NoteBook) - サイエンス、テクノロジー、エンジニアリング関連の情報を記載したノート（忘備録）です。
 - [eliasson/liquorice](https://github.com/eliasson/liquorice) - Liquorice is a small black and white theme for Hugo.
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Open Source Security Software built by Security Engineers. Scan your dependencies for Log4Shell, or add Data Tokenization to prevent data leaks. Try our live Tokenizer demo: https://app.lunasec.dev
-- [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Recreating Windows 11 settings using React JS
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [rui314/rui314.github.io](https://github.com/rui314/rui314.github.io) - 
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -113,6 +112,7 @@
 
 ## Go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
@@ -400,6 +400,9 @@
 
 ## Rust 
 
+- [bluss/indexmap](https://github.com/bluss/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
+- [jochasinga/systemd-parser](https://github.com/jochasinga/systemd-parser) - A minimal Systemd unit file parser
+- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [dtolnay/miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
@@ -411,7 +414,7 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [j5ik2o/oni-comb-rs](https://github.com/j5ik2o/oni-comb-rs) - A Rust crate for LL(k) parser combinators.
-- [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust
+- [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [qnighy/yasna.rs](https://github.com/qnighy/yasna.rs) - ASN.1 library for Rust
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
@@ -491,6 +494,7 @@
 
 ## SCSS 
 
+- [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Recreating Windows 11 settings using React JS
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 
 ## Scala 
