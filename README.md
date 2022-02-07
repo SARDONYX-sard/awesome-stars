@@ -46,6 +46,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11
 - [cygwin/cygwin](https://github.com/cygwin/cygwin) - Mirror of  Cygwin repository at https://cygwin.com/.  DO NOT SUBMIT PULL REQUESTS.  Read https://cygwin.com/contrib.html and submit patches via the mailing list cygwin-patches AT cygwin DOT com.
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [satoru-takeuchi/linux-in-practice](https://github.com/satoru-takeuchi/linux-in-practice) - 
@@ -61,6 +62,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [wixtoolset/wix3](https://github.com/wixtoolset/wix3) - WiX Toolset v3.x
@@ -74,6 +76,7 @@
 
 ## C++ 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Ryan-rsm-McKenzie/QuickLootRE](https://github.com/Ryan-rsm-McKenzie/QuickLootRE) - 
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -136,6 +139,8 @@
 
 ## HTML 
 
+- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -164,6 +169,9 @@
 
 ## JavaScript 
 
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+- [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 - [iarna/iarna-toml](https://github.com/iarna/iarna-toml) - Better TOML parsing and stringifying all in that familiar JSON interface.
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -310,6 +318,8 @@
 
 ## Others 
 
+- [GitbookIO/javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [willelz/nvim-lua-guide-ja](https://github.com/willelz/nvim-lua-guide-ja) - A guide to using Lua in Neovim
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
@@ -354,7 +364,7 @@
 ## PHP 
 
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - a sampling profiler for php
+- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - a sampling profiler for PHP written in PHP
 
 ## PowerShell 
 
@@ -401,6 +411,9 @@
 
 ## Rust 
 
+- [rust-embedded/cargo-binutils](https://github.com/rust-embedded/cargo-binutils) - Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
@@ -529,6 +542,7 @@
 
 ## TypeScript 
 
+- [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [microcmsio/react-hooks-use-modal](https://github.com/microcmsio/react-hooks-use-modal) - This is a customizable modal with react-portal.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
