@@ -427,6 +427,7 @@
 
 ## Rust 
 
+- [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - JavaScript engine implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
@@ -535,6 +536,7 @@
 
 ## SCSS 
 
+- [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Recreating Windows 11 settings using React JS
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 
