@@ -14,6 +14,7 @@
   - [Fortran](#fortran)
   - [Go](#go)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -119,6 +120,7 @@
 
 ## Go 
 
+- [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -159,6 +161,10 @@
 - [node4good/lodash-contrib](https://github.com/node4good/lodash-contrib) - The brass buckles on lodash's utility belt
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+
+## Handlebars 
+
+- [rustwasm/book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 
 ## Haskell 
 
@@ -427,6 +433,8 @@
 
 ## Rust 
 
+- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [rustwasm/wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - a template for starting a rust-wasm project to be used with wasm-pack
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - JavaScript engine implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
@@ -572,6 +580,7 @@
 
 ## TypeScript 
 
+- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [microcmsio/react-hooks-use-modal](https://github.com/microcmsio/react-hooks-use-modal) - This is a customizable modal with react-portal.
