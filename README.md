@@ -349,7 +349,6 @@
 - [JuanitoFatas/what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - Solving the second hard problem in Computer Science.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gedevan-Aleksizde/pandas-cheat-sheet-ja](https://github.com/Gedevan-Aleksizde/pandas-cheat-sheet-ja) - pandas 公式チートシートの非公式翻訳版
-- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [ABZ-Aaron/CheatSheets](https://github.com/ABZ-Aaron/CheatSheets) - Just a place to store cheatsheets
 - [mebiusbox/lab](https://github.com/mebiusbox/lab) - 
@@ -434,6 +433,11 @@
 
 ## Rust 
 
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [rustwasm/wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - a template for starting a rust-wasm project to be used with wasm-pack
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
@@ -522,6 +526,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
