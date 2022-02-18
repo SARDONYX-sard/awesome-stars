@@ -49,6 +49,7 @@
 
 ## C 
 
+- [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to bring back a productive working environment on Windows 11
 - [cygwin/cygwin](https://github.com/cygwin/cygwin) - Mirror of  Cygwin repository at https://cygwin.com/.  DO NOT SUBMIT PULL REQUESTS.  Read https://cygwin.com/contrib.html and submit patches via the mailing list cygwin-patches AT cygwin DOT com.
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
@@ -392,7 +393,7 @@
 ## PHP 
 
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP. It can read information about running PHP script from outside of the process.
+- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
 
 ## PowerShell 
 
@@ -441,6 +442,9 @@
 
 ## Rust 
 
+- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion and Ballista query engines
+- [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
@@ -601,6 +605,7 @@
 
 ## TypeScript 
 
+- [qqhann/DevArms](https://github.com/qqhann/DevArms) - Tiny toolkit for developers. Runs offline and cross-platform.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
