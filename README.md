@@ -66,6 +66,7 @@
 
 ## C# # 
 
+- [Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter) - Pleasanter | Business application platform
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -352,6 +353,7 @@
 
 ## Others 
 
+- [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [GitbookIO/javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -447,6 +449,8 @@
 
 ## Rust 
 
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - Simple and persistent, unencrypted key-value store for your Tauri app.
@@ -616,6 +620,7 @@
 
 ## TypeScript 
 
+- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [tauri-apps/tauricon](https://github.com/tauri-apps/tauricon) - Make icons for your tauri app with nodejs
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) - The npm-style script runner for Deno
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
