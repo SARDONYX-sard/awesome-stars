@@ -81,6 +81,7 @@
 
 ## C++ 
 
+- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind — Seamless operability between C++17 and Python
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [tommitytom/RetroPlug](https://github.com/tommitytom/RetroPlug) - A frontend for the SameBoy GameBoy emulator, with a focus on music creation. It runs standalone and can be used as an audio plugin (VST) in your favourite DAW!
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -449,6 +450,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
