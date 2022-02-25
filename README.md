@@ -489,7 +489,7 @@
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - JavaScript engine implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
