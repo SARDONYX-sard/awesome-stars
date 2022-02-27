@@ -618,6 +618,7 @@
 
 ## Shell 
 
+- [z-shell/zi](https://github.com/z-shell/zi) - 𝕋ℍ𝔼 𝕊𝕎𝕀𝕊𝕊 𝔸ℝ𝕄𝕐 𝕂ℕ𝕀𝔽𝔼 𝔽𝕆ℝ ℤ𝕊ℍ 𝕌ℕ𝕀𝕏 𝕊ℍ𝔼𝕃𝕃
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
 - [loxygenK/dotfiles](https://github.com/loxygenK/dotfiles) - My own dotfiles.
