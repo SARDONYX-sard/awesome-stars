@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [YukiOnishi1129/go-docker-restapi-sample](https://github.com/YukiOnishi1129/go-docker-restapi-sample) - golang docker REST APIのサンプル
