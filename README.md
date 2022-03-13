@@ -50,6 +50,7 @@
 
 ## C 
 
+- [HariboteOS/harib27f](https://github.com/HariboteOS/harib27f) - Haribote OS source package with cross-platform compilation support.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
@@ -131,6 +132,7 @@
 
 ## Go 
 
+- [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -249,7 +251,6 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -436,6 +437,7 @@
 
 ## Python 
 
+- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -471,6 +473,12 @@
 
 ## Rust 
 
+- [deviceplug/btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library
+- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
@@ -620,6 +628,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 
 ## SCSS 
 
@@ -642,6 +651,7 @@
 
 ## Shell 
 
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [z-shell/zi](https://github.com/z-shell/zi) - 𝕋ℍ𝔼 𝕊𝕎𝕀𝕊𝕊 𝔸ℝ𝕄𝕐 𝕂ℕ𝕀𝔽𝔼 𝔽𝕆ℝ ℤ𝕊ℍ 𝕌ℕ𝕀𝕏 𝕊ℍ𝔼𝕃𝕃
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
