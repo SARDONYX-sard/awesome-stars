@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [Hawkbat/SkyrimControlMapper](https://github.com/Hawkbat/SkyrimControlMapper) - A web-based tool for editing the controlmap.txt file for Skyrim key binding.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
@@ -348,6 +349,7 @@
 
 ## Lua 
 
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: tmux, wezterm; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
@@ -375,6 +377,7 @@
 
 ## Others 
 
+- [kentutorialbook/30minLearningJavaScriptMonad](https://github.com/kentutorialbook/30minLearningJavaScriptMonad) - 30分でわかるJavaScriptプログラマのためのモナド入門
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
@@ -424,6 +427,7 @@
 
 ## PHP 
 
+- [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
 
@@ -470,6 +474,7 @@
 
 ## Ruby 
 
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mixi-inc/RubyTraining](https://github.com/mixi-inc/RubyTraining) - Ruby training course for new employees
