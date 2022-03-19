@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript functions that do just do one thing.
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [Hawkbat/SkyrimControlMapper](https://github.com/Hawkbat/SkyrimControlMapper) - A web-based tool for editing the controlmap.txt file for Skyrim key binding.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
@@ -481,6 +482,8 @@
 
 ## Rust 
 
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [ockam-network/ockam](https://github.com/ockam-network/ockam) - End-to-end encryption and mutual authentication for distributed applications.
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -651,7 +654,7 @@
 ## SCSS 
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
-- [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - this is now a part of amazing win11React project check 👇
+- [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Recreating the Windows 11 settings app in ReactJS.
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 
 ## SMT 
@@ -693,6 +696,7 @@
 
 ## TypeScript 
 
+- [microsoft/setup-msbuild](https://github.com/microsoft/setup-msbuild) - A GitHub Action to facilitate configuring MSBuild in the workflow PATH for building .NET Framework applications.
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [RyutaKojima/simpleGestures](https://github.com/RyutaKojima/simpleGestures) - simpleGesture is Google Chrome extension.
@@ -723,7 +727,7 @@
 - [mizchi/tsx-source-jump](https://github.com/mizchi/tsx-source-jump) - Jump from the HTML element to the source code of the generator
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
-- [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Open Source Security Software built by Security Engineers. Scan your dependencies for Log4Shell, or add Data Tokenization to prevent data leaks. Try our live Tokenizer demo: https://app.lunasec.dev
+- [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service. Get started in one-click via our GitHub App or host it yourself.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [Quramy/eslint-plugin-tutorial](https://github.com/Quramy/eslint-plugin-tutorial) - A tutorial/template repository to explain how to create your eslint plugins
 - [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) - This action configures authentication to a GKE cluster.
