@@ -50,6 +50,7 @@
 
 ## C 
 
+- [hikalium/liumos](https://github.com/hikalium/liumos) - A toy operating system which supports NVDIMM natively.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HariboteOS/harib27f](https://github.com/HariboteOS/harib27f) - Haribote OS source package with cross-platform compilation support.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -63,7 +64,7 @@
 - [kamaboko123/30daysOS](https://github.com/kamaboko123/30daysOS) - HariboteOS develop
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [m0lese/Linux-Phaco](https://github.com/m0lese/Linux-Phaco) - Personal fork of Linux Kernel (5.12.14) with custom patches applied from various sources (unmaintained)
+- [gedcomparsar/Linux-Phaco](https://github.com/gedcomparsar/Linux-Phaco) - Personal fork of Linux Kernel (5.12.14) with custom patches applied from various sources (unmaintained)
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [qrush/unix](https://github.com/qrush/unix) - Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
