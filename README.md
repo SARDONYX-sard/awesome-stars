@@ -51,6 +51,9 @@
 
 ## C 
 
+- [micrictor/stuxnet](https://github.com/micrictor/stuxnet) - Open-source decompile of Stuxnet/myRTUs
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [hikalium/liumos](https://github.com/hikalium/liumos) - A toy operating system which supports NVDIMM natively.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -500,6 +503,11 @@
 
 ## Rust 
 
+- [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
+- [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- [fiberplane/fp-bindgen](https://github.com/fiberplane/fp-bindgen) - Bindings generator for full-stack WASM plugins
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
