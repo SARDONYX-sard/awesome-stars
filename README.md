@@ -730,7 +730,7 @@
 ## SCSS 
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
-- [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Recreating the Windows 11 settings app in ReactJS.
+- [yashash1511/windows11-settings](https://github.com/yashash1511/windows11-settings) - Windows 11 settings app in ReactJS.
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 
 ## SMT 
