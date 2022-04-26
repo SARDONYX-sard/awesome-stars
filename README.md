@@ -469,6 +469,7 @@
 
 ## PowerShell 
 
+- [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [amano41/scoop-bucket](https://github.com/amano41/scoop-bucket) - Scoop bucket for my personal use.
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell
 - [StefanScherer/dotfiles-windows](https://github.com/StefanScherer/dotfiles-windows) - My "dotfiles" for Windows PowerShell, like dotfiles on unix
