@@ -523,6 +523,8 @@
 
 ## Rust 
 
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
+- [phil-opp/linked-list-allocator](https://github.com/phil-opp/linked-list-allocator) - 
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
