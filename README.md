@@ -490,6 +490,7 @@
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) - Animation Behavior Patching Tool
@@ -621,7 +622,6 @@
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
