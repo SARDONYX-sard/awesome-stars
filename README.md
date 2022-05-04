@@ -46,6 +46,7 @@
 
 ## Assembly 
 
+- [oriansj/stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
 - [DQNEO/goas](https://github.com/DQNEO/goas) - port of GNU Assembler written in go
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
