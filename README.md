@@ -757,7 +757,7 @@
 ## SCSS 
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
-- [yashash1511/win11settings-react](https://github.com/yashash1511/win11settings-react) - Windows 11 settings app in ReactJS
+- [yashash1511/win11settings-react](https://github.com/yashash1511/win11settings-react) - Windows 11 settings app made with ReactJS
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 
 ## SMT 
@@ -801,7 +801,7 @@
 ## TypeScript 
 
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
-- [zat-dev/VarTrace](https://github.com/zat-dev/VarTrace) - time travel debug and analyzer
+- [zat-dev/VarTrace](https://github.com/zat-dev/VarTrace) - time travel debug and analyzer for Python
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for Visual Studio Code using embedded Neovim
 - [aspida/pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
 - [hikalium/opv86](https://github.com/hikalium/opv86) - Opcode / Instruction finder for x86_64
