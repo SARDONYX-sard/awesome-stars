@@ -175,7 +175,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
@@ -757,7 +757,7 @@
 ## SCSS 
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
-- [yashash1511/win11settings-react](https://github.com/yashash1511/win11settings-react) - Windows 11 settings app made with ReactJS
+- [yashash1511/Win11-Settings-React](https://github.com/yashash1511/Win11-Settings-React) - Windows 11 settings app recreated with React.
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 
 ## SMT 
