@@ -539,6 +539,8 @@
 
 ## Rust 
 
+- [maekawatoshiki/rucc](https://github.com/maekawatoshiki/rucc) - rucc is a tiny toy C compiler in Rust.
+- [termoshtt/eom](https://github.com/termoshtt/eom) - Configurable ODE/PDE solver
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [japaric/heapless](https://github.com/japaric/heapless) - Heapless, `static` friendly data structures
@@ -667,7 +669,7 @@
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
 - [bluss/indexmap](https://github.com/bluss/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [jochasinga/systemd-parser](https://github.com/jochasinga/systemd-parser) - A minimal Systemd unit file parser
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
