@@ -498,6 +498,7 @@
 
 ## Python 
 
+- [Michael-F-Bryan/static-analyser-in-rust](https://github.com/Michael-F-Bryan/static-analyser-in-rust) - An experiment in using literate programming to write a static analysis tool in Rust
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [OpenResearchComputation/fable](https://github.com/OpenResearchComputation/fable) - Project for converting Fortran Code to C - accepted for publication in Open Research Computation
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
@@ -542,6 +543,9 @@
 
 ## Rust 
 
+- [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+- [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [maekawatoshiki/rucc](https://github.com/maekawatoshiki/rucc) - rucc is a tiny toy C compiler in Rust.
 - [termoshtt/eom](https://github.com/termoshtt/eom) - Configurable ODE/PDE solver
@@ -662,7 +666,7 @@
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - JavaScript engine implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -951,7 +955,7 @@
 
 ## Vue 
 
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A chrome extension for automating your browser by connecting blocks
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [microcmsio/microcms-blog](https://github.com/microcmsio/microcms-blog) - microCMS official blog
 
 ## WebAssembly 
