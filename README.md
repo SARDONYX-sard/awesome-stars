@@ -295,7 +295,7 @@
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [electron-userland/spectron](https://github.com/electron-userland/spectron) - 🔎 Test Electron apps using ChromeDriver
+- [electron-userland/spectron](https://github.com/electron-userland/spectron) - DEPRECATED: 🔎 Test Electron apps using ChromeDriver
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -544,6 +544,7 @@
 
 ## Rust 
 
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
@@ -667,7 +668,7 @@
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - JavaScript engine implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.   https://app.databend.com/
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
