@@ -503,7 +503,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [OpenResearchComputation/fable](https://github.com/OpenResearchComputation/fable) - Project for converting Fortran Code to C - accepted for publication in Open Research Computation
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 - [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
@@ -544,6 +544,7 @@
 
 ## Rust 
 
+- [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -668,7 +669,7 @@
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - JavaScript engine implemented in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.   https://app.databend.com/
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Cloud at https://app.databend.com/
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
