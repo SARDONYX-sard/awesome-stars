@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [oras-project/oras-go](https://github.com/oras-project/oras-go) - ORAS Go library
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -242,6 +243,7 @@
 
 ## JavaScript 
 
+- [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) - Webpack plugin for Google Apps Script
@@ -500,6 +502,7 @@
 
 ## Python 
 
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [Michael-F-Bryan/static-analyser-in-rust](https://github.com/Michael-F-Bryan/static-analyser-in-rust) - An experiment in using literate programming to write a static analysis tool in Rust
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [OpenResearchComputation/fable](https://github.com/OpenResearchComputation/fable) - Project for converting Fortran Code to C - accepted for publication in Open Research Computation
