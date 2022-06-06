@@ -243,6 +243,7 @@
 
 ## JavaScript 
 
+- [bpceee/oldest](https://github.com/bpceee/oldest) - Go to the oldest page of commits.
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -848,7 +849,7 @@
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [RyutaKojima/simpleGestures](https://github.com/RyutaKojima/simpleGestures) - simpleGesture is Google Chrome extension.
-- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [tauri-apps/tauricon](https://github.com/tauri-apps/tauricon) - Make icons for your tauri app with nodejs
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) - The npm-style script runner for Deno
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
