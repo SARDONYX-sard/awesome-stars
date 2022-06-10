@@ -553,6 +553,7 @@
 
 ## Rust 
 
+- [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [lovasoa/json_in_type](https://github.com/lovasoa/json_in_type) - Fast json encoder in rust, that encodes the structure of JSON values in their types
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
@@ -811,7 +812,7 @@
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
-- [z-shell/zi](https://github.com/z-shell/zi) - 𝕋ℍ𝔼 𝕊𝕎𝕀𝕊𝕊 𝔸ℝ𝕄𝕐 𝕂ℕ𝕀𝔽𝔼 𝔽𝕆ℝ ℤ𝕊ℍ 𝕌ℕ𝕀𝕏 𝕊ℍ𝔼𝕃𝕃
+- [z-shell/zi](https://github.com/z-shell/zi) - 🧙‍♂️ A Swiss Army Knife for Zsh - Unix Shell
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
 - [loxygenK/dotfiles](https://github.com/loxygenK/dotfiles) - My own dotfiles.
@@ -833,6 +834,7 @@
 
 ## TypeScript 
 
+- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering, first class accessibility, and full TypeScript support.
 - [nazo6/nvim-types](https://github.com/nazo6/nvim-types) - 
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
