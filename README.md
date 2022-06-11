@@ -553,6 +553,8 @@
 
 ## Rust 
 
+- [daac-tools/vaporetto](https://github.com/daac-tools/vaporetto) - 🛥 Vaporetto: Very Accelerated POintwise pREdicTion based TOkenizer
+- [matklad/xshell](https://github.com/matklad/xshell) - 
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [lovasoa/json_in_type](https://github.com/lovasoa/json_in_type) - Fast json encoder in rust, that encodes the structure of JSON values in their types
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
