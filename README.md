@@ -30,6 +30,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [ReScript](#rescript)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -429,7 +430,6 @@
 ## OCaml 
 
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
-- [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml 🐫 🎮
 
 ## Others 
@@ -545,6 +545,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## ReScript 
+
+- [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
+
 ## Ruby 
 
 - [TakeshiOkamoto/mpp_react_crud](https://github.com/TakeshiOkamoto/mpp_react_crud) - Rails + React + AjaxでCRUDのサンプルプロジェクト。(学習用)
@@ -555,6 +559,8 @@
 
 ## Rust 
 
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [yoshitsugu/hariboteos_in_rust](https://github.com/yoshitsugu/hariboteos_in_rust) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
 - [gluon-lang/lsp-types](https://github.com/gluon-lang/lsp-types) - Types for communicating with a language server
@@ -655,7 +661,7 @@
 - [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
+- [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) - A Rust equivalent of Unix command "which".
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
@@ -841,6 +847,7 @@
 
 ## TypeScript 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [node-casl2-comet2/vscode-casl2-comet2](https://github.com/node-casl2-comet2/vscode-casl2-comet2) - CASL2/COMET2 support for Visual Studio Code
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering, first class accessibility, and full TypeScript support.
