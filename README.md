@@ -54,6 +54,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing Impersonation Privileges on Windows 10 and Server 2019
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -104,6 +105,7 @@
 
 ## C++ 
 
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) - LSP server that adds support for the High Level Assembler (HLASM) language to IDEs
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
@@ -434,6 +436,7 @@
 
 ## Others 
 
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [flano-yuki/http3-note](https://github.com/flano-yuki/http3-note) - My HTTP/3 Note
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -876,7 +879,7 @@
 - [tauri-apps/tauricon](https://github.com/tauri-apps/tauricon) - Make icons for your tauri app with nodejs
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) - The npm-style script runner for Deno
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
-- [qqhann/DevArms](https://github.com/qqhann/DevArms) - Tiny toolkit for developers. Runs offline and cross-platform.
+- [qqpann/DevArms](https://github.com/qqpann/DevArms) - Tiny toolkit for developers. Runs offline and cross-platform.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
