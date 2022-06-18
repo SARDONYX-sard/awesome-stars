@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Common Lisp](#common-lisp)
   - [Dockerfile](#dockerfile)
   - [Fortran](#fortran)
   - [Go](#go)
@@ -151,6 +152,10 @@
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+
+## Common Lisp 
+
+- [open-goal/jak-project](https://github.com/open-goal/jak-project) - Reviving the language that brought us the Jak & Daxter Series
 
 ## Dockerfile 
 
@@ -562,6 +567,8 @@
 
 ## Rust 
 
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system for the JavaScript ecosystem, written in Rust.
+- [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [yoshitsugu/hariboteos_in_rust](https://github.com/yoshitsugu/hariboteos_in_rust) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
