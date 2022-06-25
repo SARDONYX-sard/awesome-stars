@@ -55,6 +55,7 @@
 
 ## C 
 
+- [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing Impersonation Privileges on Windows 10 and Server 2019
@@ -862,6 +863,7 @@
 
 ## TypeScript 
 
+- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [node-casl2-comet2/vscode-casl2-comet2](https://github.com/node-casl2-comet2/vscode-casl2-comet2) - CASL2/COMET2 support for Visual Studio Code
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
