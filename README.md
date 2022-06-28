@@ -430,7 +430,6 @@
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Nunjucks 
@@ -465,6 +464,7 @@
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gedevan-Aleksizde/pandas-cheat-sheet-ja](https://github.com/Gedevan-Aleksizde/pandas-cheat-sheet-ja) - pandas 公式チートシートの非公式翻訳版
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [ABZ-Aaron/CheatSheets](https://github.com/ABZ-Aaron/CheatSheets) - Just a place to store cheatsheets
 - [mebiusbox/lab](https://github.com/mebiusbox/lab) - 
 - [IQAndreas/markdown-licenses](https://github.com/IQAndreas/markdown-licenses) - A collection of open source licenses in Markdown format. Contributions are always welcome!
@@ -733,7 +733,7 @@
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - a language server implementation for the WGSL shading language
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-- [siketyan/jpki-rs](https://github.com/siketyan/jpki-rs) - 🔐 WIP: A crate to communicate with JPKI card through an APDU delegate.
+- [siketyan/jpki-rs](https://github.com/siketyan/jpki-rs) - 🔐 WIP: Read certificates, sign and verify documents using your JPKI card.
 - [rust-num/num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
@@ -865,6 +865,7 @@
 
 ## TypeScript 
 
+- [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [takefumi-yoshii/nextjs-testing-strategy-2022](https://github.com/takefumi-yoshii/nextjs-testing-strategy-2022) - nextjs-testing-strategy-2022
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
