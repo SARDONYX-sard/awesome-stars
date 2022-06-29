@@ -45,6 +45,7 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
+  - [Zig](#zig)
 
 ## Assembly 
 
@@ -128,7 +129,6 @@
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [tommitytom/RetroPlug](https://github.com/tommitytom/RetroPlug) - A frontend for the SameBoy GameBoy emulator, with a focus on music creation. It runs standalone and can be used as an audio plugin (VST) in your favourite DAW!
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Ryan-rsm-McKenzie/QuickLootRE](https://github.com/Ryan-rsm-McKenzie/QuickLootRE) - 
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
@@ -518,6 +518,7 @@
 
 ## Python 
 
+- [peternguyen93/lldbinit](https://github.com/peternguyen93/lldbinit) - A fork version of lldbinit https://github.com/gdbinit/lldbinit
 - [gnikit/fortls](https://github.com/gnikit/fortls) - fortls - Fortran Language Server
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [Michael-F-Bryan/static-analyser-in-rust](https://github.com/Michael-F-Bryan/static-analyser-in-rust) - An experiment in using literate programming to write a static analysis tool in Rust
@@ -1018,6 +1019,10 @@
 - [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to C
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [uhyo/uhyohyo.net](https://github.com/uhyo/uhyohyo.net) - uhyohyo.net
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
