@@ -320,6 +320,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [electron-userland/spectron](https://github.com/electron-userland/spectron) - DEPRECATED: 🔎 Test Electron apps using ChromeDriver
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -580,6 +581,7 @@
 
 ## Rust 
 
+- [LykenSol/rust-demangle.c](https://github.com/LykenSol/rust-demangle.c) - C port of the Rust symbol demangler (rustc-demangle)
 - [simias/rustation](https://github.com/simias/rustation) - Playstation emulator in the Rust programing language
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -1027,7 +1029,6 @@
 
 ## Vue 
 
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [microcmsio/microcms-blog](https://github.com/microcmsio/microcms-blog) - microCMS official blog
 
 ## WebAssembly 
