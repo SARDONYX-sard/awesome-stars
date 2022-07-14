@@ -261,6 +261,7 @@
 
 ## JavaScript 
 
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) - A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda
 - [bpceee/oldest](https://github.com/bpceee/oldest) - Go to the oldest page of commits.
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
@@ -581,6 +582,8 @@
 
 ## Rust 
 
+- [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
+- [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [LykenSol/rust-demangle.c](https://github.com/LykenSol/rust-demangle.c) - C port of the Rust symbol demangler (rustc-demangle)
 - [simias/rustation](https://github.com/simias/rustation) - Playstation emulator in the Rust programing language
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
