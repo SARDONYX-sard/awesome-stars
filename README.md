@@ -49,6 +49,7 @@
 
 ## Assembly 
 
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [h-ohsaki/asm](https://github.com/h-ohsaki/asm) - 「独習アセンブラ 新版」(翔泳社) サポートページ
 - [oriansj/stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
@@ -57,6 +58,7 @@
 
 ## C 
 
+- [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Windows Driver
 - [Ninals-GitHub/TRON](https://github.com/Ninals-GitHub/TRON) - TRON(T-Kernel for x86)
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [macosforge/darwinbuild](https://github.com/macosforge/darwinbuild) - Darwinbuild is a collection of tools that assist compilation of the many projects contained in Darwin, the open source base of Apple's macOS operating system.
