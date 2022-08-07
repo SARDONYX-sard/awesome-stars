@@ -463,6 +463,7 @@
 
 ## Others 
 
+- [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) - List of Awesome Advanced Windows Exploitation References
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
@@ -696,7 +697,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management and authorization policy enforcement — at scale.
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management & authorization policy enforcement — at scale.
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
