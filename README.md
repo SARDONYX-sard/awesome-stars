@@ -57,6 +57,7 @@
 
 ## C 
 
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
 - [exo-lang/exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
@@ -617,6 +618,8 @@
 
 ## Rust 
 
+- [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
+- [moratorium08/osmium](https://github.com/moratorium08/osmium) - A toy operating system written in Rust on RISC V(rv32im)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [skyzh/core-os-riscv](https://github.com/skyzh/core-os-riscv) - 🖥️ An xv6-like operating system on RISC-V with multi-core support. Documentation available online.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
@@ -1060,7 +1063,7 @@
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
