@@ -42,6 +42,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vim Script](#vim-script)
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
@@ -475,6 +476,7 @@
 
 ## Others 
 
+- [tkmru/linux-insides-ja](https://github.com/tkmru/linux-insides-ja) - Japanese version of linux-insides book
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) - List of Awesome Advanced Windows Exploitation References
@@ -612,6 +614,7 @@
 
 ## Ruby 
 
+- [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
 - [TakeshiOkamoto/mpp_react_crud](https://github.com/TakeshiOkamoto/mpp_react_crud) - Rails + React + AjaxでCRUDのサンプルプロジェクト。(学習用)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
@@ -1052,7 +1055,7 @@
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
-- [urish/typewiz](https://github.com/urish/typewiz) - Automatically discover and add missing types in your TypeScript code
+- [mockdeep/typewiz](https://github.com/mockdeep/typewiz) - Automatically discover and add missing types in your TypeScript code
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Expressive TypeScript Logger for Node.js.
 - [TakuKobayashi/github-actions-examples](https://github.com/TakuKobayashi/github-actions-examples) - 
@@ -1079,9 +1082,12 @@
 - [thesugar/thesugar.me](https://github.com/thesugar/thesugar.me) - my personal website
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
 
-## Vim script 
+## Vim Script 
 
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
+
+## Vim script 
+
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
