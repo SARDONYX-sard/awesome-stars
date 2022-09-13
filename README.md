@@ -116,7 +116,7 @@
 - [naudio/NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter) - Pleasanter | Business application platform
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [wixtoolset/wix3](https://github.com/wixtoolset/wix3) - WiX Toolset v3.x
