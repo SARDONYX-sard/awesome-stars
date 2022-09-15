@@ -967,7 +967,7 @@
 
 ## TypeScript 
 
-- [preactjs/signals](https://github.com/preactjs/signals) - 
+- [preactjs/signals](https://github.com/preactjs/signals) - Managing state with style in every framework
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
