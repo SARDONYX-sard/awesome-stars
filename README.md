@@ -336,7 +336,7 @@
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [Hawkbat/SkyrimControlMapper](https://github.com/Hawkbat/SkyrimControlMapper) - A web-based tool for editing the controlmap.txt file for Skyrim key binding.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -401,7 +401,7 @@
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [MrRaindrop/tree-cli](https://github.com/MrRaindrop/tree-cli) - 🌴List contents of directories in tree-like format.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [cornerstonejs/cornerstoneTools](https://github.com/cornerstonejs/cornerstoneTools) - A framework for tools built on top of Cornerstone.
@@ -722,7 +722,7 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) - 
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
-- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system for the JavaScript ecosystem, written in Rust.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and repo management tool for the web ecosystem, written in Rust.
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [yoshitsugu/hariboteos_in_rust](https://github.com/yoshitsugu/hariboteos_in_rust) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
