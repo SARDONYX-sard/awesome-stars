@@ -506,7 +506,7 @@
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
@@ -848,6 +848,7 @@
 
 ## hacktoberfest 
 
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -1011,6 +1012,7 @@
 
 ## javascript 
 
+- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
@@ -1310,6 +1312,7 @@
 
 ## music 
 
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 
 ## mysql 
@@ -2013,7 +2016,7 @@
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 - [xcv58/Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website
@@ -2456,6 +2459,7 @@
 
 ## typescript 
 
+- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
