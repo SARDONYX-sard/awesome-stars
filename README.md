@@ -57,6 +57,7 @@
 
 ## Assembly 
 
+- [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [h-ohsaki/asm](https://github.com/h-ohsaki/asm) - 「独習アセンブラ 新版」(翔泳社) サポートページ
@@ -684,6 +685,7 @@
 
 ## Rust 
 
+- [bugzmanov/nes_ebook](https://github.com/bugzmanov/nes_ebook) - A mini book on writing NES emulator using rust lang
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
