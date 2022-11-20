@@ -844,7 +844,7 @@
 - [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) - A Rust equivalent of Unix command "which".
-- [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for GDNative
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
