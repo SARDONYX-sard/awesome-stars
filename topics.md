@@ -855,7 +855,6 @@
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
@@ -1474,6 +1473,7 @@
 - [redox-os/binutils-gdb](https://github.com/redox-os/binutils-gdb) - Mirror of https://gitlab.redox-os.org/redox-os/binutils-gdb
 - [joker1007/dotfiles](https://github.com/joker1007/dotfiles) - dotfiles置き場
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) - Working draft of the proposed RISC-V Bitmanipulation extension
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [eliben/code-for-blog](https://github.com/eliben/code-for-blog) - Code samples from my blog
 - [riscv/sail-riscv](https://github.com/riscv/sail-riscv) - Sail RISC-V model
