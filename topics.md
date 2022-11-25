@@ -743,12 +743,14 @@
 
 ## game-development 
 
+- [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 
 ## game-engine 
 
+- [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
 ## git 
@@ -775,6 +777,7 @@
 
 ## go 
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -806,6 +809,7 @@
 
 ## golang 
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -860,7 +864,6 @@
 ## hacktoberfest 
 
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
@@ -1465,6 +1468,8 @@
 
 ## others 
 
+- [rsd-devel/rsd](https://github.com/rsd-devel/rsd) - RSD: RISC-V Out-of-Order Superscalar Processor
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
 - [EnderHDMC/MHWISaveEditor](https://github.com/EnderHDMC/MHWISaveEditor) - An open-source save editor for Monster Hunter World : Iceborne
@@ -2475,6 +2480,7 @@
 
 ## typescript 
 
+- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
