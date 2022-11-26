@@ -621,6 +621,7 @@
 
 ## Python 
 
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [devicetree-org/devicetree-specification](https://github.com/devicetree-org/devicetree-specification) - Devicetree Specification document source files
@@ -690,6 +691,7 @@
 
 ## Rust 
 
+- [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [ykskb/rust-user-net](https://github.com/ykskb/rust-user-net) - User-space network protocol stack written in Rust
 - [bugzmanov/nes_ebook](https://github.com/bugzmanov/nes_ebook) - A mini book on writing NES emulator using rust lang
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
@@ -1052,6 +1054,7 @@
 
 ## TypeScript 
 
+- [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [NordicPlayground/vscode-nrf-devicetree](https://github.com/NordicPlayground/vscode-nrf-devicetree) - Devicetree syntax and language support for vscode
