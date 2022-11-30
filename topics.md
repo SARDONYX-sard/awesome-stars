@@ -930,7 +930,6 @@
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
-- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -985,7 +984,7 @@
 ## http 
 
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
-- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -2149,7 +2148,7 @@
 - [skyzh/core-os-riscv](https://github.com/skyzh/core-os-riscv) - 🖥️ An xv6-like operating system on RISC-V with multi-core support. Documentation available online.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
-- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
@@ -2340,7 +2339,7 @@
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) - Tool and framework for securely reading untrusted USB mass storage devices.
 - [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources
-- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
