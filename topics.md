@@ -384,6 +384,7 @@
 
 ## cli 
 
+- [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
@@ -1470,6 +1471,7 @@
 
 ## others 
 
+- [Xiphe/cachified](https://github.com/Xiphe/cachified) - wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [rsd-devel/rsd](https://github.com/rsd-devel/rsd) - RSD: RISC-V Out-of-Order Superscalar Processor
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
@@ -2121,6 +2123,7 @@
 
 ## rust 
 
+- [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [ykskb/rust-user-net](https://github.com/ykskb/rust-user-net) - User-space network protocol stack written in Rust
 - [bugzmanov/nes_ebook](https://github.com/bugzmanov/nes_ebook) - A mini book on writing NES emulator using rust lang
