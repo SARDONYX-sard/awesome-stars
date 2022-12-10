@@ -844,7 +844,7 @@
 
 ## google-cloud 
 
-- [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) - This action configures authentication to a GKE cluster.
+- [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) - A GitHub Action that configure authentication to a GKE cluster.
 - [googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) - 🔑 Google Auth Library for Node.js
 
 ## graphql 
@@ -1165,7 +1165,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
-- [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) - This action configures authentication to a GKE cluster.
+- [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) - A GitHub Action that configure authentication to a GKE cluster.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
