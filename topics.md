@@ -1484,6 +1484,8 @@
 
 ## others 
 
+- [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [redox-os/kernel](https://github.com/redox-os/kernel) - Mirror of https://gitlab.redox-os.org/redox-os/kernel
 - [Qudix/QUI-SKSE](https://github.com/Qudix/QUI-SKSE) - Various UI tools, tweaks, and fixes
 - [Xiphe/cachified](https://github.com/Xiphe/cachified) - wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
