@@ -51,7 +51,6 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [electron](#electron)
-- [elixir](#elixir)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
@@ -655,10 +654,6 @@
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 
-## elixir 
-
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
-
 ## emoji 
 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -1084,7 +1079,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-- [yashash1511/win11Settings](https://github.com/yashash1511/win11Settings) - Windows 11 settings app recreated with React.
+- [yashash-pugalia/win11-settings](https://github.com/yashash-pugalia/win11-settings) - Windows 11 settings app recreated with React.
 - [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
@@ -1219,6 +1214,7 @@
 
 ## linux 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) - [MIRROR] Alpine package manager
 - [tkmru/linux-insides-ja](https://github.com/tkmru/linux-insides-ja) - Japanese version of linux-insides book
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -1281,6 +1277,7 @@
 
 ## macos 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2056,7 +2053,7 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
-- [yashash1511/win11Settings](https://github.com/yashash1511/win11Settings) - Windows 11 settings app recreated with React.
+- [yashash-pugalia/win11-settings](https://github.com/yashash-pugalia/win11-settings) - Windows 11 settings app recreated with React.
 - [craig1123/react-recipes](https://github.com/craig1123/react-recipes) - 👩‍🍳 A list of React Hooks utility library containing popular customized hooks
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
@@ -2347,7 +2344,7 @@
 ## sass 
 
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
-- [yashash1511/win11Settings](https://github.com/yashash1511/win11Settings) - Windows 11 settings app recreated with React.
+- [yashash-pugalia/win11-settings](https://github.com/yashash-pugalia/win11-settings) - Windows 11 settings app recreated with React.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 
@@ -2662,6 +2659,7 @@
 
 ## windows 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
