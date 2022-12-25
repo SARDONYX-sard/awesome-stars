@@ -695,6 +695,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [redox-os/kernel](https://github.com/redox-os/kernel) - Mirror of https://gitlab.redox-os.org/redox-os/kernel
@@ -1000,7 +1001,7 @@
 ## SCSS 
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-- [yashash1511/win11Settings](https://github.com/yashash1511/win11Settings) - Windows 11 settings app recreated with React.
+- [yashash-pugalia/win11-settings](https://github.com/yashash-pugalia/win11-settings) - Windows 11 settings app recreated with React.
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
