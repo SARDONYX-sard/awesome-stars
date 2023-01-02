@@ -386,6 +386,7 @@
 
 ## cli 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -1487,6 +1488,7 @@
 
 ## others 
 
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [chyyuu/os_course_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
@@ -1895,6 +1897,7 @@
 
 ## package-manager 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) - [MIRROR] Alpine package manager
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
