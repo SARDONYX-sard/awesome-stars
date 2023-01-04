@@ -1155,7 +1155,6 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
-- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 
 ## julia 
@@ -1493,6 +1492,7 @@
 
 ## others 
 
+- [winsecurity/Offensive-Rust](https://github.com/winsecurity/Offensive-Rust) - 
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [chyyuu/os_course_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -1675,7 +1675,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter) - Pleasanter is a no-code/low-code development platform that runs on .NET.
+- [Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter) - Pleasanter is a no-code/low-code development platform that runs on .NET. You can quickly create business applications with simple operations.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [tauri-apps/tauricon](https://github.com/tauri-apps/tauricon) - Make icons for your tauri app with nodejs
@@ -2154,6 +2154,7 @@
 
 ## rust 
 
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -2438,6 +2439,7 @@
 
 ## sql 
 
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
