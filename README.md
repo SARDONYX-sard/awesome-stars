@@ -289,7 +289,6 @@
 ## HTML 
 
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [rust-lang/stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library vendor-specific APIs and run-time feature detection
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [TimothyGu/es-howto](https://github.com/TimothyGu/es-howto) - How to read the ECMAScript specification (ECMA-262)
@@ -339,6 +338,7 @@
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) - A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda
 - [bpceee/oldest](https://github.com/bpceee/oldest) - Go to the oldest page of commits.
@@ -803,7 +803,7 @@
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [ratel-rust/toolshed](https://github.com/ratel-rust/toolshed) - Arena allocator and a handful of useful data structures
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) - 
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
