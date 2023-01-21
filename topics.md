@@ -1497,6 +1497,7 @@
 
 ## others 
 
+- [GaloisInc/daedalus](https://github.com/GaloisInc/daedalus) - The Daedalus data description language
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [google/evcxr](https://github.com/google/evcxr) - 
 - [fay59/x86doc](https://github.com/fay59/x86doc) - HTML representation of the Intel x86 instructions documentation.
