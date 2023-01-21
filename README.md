@@ -316,6 +316,7 @@
 
 ## Haskell 
 
+- [GaloisInc/daedalus](https://github.com/GaloisInc/daedalus) - The Daedalus data description language
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
