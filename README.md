@@ -523,6 +523,7 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 
 ## Nunjucks 
 
@@ -870,7 +871,7 @@
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
@@ -1055,7 +1056,6 @@
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
 - [loxygenK/dotfiles](https://github.com/loxygenK/dotfiles) - My own dotfiles.
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [jraleman/42](https://github.com/jraleman/42) - Repository of all my work during the program of Ecole 42 SIlicon Valley; a private, project-based and tuition-free coding school.
 - [LumaKernel/dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
