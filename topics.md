@@ -22,6 +22,7 @@
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -365,6 +366,10 @@
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to C
 - [qrush/unix](https://github.com/qrush/unix) - Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
+
+## chatgpt 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## chrome 
 
