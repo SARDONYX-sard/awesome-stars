@@ -329,6 +329,7 @@
 
 ## Java 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
@@ -708,6 +709,7 @@
 
 ## Rust 
 
+- [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
 - [dalance/veryl](https://github.com/dalance/veryl) - Veryl: A Modern Hardware Description Language
 - [akaza-im/akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
@@ -857,7 +859,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana-maintained on-chain programs
+- [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
