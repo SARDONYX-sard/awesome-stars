@@ -1510,6 +1510,7 @@
 
 ## others 
 
+- [neogulcity/HotkeysSystem](https://github.com/neogulcity/HotkeysSystem) - UI-Integrated Hotkeys System for Skyrim Special Edition
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
 - [GaloisInc/daedalus](https://github.com/GaloisInc/daedalus) - The Daedalus data description language
