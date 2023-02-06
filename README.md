@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [neogulcity/HotkeysSystem](https://github.com/neogulcity/HotkeysSystem) - UI-Integrated Hotkeys System for Skyrim Special Edition
 - [Qudix/QUI-SKSE](https://github.com/Qudix/QUI-SKSE) - Various UI tools, tweaks, and fixes
 - [EnderHDMC/MHWISaveEditor](https://github.com/EnderHDMC/MHWISaveEditor) - An open-source save editor for Monster Hunter World : Iceborne
 - [CharmedBaryon/CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG) - This is a reverse engineered library for Skyrim Special Edition and Skyrim VR.
