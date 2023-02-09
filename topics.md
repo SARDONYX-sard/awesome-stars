@@ -2186,6 +2186,7 @@
 
 ## rust 
 
+- [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
 - [dalance/veryl](https://github.com/dalance/veryl) - Veryl: A Modern Hardware Description Language
 - [akaza-im/akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
