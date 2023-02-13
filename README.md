@@ -1091,6 +1091,7 @@
 
 ## TypeScript 
 
+- [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
