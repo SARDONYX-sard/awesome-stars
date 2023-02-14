@@ -77,7 +77,7 @@
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
-- [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux and Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
+- [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [redox-os/binutils-gdb](https://github.com/redox-os/binutils-gdb) - Mirror of https://gitlab.redox-os.org/redox-os/binutils-gdb
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) - [MIRROR] Alpine package manager
@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 - [neogulcity/HotkeysSystem](https://github.com/neogulcity/HotkeysSystem) - UI-Integrated Hotkeys System for Skyrim Special Edition
 - [Qudix/QUI-SKSE](https://github.com/Qudix/QUI-SKSE) - Various UI tools, tweaks, and fixes
 - [EnderHDMC/MHWISaveEditor](https://github.com/EnderHDMC/MHWISaveEditor) - An open-source save editor for Monster Hunter World : Iceborne
@@ -292,6 +293,7 @@
 
 ## HTML 
 
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [rust-lang/stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library vendor-specific APIs and run-time feature detection
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -307,7 +309,7 @@
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ics-creative/210414_requestAnimationFrame](https://github.com/ics-creative/210414_requestAnimationFrame) - 
 - [sergioramos/remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism
 - [node4good/lodash-contrib](https://github.com/node4good/lodash-contrib) - The brass buckles on lodash's utility belt
@@ -316,6 +318,7 @@
 
 ## Handlebars 
 
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [rustwasm/book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 
 ## Haskell 
@@ -860,7 +863,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Trust data-in-motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure by design applications that can trust all data in motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcemen
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
