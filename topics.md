@@ -462,6 +462,7 @@
 
 ## compiler 
 
+- [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [hlorenzi/customasm](https://github.com/hlorenzi/customasm) - 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
@@ -625,6 +626,7 @@
 
 ## docker 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
 - [cvpaperchallenge/Ascender](https://github.com/cvpaperchallenge/Ascender) - Accelerator of Scientific Development and Research. A project template developed by XCCV group of cvpaper.challenge.
@@ -1192,6 +1194,7 @@
 
 ## kubernetes 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -1287,6 +1290,7 @@
 
 ## lua 
 
+- [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -1524,6 +1528,7 @@
 
 ## others 
 
+- [svermeulen/nvim-teal-maker](https://github.com/svermeulen/nvim-teal-maker) - Neovim plugin that adds plugin support for teal language
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
 - [neogulcity/HotkeysSystem](https://github.com/neogulcity/HotkeysSystem) - UI-Integrated Hotkeys System for Skyrim Special Edition
@@ -1531,7 +1536,7 @@
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
 - [GaloisInc/daedalus](https://github.com/GaloisInc/daedalus) - The Daedalus data description language
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [google/evcxr](https://github.com/google/evcxr) - 
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [fay59/x86doc](https://github.com/fay59/x86doc) - HTML representation of the Intel x86 instructions documentation.
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
 - [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
@@ -1559,7 +1564,7 @@
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [devicetree-org/devicetree-specification](https://github.com/devicetree-org/devicetree-specification) - Devicetree Specification document source files
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
-- [shreyaschavhan/oscp-pre-preparation-plan-and-notes](https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes) - My OSCP Pre-Preparation Phase. I'm not sure if I'll be able to afford the exam but what count's trying and learning things. I'm gonna give it a try.  [Start Date: 21st March 2022]
+- [shreyaschavhan/oscp-pre-preparation-plan-and-notes](https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes) - My OSCP Pre-Preparation Phase. I'm not sure if I'll be able to afford the exam but what count's trying and learning things. I'm gonna give it a try.  [Start Date: 21st March 2022] Edit: I never bought
 - [redox-os/binutils-gdb](https://github.com/redox-os/binutils-gdb) - Mirror of https://gitlab.redox-os.org/redox-os/binutils-gdb
 - [joker1007/dotfiles](https://github.com/joker1007/dotfiles) - dotfiles置き場
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) - Working draft of the proposed RISC-V Bitmanipulation extension
@@ -2433,6 +2438,7 @@
 
 ## security 
 
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) - Tool and framework for securely reading untrusted USB mass storage devices.
