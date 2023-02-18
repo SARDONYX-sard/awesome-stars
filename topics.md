@@ -1528,6 +1528,8 @@
 
 ## others 
 
+- [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [svermeulen/nvim-teal-maker](https://github.com/svermeulen/nvim-teal-maker) - Neovim plugin that adds plugin support for teal language
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
