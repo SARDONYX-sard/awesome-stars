@@ -559,6 +559,7 @@
 
 ## data 
 
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
@@ -569,6 +570,7 @@
 
 ## data-structures 
 
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [japaric/heapless](https://github.com/japaric/heapless) - Heapless, `static` friendly data structures
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -2221,6 +2223,7 @@
 
 ## rust 
 
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing).
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of "Hypervisor 101 in Rust", a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors.
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
@@ -2726,6 +2729,7 @@
 
 ## web 
 
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
