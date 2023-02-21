@@ -49,6 +49,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
+- [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
@@ -1267,6 +1268,10 @@
 ## VHDL 
 
 - [stnolting/neorv32](https://github.com/stnolting/neorv32) - 🖥️ A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
+
+## Vala 
+
+- [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
 
 ## Vim Script 
 
