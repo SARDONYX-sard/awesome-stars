@@ -722,6 +722,7 @@
 
 ## Rust 
 
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing).
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -1028,7 +1029,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
-- [rust-lang/fmt-rfcs](https://github.com/rust-lang/fmt-rfcs) - RFCs for Rust formatting guidelines and changes to Rustfmt
+- [rust-lang/style-team](https://github.com/rust-lang/style-team) - RFCs for Rust formatting guidelines and changes to Rustfmt
 - [yoshd/stun-client](https://github.com/yoshd/stun-client) - A simple async-std-based STUN client written in Rust
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
