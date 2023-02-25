@@ -348,6 +348,8 @@
 
 ## JavaScript 
 
+- [brandonmp/gatsby-source-google-sheets](https://github.com/brandonmp/gatsby-source-google-sheets) - A GatsbyJS plugin that pulls nodes from rows in a Google Sheet.
+- [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
@@ -631,6 +633,7 @@
 
 ## PowerShell 
 
+- [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please buy me a coffee :) https://www.buymeacoffee.com/powershellisfun
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
@@ -648,6 +651,7 @@
 
 ## Python 
 
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [fay59/x86doc](https://github.com/fay59/x86doc) - HTML representation of the Intel x86 instructions documentation.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -722,6 +726,8 @@
 
 ## Rust 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing).
@@ -1107,6 +1113,8 @@
 
 ## TypeScript 
 
+- [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that utilizes the power of CSS animations to create silky smooth marquees.
+- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
