@@ -76,6 +76,7 @@
 
 ## C 
 
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
@@ -440,7 +441,7 @@
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [MrRaindrop/tree-cli](https://github.com/MrRaindrop/tree-cli) - 🌴List contents of directories in tree-like format.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [cornerstonejs/cornerstoneTools](https://github.com/cornerstonejs/cornerstoneTools) - A framework for tools built on top of Cornerstone.
@@ -732,6 +733,7 @@
 
 ## Rust 
 
+- [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
