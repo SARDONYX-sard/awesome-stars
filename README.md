@@ -555,6 +555,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 - [matklad/cargo-xtask](https://github.com/matklad/cargo-xtask) - 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -728,12 +729,14 @@
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
 - [TakeshiOkamoto/mpp_react_crud](https://github.com/TakeshiOkamoto/mpp_react_crud) - Rails + React + AjaxでCRUDのサンプルプロジェクト。(学習用)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
-- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mixi-inc/RubyTraining](https://github.com/mixi-inc/RubyTraining) - Ruby training course for new employees
 
 ## Rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
