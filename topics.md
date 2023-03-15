@@ -645,6 +645,7 @@
 
 ## docker 
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
@@ -1836,7 +1837,6 @@
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [LoliGothick/mitama-cpp-result](https://github.com/LoliGothick/mitama-cpp-result) - A Library that provides `result&lt;T, E&gt;` and `maybe&lt;T&gt;` and monadic functions for them.
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Blindingly quick parsers for humans with expressive errors, powerful recovery, zero-copy parsing, built-in span support, and much more. All in an easy to use package.
 - [iarna/iarna-toml](https://github.com/iarna/iarna-toml) - Better TOML parsing and stringifying all in that familiar JSON interface.
 - [uhyo/css-grid-quiz](https://github.com/uhyo/css-grid-quiz) - 
 - [DmitrySoshnikov/syntax](https://github.com/DmitrySoshnikov/syntax) - Syntactic analysis toolkit, language-agnostic parser generator.
@@ -2032,6 +2032,7 @@
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 
 ## php 
@@ -2347,7 +2348,7 @@
 - [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [maekawatoshiki/rucc](https://github.com/maekawatoshiki/rucc) - rucc is a tiny toy C compiler in Rust.
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [japaric/heapless](https://github.com/japaric/heapless) - Heapless, `static` friendly data structures
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
