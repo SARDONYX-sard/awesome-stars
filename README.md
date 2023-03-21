@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [microsoft/win32metadata](https://github.com/microsoft/win32metadata) - Tooling to generate metadata for Win32 APIs in the Windows SDK.
 - [lfortran/lfortran](https://github.com/lfortran/lfortran) - Official main repository for LFortran
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 - [neogulcity/HotkeysSystem](https://github.com/neogulcity/HotkeysSystem) - UI-Integrated Hotkeys System for Skyrim Special Edition
@@ -178,7 +179,7 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [thezdi/PoC](https://github.com/thezdi/PoC) - Proofs-of-concept
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) - HLASM Language Support is an LSP extension that adds support for the High Level Assembler language to IDEs
+- [eclipse-che4z/che-che4z-lsp-for-hlasm](https://github.com/eclipse-che4z/che-che4z-lsp-for-hlasm) - HLASM Language Support is an LSP extension that adds support for the High Level Assembler language to IDEs
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
@@ -661,6 +662,7 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
