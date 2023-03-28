@@ -155,6 +155,7 @@
 
 ## C++ 
 
+- [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
 - [microsoft/win32metadata](https://github.com/microsoft/win32metadata) - Tooling to generate metadata for Win32 APIs in the Windows SDK.
 - [lfortran/lfortran](https://github.com/lfortran/lfortran) - Official main repository for LFortran
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
@@ -192,7 +193,7 @@
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [himika/libSkyrim](https://github.com/himika/libSkyrim) - A library to make SKSE plugin easy
-- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind — Seamless operability between C++17 and Python
+- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [tommitytom/RetroPlug](https://github.com/tommitytom/RetroPlug) - A frontend for the SameBoy GameBoy emulator, with a focus on music creation. It runs standalone and can be used as an audio plugin (VST) in your favourite DAW!
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -981,7 +982,7 @@
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, tui, and more.
 - [bluss/indexmap](https://github.com/bluss/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [jochasinga/systemd-parser](https://github.com/jochasinga/systemd-parser) - A minimal Systemd unit file parser
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
