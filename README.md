@@ -355,6 +355,7 @@
 
 ## JavaScript 
 
+- [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [brandonmp/gatsby-source-google-sheets](https://github.com/brandonmp/gatsby-source-google-sheets) - A GatsbyJS plugin that pulls nodes from rows in a Google Sheet.
@@ -1043,7 +1044,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
-- [Kenta11/px86_in_rust](https://github.com/Kenta11/px86_in_rust) - Simple x86 emulator in Rust
+- [Kenta11/px86_in_rust](https://github.com/Kenta11/px86_in_rust) - A simple x86 emulator in Rust
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
