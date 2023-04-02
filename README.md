@@ -186,7 +186,7 @@
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
-- [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - A set of libraries and SDKs that empower Creation Engine network functionality🐉
+- [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - Multiplayer Mod & TypeScript SDK for Skyrim Special Edition
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
@@ -915,7 +915,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can Trust Data-in-Motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — 
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design 
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
