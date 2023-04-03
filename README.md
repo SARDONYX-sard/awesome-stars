@@ -1012,7 +1012,6 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [retep998/winapi-rs](https://github.com/retep998/winapi-rs) - Rust bindings to Windows API
 - [h3r2tic/h3keys3](https://github.com/h3r2tic/h3keys3) - Colemak keyboard layout + custom key layers + mouse utils
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Rust implementation of autonomous distributed key-value store which has REST interfaces
