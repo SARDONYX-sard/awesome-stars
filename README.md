@@ -77,6 +77,7 @@
 
 ## C 
 
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [TheRealOrange/icer_compression](https://github.com/TheRealOrange/icer_compression) - Progressive, error tolerant, wavelet-based image compression algorithm
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
@@ -744,6 +745,7 @@
 
 ## Rust 
 
+- [xfbs/imstr](https://github.com/xfbs/imstr) - Immutable strings, in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Alignof/carron](https://github.com/Alignof/carron) - RV64IMAC emulator
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
