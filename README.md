@@ -747,6 +747,7 @@
 
 ## Rust 
 
+- [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
 - [xfbs/imstr](https://github.com/xfbs/imstr) - Immutable strings, in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Alignof/carron](https://github.com/Alignof/carron) - RV64IMAC emulator
