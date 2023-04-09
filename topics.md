@@ -140,6 +140,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -958,6 +959,7 @@
 
 ## hacktoberfest 
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
@@ -2083,6 +2085,13 @@
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+
+## penetration-testing 
+
+- [ihebski/A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
 
 ## php 
 
