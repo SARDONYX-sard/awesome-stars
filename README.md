@@ -654,6 +654,7 @@
 
 ## PowerShell 
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
