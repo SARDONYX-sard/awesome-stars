@@ -218,6 +218,7 @@
 
 ## CSS 
 
+- [ArthurChiao/arthurchiao.github.io](https://github.com/ArthurChiao/arthurchiao.github.io) - repo for my blog
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -324,7 +325,7 @@
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ics-creative/210414_requestAnimationFrame](https://github.com/ics-creative/210414_requestAnimationFrame) - 
 - [sergioramos/remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism
 - [node4good/lodash-contrib](https://github.com/node4good/lodash-contrib) - The brass buckles on lodash's utility belt
@@ -673,6 +674,7 @@
 
 ## Python 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -750,6 +752,7 @@
 
 ## Rust 
 
+- [KOBA789/relly](https://github.com/KOBA789/relly) - RDBMS のしくみを学ぶための小さな RDBMS 実装
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [Wodann/io-bluetooth-rs](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) - Advanced configuration options for sockets.
@@ -996,7 +999,7 @@
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, tui, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [bluss/indexmap](https://github.com/bluss/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [jochasinga/systemd-parser](https://github.com/jochasinga/systemd-parser) - A minimal Systemd unit file parser
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
