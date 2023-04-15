@@ -309,6 +309,7 @@
 
 ## HTML 
 
+- [kaityo256/sevendayshpc](https://github.com/kaityo256/sevendayshpc) - 一週間でなれる！スパコンプログラマ
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [rust-lang/stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library vendor-specific APIs and run-time feature detection
