@@ -1628,6 +1628,9 @@
 
 ## others 
 
+- [syuu1228/howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor) - Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ
+- [ohadravid/wmi-rs](https://github.com/ohadravid/wmi-rs) - WMI crate for rust
+- [bg1bgst333/Sample](https://github.com/bg1bgst333/Sample) - Sample Program
 - [not-matthias/amd_hypervisor](https://github.com/not-matthias/amd_hypervisor) - AMD Hypervisor written writh Rust.
 - [ArthurChiao/arthurchiao.github.io](https://github.com/ArthurChiao/arthurchiao.github.io) - repo for my blog
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
