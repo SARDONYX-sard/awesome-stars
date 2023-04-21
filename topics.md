@@ -1693,7 +1693,7 @@
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [devicetree-org/devicetree-specification](https://github.com/devicetree-org/devicetree-specification) - Devicetree Specification document source files
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
-- [shreyaschavhan/oscp-pre-preparation-plan-and-notes](https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes) - My OSCP Pre-Preparation Phase. I'm not sure if I'll be able to afford the exam but what count's trying and learning things. I'm gonna give it a try.  [Start Date: 21st March 2022] Edit: I never bought
+- [shreyaschavhan/oscp-pre-preparation-plan-and-notes](https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes) - My OSCP Pre-Preparation Phase. I'm not sure if I'll be able to afford the exam but what count's trying and learning things. I'm gonna give it a try.  [Start Date: 21st March 2022]
 - [redox-os/binutils-gdb](https://github.com/redox-os/binutils-gdb) - Mirror of https://gitlab.redox-os.org/redox-os/binutils-gdb
 - [joker1007/dotfiles](https://github.com/joker1007/dotfiles) - dotfiles置き場
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) - Working draft of the proposed RISC-V Bitmanipulation extension
