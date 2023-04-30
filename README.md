@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [didi/sharingan](https://github.com/didi/sharingan) - Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -312,6 +313,7 @@
 
 ## HTML 
 
+- [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 - [kaityo256/sevendayshpc](https://github.com/kaityo256/sevendayshpc) - 一週間でなれる！スパコンプログラマ
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) - Application Binary Interface for the Arm® Architecture
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -678,6 +680,7 @@
 
 ## Python 
 
+- [TheWeirdDev/Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) - A python script to get battery level from Bluetooth headsets
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
