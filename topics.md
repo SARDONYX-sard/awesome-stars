@@ -2387,6 +2387,7 @@
 
 ## rust 
 
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [nvzqz/static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust
