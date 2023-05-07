@@ -762,6 +762,7 @@
 
 ## Rust 
 
+- [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
