@@ -77,6 +77,7 @@
 
 ## C 
 
+- [C-Chads/tinycc](https://github.com/C-Chads/tinycc) - C-Chads Maintained fork of Tiny C Compiler, regularly pulled from https://repo.or.cz/w/tinycc.git
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
@@ -137,6 +138,7 @@
 
 ## C# # 
 
+- [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
 - [microsoft/busiotools](https://github.com/microsoft/busiotools) - Tools for debugging and testing io buses for Windows
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -575,6 +577,7 @@
 
 ## Others 
 
+- [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
@@ -763,6 +766,7 @@
 
 ## Rust 
 
+- [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -1130,6 +1134,7 @@
 
 ## Scala 
 
+- [chadyuu/riscv-chisel-book](https://github.com/chadyuu/riscv-chisel-book) - 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 - [debasishg/frdomain](https://github.com/debasishg/frdomain) - Code repo for Functional and Reactive Domain Modeling
