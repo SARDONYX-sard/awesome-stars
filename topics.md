@@ -840,7 +840,7 @@
 ## game 
 
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - A monorepo for SkyMP, SkyrimPlatform, and the SkyMP server called SweetRoll
+- [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - A monorepo for SkyMP, SkyrimPlatform, and the SkyMP server called SweetTaffy
 
 ## game-development 
 
