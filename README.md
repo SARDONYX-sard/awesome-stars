@@ -1188,6 +1188,7 @@
 
 ## TypeScript 
 
+- [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
 - [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
