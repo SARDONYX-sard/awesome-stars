@@ -7,6 +7,7 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -70,8 +71,13 @@
 - [DQNEO/goas](https://github.com/DQNEO/goas) - port of GNU Assembler written in go
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ## C 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [C-Chads/tinycc](https://github.com/C-Chads/tinycc) - C-Chads Maintained fork of Tiny C Compiler, regularly pulled from https://repo.or.cz/w/tinycc.git
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
@@ -762,6 +768,7 @@
 
 ## Rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler
 - [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
@@ -771,7 +778,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [ohadravid/wmi-rs](https://github.com/ohadravid/wmi-rs) - WMI crate for rust
 - [not-matthias/amd_hypervisor](https://github.com/not-matthias/amd_hypervisor) - AMD Hypervisor written writh Rust.
@@ -1329,7 +1336,6 @@
 - [ics-creative/project-japanese-proofreading](https://github.com/ics-creative/project-japanese-proofreading) - テキストファイルやMarkdownファイルの日本語の文章をチェックするVS Codeの拡張機能
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
