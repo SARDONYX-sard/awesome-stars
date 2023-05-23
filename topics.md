@@ -1668,6 +1668,7 @@
 
 ## others 
 
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2023年春季OS课程Slides
 - [ataradov/riscv](https://github.com/ataradov/riscv) - Verilog implementation of a RISC-V core
 - [intelxed/xed](https://github.com/intelxed/xed) - x86 encoder decoder
 - [k0kubun/ruby-jit-challenge](https://github.com/k0kubun/ruby-jit-challenge) - Tutorial to write a Ruby JIT
