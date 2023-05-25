@@ -1671,6 +1671,8 @@
 
 ## others 
 
+- [rust-embedded/riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
+- [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2023年春季OS课程Slides
 - [ataradov/riscv](https://github.com/ataradov/riscv) - Verilog implementation of a RISC-V core
@@ -1911,7 +1913,6 @@
 - [Implem/Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter) - Pleasanter is a no-code/low-code development platform that runs on .NET. You can quickly create business applications with simple operations.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
-- [tauri-apps/tauricon](https://github.com/tauri-apps/tauricon) - Make icons for your tauri app with nodejs
 - [YukiOnishi1129/go-docker-restapi-sample](https://github.com/YukiOnishi1129/go-docker-restapi-sample) - golang docker REST APIのサンプル
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
