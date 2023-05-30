@@ -1478,7 +1478,7 @@
 
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
+- [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
@@ -1677,6 +1677,7 @@
 
 ## others 
 
+- [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 - [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [rust-embedded/riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
@@ -2302,6 +2303,7 @@
 
 ## react 
 
+- [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
