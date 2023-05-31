@@ -1406,6 +1406,7 @@
 
 ## Vue 
 
+- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [microcmsio/microcms-blog](https://github.com/microcmsio/microcms-blog) - microCMS official blog
 
