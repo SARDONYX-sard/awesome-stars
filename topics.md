@@ -1678,6 +1678,7 @@
 
 ## others 
 
+- [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [ThomasJaeger/VisualMASM](https://github.com/ThomasJaeger/VisualMASM) - Visual MASM - Assembly IDE for Microsoft MASM
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
@@ -2452,7 +2453,7 @@
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
-- [nvzqz/static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust
+- [nvzqz/static-assertions](https://github.com/nvzqz/static-assertions) - Ensure correct assumptions about constants, types, and more in Rust
 - [KOBA789/relly](https://github.com/KOBA789/relly) - RDBMS のしくみを学ぶための小さな RDBMS 実装
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [xfbs/imstr](https://github.com/xfbs/imstr) - Immutable strings, in Rust.
@@ -2859,7 +2860,7 @@
 ## testing 
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [nvzqz/static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust
+- [nvzqz/static-assertions](https://github.com/nvzqz/static-assertions) - Ensure correct assumptions about constants, types, and more in Rust
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
