@@ -576,6 +576,7 @@
 
 ## Others 
 
+- [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -800,7 +801,7 @@
 - [ohadravid/wmi-rs](https://github.com/ohadravid/wmi-rs) - WMI crate for rust
 - [not-matthias/amd_hypervisor](https://github.com/not-matthias/amd_hypervisor) - AMD Hypervisor written writh Rust.
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
-- [nvzqz/static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust
+- [nvzqz/static-assertions](https://github.com/nvzqz/static-assertions) - Ensure correct assumptions about constants, types, and more in Rust
 - [KOBA789/relly](https://github.com/KOBA789/relly) - RDBMS のしくみを学ぶための小さな RDBMS 実装
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [Wodann/io-bluetooth-rs](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
