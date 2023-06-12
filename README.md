@@ -156,11 +156,12 @@
 - [buchizo/ClaudiaIDE](https://github.com/buchizo/ClaudiaIDE) - This extension can change easily the background image of editor window in Visual Studio.
 - [AsteriskAmpersand/MHW-Save-Editor](https://github.com/AsteriskAmpersand/MHW-Save-Editor) - MHW Save Editor - Currently Includes Steam ID, Investigations and Inventory
 - [LanceMcCarthy/UwpProjects](https://github.com/LanceMcCarthy/UwpProjects) - A set of UWP controls and utilities
-- [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - *Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.
+- [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - An example of how to use the Tilia packages to create great content with VRTK v4.
 - [Dawnshifter/MHXXSwitchSaveEditor](https://github.com/Dawnshifter/MHXXSwitchSaveEditor) - A save editor for Monster Hunter XX Switch and 3DS versions
 
 ## C++ 
 
+- [nholthaus/win-bluetooth](https://github.com/nholthaus/win-bluetooth) - A set of modern c++ classes for using bluetooth on windows
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
@@ -380,7 +381,7 @@
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [brandonmp/gatsby-source-google-sheets](https://github.com/brandonmp/gatsby-source-google-sheets) - A GatsbyJS plugin that pulls nodes from rows in a Google Sheet.
 - [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -778,8 +779,9 @@
 
 ## Rust 
 
+- [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
-- [memN0ps/bootkit-rs](https://github.com/memN0ps/bootkit-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust
+- [memN0ps/bootkit-rs](https://github.com/memN0ps/bootkit-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
@@ -1224,6 +1226,7 @@
 
 ## TypeScript 
 
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
