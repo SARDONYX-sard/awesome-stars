@@ -249,7 +249,7 @@
 ## api 
 
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
@@ -831,7 +831,7 @@
 ## framework 
 
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
@@ -974,7 +974,7 @@
 
 ## graphql 
 
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -1602,7 +1602,7 @@
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
@@ -1682,6 +1682,7 @@
 
 ## others 
 
+- [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [nholthaus/win-bluetooth](https://github.com/nholthaus/win-bluetooth) - A set of modern c++ classes for using bluetooth on windows
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
@@ -2168,7 +2169,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
 ## parsing 
 
@@ -2449,6 +2450,7 @@
 
 ## rust 
 
+- [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [memN0ps/bootkit-rs](https://github.com/memN0ps/bootkit-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -2904,7 +2906,7 @@
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
@@ -3097,7 +3099,7 @@
 - [spyoungtech/ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [LumaKernel/dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
