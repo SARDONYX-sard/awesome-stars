@@ -63,6 +63,7 @@
 
 ## Assembly 
 
+- [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
@@ -584,6 +585,7 @@
 
 ## Others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
@@ -782,6 +784,7 @@
 
 ## Rust 
 
+- [microsoft/rusty-radamsa](https://github.com/microsoft/rusty-radamsa) - Radamsa fuzzer ported to rust lang
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
