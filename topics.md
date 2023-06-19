@@ -494,6 +494,7 @@
 
 ## compiler 
 
+- [v420v/vas](https://github.com/v420v/vas) - Self-hosted x86-64 Assembler written in V
 - [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -1330,6 +1331,7 @@
 
 ## language 
 
+- [v420v/vas](https://github.com/v420v/vas) - Self-hosted x86-64 Assembler written in V
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1665,6 +1667,7 @@
 
 ## operating-system 
 
+- [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
 - [rcore-os/arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust.
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC-V in Rust from scratch!
@@ -1683,6 +1686,7 @@
 
 ## others 
 
+- [rust-analyzer/ungrammar](https://github.com/rust-analyzer/ungrammar) - 
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [microsoft/rusty-radamsa](https://github.com/microsoft/rusty-radamsa) - Radamsa fuzzer ported to rust lang
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
@@ -2458,6 +2462,8 @@
 
 ## rust 
 
+- [EmbarkStudios/rust-ecosystem](https://github.com/EmbarkStudios/rust-ecosystem) - Rust wants & tracking for Embark 🦀
+- [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
@@ -2754,6 +2760,7 @@
 
 ## self-hosted 
 
+- [v420v/vas](https://github.com/v420v/vas) - Self-hosted x86-64 Assembler written in V
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 
 ## server 
