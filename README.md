@@ -20,6 +20,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Idris](#idris)
+- [Isabelle](#isabelle)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -44,7 +45,6 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
-- [Standard ML](#standard-ml)
 - [Starlark](#starlark)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
@@ -367,6 +367,10 @@
 
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 
+## Isabelle 
+
+- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
+
 ## Java 
 
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
@@ -510,6 +514,7 @@
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
@@ -791,6 +796,7 @@
 
 ## Rust 
 
+- [koute/not-perf](https://github.com/koute/not-perf) - A sampling CPU profiler for Linux
 - [rust-analyzer/ungrammar](https://github.com/rust-analyzer/ungrammar) - 
 - [EmbarkStudios/rust-ecosystem](https://github.com/EmbarkStudios/rust-ecosystem) - Rust wants & tracking for Embark 🦀
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
@@ -1219,10 +1225,6 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [statropy/zsh-macos](https://github.com/statropy/zsh-macos) - zsh configuration for macos based on Kali Linux
 
-## Standard ML 
-
-- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
-
 ## Starlark 
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
@@ -1396,7 +1398,6 @@
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [mockdeep/typewiz](https://github.com/mockdeep/typewiz) - Automatically discover and add missing types in your TypeScript code
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 - [TakuKobayashi/github-actions-examples](https://github.com/TakuKobayashi/github-actions-examples) - 
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
