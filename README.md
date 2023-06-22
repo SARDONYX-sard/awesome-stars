@@ -837,7 +837,6 @@
 - [not-matthias/amd_hypervisor](https://github.com/not-matthias/amd_hypervisor) - AMD Hypervisor written writh Rust.
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [nvzqz/static-assertions](https://github.com/nvzqz/static-assertions) - Ensure correct assumptions about constants, types, and more in Rust
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [KOBA789/relly](https://github.com/KOBA789/relly) - RDBMS のしくみを学ぶための小さな RDBMS 実装
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [Wodann/io-bluetooth-rs](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
@@ -1258,6 +1257,7 @@
 - [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
