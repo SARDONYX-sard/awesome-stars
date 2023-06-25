@@ -2790,6 +2790,7 @@
 
 ## shell 
 
+- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
