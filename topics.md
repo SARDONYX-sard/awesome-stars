@@ -2349,6 +2349,7 @@
 
 ## react 
 
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
@@ -2800,7 +2801,7 @@
 
 ## shell 
 
-- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
+- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
