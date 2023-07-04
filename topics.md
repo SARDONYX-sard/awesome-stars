@@ -1714,6 +1714,7 @@
 
 ## others 
 
+- [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
 - [syntacore/scr1](https://github.com/syntacore/scr1) - SCR1 is a high-quality open-source RISC-V MCU core in Verilog
 - [kubkon/zld](https://github.com/kubkon/zld) - Zig's lld drop-in replacement
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
@@ -2499,6 +2500,7 @@
 
 ## rust 
 
+- [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - high-level Capstone system bindings for Rust
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [EmbarkStudios/rust-ecosystem](https://github.com/EmbarkStudios/rust-ecosystem) - Rust wants & tracking for Embark 🦀
