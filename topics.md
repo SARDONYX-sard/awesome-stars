@@ -1714,6 +1714,7 @@
 
 ## others 
 
+- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
 - [syntacore/scr1](https://github.com/syntacore/scr1) - SCR1 is a high-quality open-source RISC-V MCU core in Verilog
 - [kubkon/zld](https://github.com/kubkon/zld) - Zig's ld drop-in replacement
@@ -1876,7 +1877,7 @@
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [Ninals-GitHub/TRON](https://github.com/Ninals-GitHub/TRON) - TRON(T-Kernel for x86)
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [macosforge/darwinbuild](https://github.com/macosforge/darwinbuild) - Darwinbuild is a collection of tools that assist compilation of the many projects contained in Darwin, the open source base of Apple's macOS operating system.
