@@ -1714,6 +1714,9 @@
 
 ## others 
 
+- [kyren/gc-arena](https://github.com/kyren/gc-arena) - Experimental system for rust garbage collection
+- [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
+- [openhwgroup/cv32e40p](https://github.com/openhwgroup/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
