@@ -619,6 +619,7 @@
 
 ## data-science 
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -1736,7 +1737,7 @@
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [bluekitchen/btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
-- [vercel-labs/react-tweet](https://github.com/vercel-labs/react-tweet) - Embed tweets in your React application.
+- [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [nholthaus/win-bluetooth](https://github.com/nholthaus/win-bluetooth) - A set of modern c++ classes for using bluetooth on windows
@@ -2508,6 +2509,7 @@
 
 ## rust 
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - high-level Capstone system bindings for Rust
