@@ -807,6 +807,7 @@
 
 ## Rust 
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [kyren/gc-arena](https://github.com/kyren/gc-arena) - Experimental system for rust garbage collection
@@ -1274,7 +1275,7 @@
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
-- [vercel-labs/react-tweet](https://github.com/vercel-labs/react-tweet) - Embed tweets in your React application.
+- [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
