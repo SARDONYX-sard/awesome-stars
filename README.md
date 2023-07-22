@@ -79,8 +79,8 @@
 
 ## C 
 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [Codetector1374/GuideOS](https://github.com/Codetector1374/GuideOS) - Tutorial for Writing a Kernel
-- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 一个64位的操作系统。An x86_64 operating system.
 - [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - high-level Capstone system bindings for Rust
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
@@ -455,7 +455,6 @@
 - [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [typicode/pinst](https://github.com/typicode/pinst) - 🍺 dev only postinstall hooks (package.json)
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
@@ -811,6 +810,7 @@
 ## Rust 
 
 - [o8vm/octox](https://github.com/o8vm/octox) - xv6-riscv like OS written in Rust
+- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 一个64位的操作系统。An x86_64 operating system.
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
@@ -1276,7 +1276,7 @@
 
 ## TypeScript 
 
-- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
@@ -1377,6 +1377,7 @@
 - [mizchi/tsx-source-jump](https://github.com/mizchi/tsx-source-jump) - Jump from the HTML element to the source code of the generator
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTra
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [Quramy/eslint-plugin-tutorial](https://github.com/Quramy/eslint-plugin-tutorial) - A tutorial/template repository to explain how to create your eslint plugins
