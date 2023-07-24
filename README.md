@@ -173,6 +173,8 @@
 
 ## C++ 
 
+- [ceejbot/soulsy](https://github.com/ceejbot/soulsy) - A minimal Souls-like HUD for Skyrim AE & SE. SKSE plugin.
+- [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [nholthaus/win-bluetooth](https://github.com/nholthaus/win-bluetooth) - A set of modern c++ classes for using bluetooth on windows
@@ -809,6 +811,7 @@
 
 ## Rust 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast, flexible, and consistant no_std allocator.
 - [o8vm/octox](https://github.com/o8vm/octox) - xv6-riscv like OS written in Rust
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 一个64位的操作系统。An x86_64 operating system.
@@ -849,7 +852,7 @@
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [Boshen/oxc](https://github.com/Boshen/oxc) - The JavaScript Oxidation Compiler
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
 - [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
