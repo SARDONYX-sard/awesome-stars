@@ -79,6 +79,7 @@
 
 ## C 
 
+- [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [Codetector1374/GuideOS](https://github.com/Codetector1374/GuideOS) - Tutorial for Writing a Kernel
@@ -143,7 +144,7 @@
 - [kamaboko123/30daysOS](https://github.com/kamaboko123/30daysOS) - HariboteOS develop
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [qrush/unix](https://github.com/qrush/unix) - Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
@@ -175,6 +176,8 @@
 
 ## C++ 
 
+- [dwing4g/openmw](https://github.com/dwing4g/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [ceejbot/soulsy](https://github.com/ceejbot/soulsy) - A minimal Souls-like HUD for Skyrim AE & SE. SKSE plugin.
 - [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
@@ -814,6 +817,7 @@
 
 ## Rust 
 
+- [orium/cargo-rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the README.md from your crate's documentation
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast, flexible, and consistant no_std allocator.
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
