@@ -1022,6 +1022,7 @@
 
 ## hacktoberfest 
 
+- [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -1701,6 +1702,7 @@
 
 ## operating-system 
 
+- [LibertyOS-Development/kernel](https://github.com/LibertyOS-Development/kernel) - The kernel for LibertyOS.
 - [Codetector1374/GuideOS](https://github.com/Codetector1374/GuideOS) - Tutorial for Writing a Kernel
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 一个64位的操作系统。An x86_64 operating system.
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
@@ -1722,6 +1724,8 @@
 
 ## others 
 
+- [fortra/nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
+- [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M
 - [joshua-maros/ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
 - [dwing4g/openmw](https://github.com/dwing4g/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [orium/cargo-rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the README.md from your crate's documentation
