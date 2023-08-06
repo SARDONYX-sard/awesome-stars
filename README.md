@@ -84,6 +84,7 @@
 
 ## C 
 
+- [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [fortra/nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
@@ -824,6 +825,7 @@
 
 ## Rust 
 
+- [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - A thin-hypervisor that runs on aarch64 CPUs.
 - [LibertyOS-Development/kernel](https://github.com/LibertyOS-Development/kernel) - The kernel for LibertyOS.
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M
 - [joshua-maros/ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
