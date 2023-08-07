@@ -554,6 +554,7 @@
 - [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
 - [indreklasn/simple-trello](https://github.com/indreklasn/simple-trello) - 📋
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [mitsuruog/clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 
 ## Julia 
@@ -782,7 +783,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 - [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
-- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -1474,7 +1475,6 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [thesugar/thesugar.me](https://github.com/thesugar/thesugar.me) - my personal website
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
