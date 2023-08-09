@@ -573,6 +573,7 @@
 
 ## csharp 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
@@ -744,6 +745,7 @@
 
 ## dotnet 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
@@ -782,6 +784,7 @@
 
 ## emulator 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [0x5457/riscv-emulator](https://github.com/0x5457/riscv-emulator) - 🖥️ a toy riscv emulator, written in Rust
 - [Alignof/carron](https://github.com/Alignof/carron) - RV64IMAC emulator
 - [d0iasm/rvemu](https://github.com/d0iasm/rvemu) - RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing).
@@ -1724,6 +1727,7 @@
 
 ## others 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - A thin-hypervisor that runs on aarch64 CPUs.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [fortra/nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
