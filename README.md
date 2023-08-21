@@ -85,6 +85,7 @@
 
 ## C 
 
+- [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [fortra/nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
