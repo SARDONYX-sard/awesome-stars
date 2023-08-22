@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs) - Bochs - Cross Platform x86 Emulator Project
 - [dwing4g/openmw](https://github.com/dwing4g/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
@@ -629,6 +630,7 @@
 
 ## Others 
 
+- [msyksphinz-self/xv6_translate](https://github.com/msyksphinz-self/xv6_translate) - translation of XV6
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [takenobu-hs/haskell-symbol-search-cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet) - Haskell/GHC symbol search cheatsheet
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
@@ -832,9 +834,10 @@
 
 ## Rust 
 
+- [sile/erlls](https://github.com/sile/erlls) - Erlang language server
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [dtolnay/seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -1134,7 +1137,7 @@
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [rustwasm/wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) - a template for starting a rust-wasm project to be used with wasm-pack
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
-- [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - I'm back! ECMAScript implementation in Rust
+- [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - ECMAScript implementation in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
