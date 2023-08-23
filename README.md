@@ -85,6 +85,7 @@
 
 ## C 
 
+- [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -834,6 +835,9 @@
 
 ## Rust 
 
+- [pftbest/ldparser](https://github.com/pftbest/ldparser) - Linker Script parser
+- [idanarye/rust-smart-default](https://github.com/idanarye/rust-smart-default) - Rust macro for automatically generating default
+- [cole14/rust-elf](https://github.com/cole14/rust-elf) - Library for parsing ELF files for Rust
 - [sile/erlls](https://github.com/sile/erlls) - Erlang language server
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
