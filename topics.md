@@ -1749,6 +1749,8 @@
 
 ## others 
 
+- [PumpkinSeed/fakeit](https://github.com/PumpkinSeed/fakeit) - Fake data generator library with 130+ functions written in Rust
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [bminor/musl](https://github.com/bminor/musl) - Unofficial mirror of etalabs musl repository. Updated daily.
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [pftbest/ldparser](https://github.com/pftbest/ldparser) - Linker Script parser
