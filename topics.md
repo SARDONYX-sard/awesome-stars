@@ -508,8 +508,9 @@
 
 ## compiler 
 
+- [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [v420v/vas](https://github.com/v420v/vas) - Self-hosted x86-64 Assembler written in V
-- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
@@ -1212,7 +1213,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -1749,6 +1750,9 @@
 
 ## others 
 
+- [denoland/monch](https://github.com/denoland/monch) - Inspired by nom, but specifically for strings.
+- [shadaj/tree-sitter-c2rust](https://github.com/shadaj/tree-sitter-c2rust) - A fork of Tree Sitter with a pure Rust runtime for WASM support
+- [tandasat/UEFI-BIOS-Security](https://github.com/tandasat/UEFI-BIOS-Security) - Security Camp 2021 & GCC 2022
 - [PumpkinSeed/fakeit](https://github.com/PumpkinSeed/fakeit) - Fake data generator library with 130+ functions written in Rust
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [bminor/musl](https://github.com/bminor/musl) - Unofficial mirror of etalabs musl repository. Updated daily.
@@ -1849,7 +1853,7 @@
 - [joric/bluetooth-battery-monitor](https://github.com/joric/bluetooth-battery-monitor) - Open source Bluetooth battery monitor for Windows
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action
 - [TheRealOrange/icer_compression](https://github.com/TheRealOrange/icer_compression) - Progressive, error tolerant, wavelet-based image compression algorithm
 - [microsoft/win32metadata](https://github.com/microsoft/win32metadata) - Tooling to generate metadata for Win32 APIs in the Windows SDK.
@@ -2576,6 +2580,7 @@
 
 ## rust 
 
+- [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [sile/erlls](https://github.com/sile/erlls) - Erlang language server
@@ -2608,7 +2613,7 @@
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -2859,6 +2864,7 @@
 
 ## security 
 
+- [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [p3nt4/PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
@@ -3050,7 +3056,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
-- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - The JavaScript Oxidation Compiler
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
