@@ -838,6 +838,8 @@
 
 ## Rust 
 
+- [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
+- [silvanshade/tower-lsp-web-demo](https://github.com/silvanshade/tower-lsp-web-demo) - A minimal wasm demo with an in-browser editor and language server built with tower-lsp
 - [denoland/monch](https://github.com/denoland/monch) - Inspired by nom, but specifically for strings.
 - [shadaj/tree-sitter-c2rust](https://github.com/shadaj/tree-sitter-c2rust) - A fork of Tree Sitter with a pure Rust runtime for WASM support
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
