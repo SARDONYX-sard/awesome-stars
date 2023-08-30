@@ -1751,6 +1751,8 @@
 
 ## others 
 
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
+- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [denoland/monch](https://github.com/denoland/monch) - Inspired by nom, but specifically for strings.
 - [shadaj/tree-sitter-c2rust](https://github.com/shadaj/tree-sitter-c2rust) - A fork of Tree Sitter with a pure Rust runtime for WASM support
 - [tandasat/UEFI-BIOS-Security](https://github.com/tandasat/UEFI-BIOS-Security) - Security Camp 2021 & GCC 2022
@@ -2581,6 +2583,7 @@
 
 ## rust 
 
+- [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
 - [silvanshade/tower-lsp-web-demo](https://github.com/silvanshade/tower-lsp-web-demo) - A minimal wasm demo with an in-browser editor and language server built with tower-lsp
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
@@ -2590,7 +2593,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [ceejbot/soulsy](https://github.com/ceejbot/soulsy) - A minimal Souls-like HUD for Skyrim AE & SE. SKSE plugin.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-- [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast and flexible allocator for no_std and WASM.
+- [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast and flexible allocator for no_std and WASM
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
