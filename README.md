@@ -840,6 +840,7 @@
 
 ## Rust 
 
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
 - [BurntSushi/memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [silvanshade/tower-lsp-web-demo](https://github.com/silvanshade/tower-lsp-web-demo) - A minimal wasm demo with an in-browser editor and language server built with tower-lsp
