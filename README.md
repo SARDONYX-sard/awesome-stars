@@ -317,7 +317,7 @@
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -843,6 +843,10 @@
 
 ## Rust 
 
+- [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
+- [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
+- [sammhicks/picoserve](https://github.com/sammhicks/picoserve) - An async no_std HTTP server suitable for bare-metal environments, heavily inspired by axum
+- [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [microsoft/igvm](https://github.com/microsoft/igvm) - 
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CLR  IR, enambling you to use Rust in .NET projects
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
