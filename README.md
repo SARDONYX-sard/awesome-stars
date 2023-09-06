@@ -845,6 +845,7 @@
 
 ## Rust 
 
+- [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [rems-project/isla](https://github.com/rems-project/isla) - Symbolic execution tool for Sail ISA specifications
