@@ -208,6 +208,7 @@
 
 ## ai 
 
+- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -393,6 +394,7 @@
 
 ## c 
 
+- [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -1045,6 +1047,7 @@
 
 ## hacktoberfest 
 
+- [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
@@ -1208,6 +1211,7 @@
 
 ## java 
 
+- [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -1552,6 +1556,7 @@
 ## markdown 
 
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
@@ -1741,6 +1746,7 @@
 
 ## operating-system 
 
+- [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [LibertyOS-Development/kernel](https://github.com/LibertyOS-Development/kernel) - The kernel for LibertyOS.
 - [Codetector1374/GuideOS](https://github.com/Codetector1374/GuideOS) - Tutorial for Writing a Kernel
 - [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - 使用Rust从0自研内核，具有Linux兼容性的操作系统。
@@ -1763,6 +1769,7 @@
 
 ## others 
 
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [google/tcmalloc](https://github.com/google/tcmalloc) - 
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [rems-project/isla](https://github.com/rems-project/isla) - Symbolic execution tool for Sail ISA specifications
@@ -1884,7 +1891,6 @@
 - [microsoft/win32metadata](https://github.com/microsoft/win32metadata) - Tooling to generate metadata for Win32 APIs in the Windows SDK.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [urholaukkarinen/bleasy](https://github.com/urholaukkarinen/bleasy) - High-level BLE communication library for Rust
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -2606,6 +2612,7 @@
 
 ## rust 
 
+- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
@@ -2661,6 +2668,7 @@
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -3261,6 +3269,7 @@
 
 ## windows 
 
+- [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [memN0ps/bootkit-rs](https://github.com/memN0ps/bootkit-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
