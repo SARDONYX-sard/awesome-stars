@@ -1769,6 +1769,7 @@
 
 ## others 
 
+- [AngeloJacobo/FPGA_Book_Experiments](https://github.com/AngeloJacobo/FPGA_Book_Experiments) - My completed projects from "FPGA Prototyping by Verilog Examples"  book by Pong P. Chu
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [google/tcmalloc](https://github.com/google/tcmalloc) - 
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
