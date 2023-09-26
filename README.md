@@ -131,6 +131,7 @@
 - [Ninals-GitHub/TRON](https://github.com/Ninals-GitHub/TRON) - TRON(T-Kernel for x86)
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [macosforge/darwinbuild](https://github.com/macosforge/darwinbuild) - Darwinbuild is a collection of tools that assist compilation of the many projects contained in Darwin, the open source base of Apple's macOS operating system.
+- [LykenSol/rust-demangle.c](https://github.com/LykenSol/rust-demangle.c) - C port of the Rust symbol demangler (rustc-demangle)
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -1038,7 +1039,6 @@
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 - [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
-- [LykenSol/rust-demangle.c](https://github.com/LykenSol/rust-demangle.c) - C port of the Rust symbol demangler (rustc-demangle)
 - [simias/rustation](https://github.com/simias/rustation) - Playstation emulator in the Rust programing language
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -1050,7 +1050,7 @@
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [yoshitsugu/hariboteos_in_rust](https://github.com/yoshitsugu/hariboteos_in_rust) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
