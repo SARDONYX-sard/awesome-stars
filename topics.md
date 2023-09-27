@@ -1227,6 +1227,7 @@
 
 ## javascript 
 
+- [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -1575,6 +1576,7 @@
 
 ## material-design 
 
+- [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 ## mobile 
@@ -1642,6 +1644,7 @@
 
 ## nextjs 
 
+- [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -1773,6 +1776,7 @@
 
 ## others 
 
+- [bsauce/kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
 - [shafik/cpp_blogs](https://github.com/shafik/cpp_blogs) - C++ Blogs (plus other stuff we should care about like undefined behavior)
 - [RamadhanAmizudin/malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com
 - [AngeloJacobo/FPGA_Book_Experiments](https://github.com/AngeloJacobo/FPGA_Book_Experiments) - My completed projects from "FPGA Prototyping by Verilog Examples"  book by Pong P. Chu
@@ -2485,6 +2489,7 @@
 
 ## react 
 
+- [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
@@ -2560,6 +2565,8 @@
 
 ## reactjs 
 
+- [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
+- [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
@@ -2578,6 +2585,7 @@
 
 ## redux 
 
+- [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [indreklasn/simple-trello](https://github.com/indreklasn/simple-trello) - 📋
@@ -2925,7 +2933,7 @@
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) - Tool and framework for securely reading untrusted USB mass storage devices.
-- [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - CobaltStrike的相关资源汇总 / List of Awesome CobaltStrike Resources
+- [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - List of Awesome CobaltStrike Resources
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
