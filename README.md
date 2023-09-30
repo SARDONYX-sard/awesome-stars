@@ -855,6 +855,7 @@
 
 ## Rust 
 
+- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
