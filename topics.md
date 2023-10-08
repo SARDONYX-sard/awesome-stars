@@ -244,7 +244,7 @@
 ## angular 
 
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 
 ## ansible 
@@ -1267,7 +1267,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
@@ -1797,6 +1797,10 @@
 
 ## others 
 
+- [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
+- [Byron/jwalk](https://github.com/Byron/jwalk) - Filesystem walk performed in parallel with streamed and sorted results
+- [requarks/changelog-action](https://github.com/requarks/changelog-action) - GitHub Action to generate changelog from conventional commits
+- [ucb-bar/riscv-sodor](https://github.com/ucb-bar/riscv-sodor) - educational microarchitectures for risc-v isa
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
@@ -2530,7 +2534,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
@@ -2652,6 +2656,7 @@
 
 ## rust 
 
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
@@ -3054,6 +3059,7 @@
 
 ## statistics 
 
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
 
@@ -3170,7 +3176,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
 - [node-casl2-comet2/vscode-casl2-comet2](https://github.com/node-casl2-comet2/vscode-casl2-comet2) - CASL2/COMET2 support for Visual Studio Code
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -3265,7 +3271,7 @@
 
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
 - [vueuse/vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
