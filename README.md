@@ -1086,7 +1086,7 @@
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [k0kubun/xremap](https://github.com/k0kubun/xremap) - Key remapper for X11 and Wayland
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
@@ -1424,7 +1424,7 @@
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [takefumi-yoshii/nextjs-testing-strategy-2022](https://github.com/takefumi-yoshii/nextjs-testing-strategy-2022) - nextjs-testing-strategy-2022
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [teambit/bit](https://github.com/teambit/bit) - A toolchain for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [node-casl2-comet2/vscode-casl2-comet2](https://github.com/node-casl2-comet2/vscode-casl2-comet2) - CASL2/COMET2 support for Visual Studio Code
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
