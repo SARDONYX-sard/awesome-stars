@@ -86,6 +86,7 @@
 
 ## C 
 
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [bsauce/kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -139,7 +140,6 @@
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing impersonation privileges through the "Printer Bug"
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
 - [FascodeNet/alterlinux](https://github.com/FascodeNet/alterlinux) - Alter Linux - ArchLinux-derived OS made in Japan aimed at being usable by anyone
@@ -171,6 +171,7 @@
 
 ## C# # 
 
+- [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [p3nt4/PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions.
 - [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
@@ -320,6 +321,7 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [oras-project/oras-go](https://github.com/oras-project/oras-go) - ORAS Go library
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -856,6 +858,8 @@
 
 ## Rust 
 
+- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
+- [pulp-platform/bender](https://github.com/pulp-platform/bender) - A dependency management tool for hardware projects.
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [Byron/jwalk](https://github.com/Byron/jwalk) - Filesystem walk performed in parallel with streamed and sorted results
