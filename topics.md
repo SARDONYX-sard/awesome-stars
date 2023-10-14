@@ -1119,7 +1119,6 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1802,6 +1801,7 @@
 
 ## others 
 
+- [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [pulp-platform/bender](https://github.com/pulp-platform/bender) - A dependency management tool for hardware projects.
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [Byron/jwalk](https://github.com/Byron/jwalk) - Filesystem walk performed in parallel with streamed and sorted results
