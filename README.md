@@ -858,6 +858,7 @@
 
 ## Rust 
 
+- [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
 - [pulp-platform/bender](https://github.com/pulp-platform/bender) - A dependency management tool for hardware projects.
