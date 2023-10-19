@@ -1168,6 +1168,7 @@
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## haskell 
@@ -1802,6 +1803,8 @@
 
 ## others 
 
+- [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
+- [ersh1/OpenAnimationReplacer](https://github.com/ersh1/OpenAnimationReplacer) - 
 - [CyberSecurityUP/OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [pulp-platform/bender](https://github.com/pulp-platform/bender) - A dependency management tool for hardware projects.
