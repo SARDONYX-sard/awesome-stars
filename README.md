@@ -587,6 +587,7 @@
 
 ## Jupyter Notebook 
 
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [phasetr/mathcodes](https://github.com/phasetr/mathcodes) - my codes for math or phys, and so on
 - [makaishi2/math_dl_book_info](https://github.com/makaishi2/math_dl_book_info) - 書籍「最短コースでわかる ディープラーニングの数学」用サポートサイト
@@ -862,6 +863,8 @@
 
 ## Rust 
 
+- [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
+- [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
