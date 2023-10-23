@@ -1455,7 +1455,7 @@
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [zat-dev/VarTrace](https://github.com/zat-dev/VarTrace) - time travel debug and analyzer for Python
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [aspida/pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
 - [hikalium/opv86](https://github.com/hikalium/opv86) - Opcode / Instruction finder for x86_64
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
