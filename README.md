@@ -707,7 +707,6 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [JuanitoFatas/what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - Solving the second hard problem in Computer Science.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1357,6 +1356,7 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
 - [loxygenK/dotfiles](https://github.com/loxygenK/dotfiles) - My own dotfiles.
 - [jraleman/42](https://github.com/jraleman/42) - Repository of all my work during the program of Ecole 42 SIlicon Valley; a private, project-based and tuition-free coding school.
@@ -1584,6 +1584,7 @@
 
 ## VHDL 
 
+- [ee-uet/UETRV-PCore](https://github.com/ee-uet/UETRV-PCore) - Linux Capable 32-bit RISC-V based SoC
 - [stnolting/neorv32](https://github.com/stnolting/neorv32) - 🖥️ A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 
 ## Vala 
