@@ -589,6 +589,7 @@
 ## Jupyter Notebook 
 
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [phasetr/mathcodes](https://github.com/phasetr/mathcodes) - my codes for math or phys, and so on
 - [makaishi2/math_dl_book_info](https://github.com/makaishi2/math_dl_book_info) - 書籍「最短コースでわかる ディープラーニングの数学」用サポートサイト
@@ -664,7 +665,6 @@
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
@@ -869,6 +869,7 @@
 
 ## Rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
@@ -1113,7 +1114,7 @@
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing redefined 🌊: your scalable, reliable, and PostgreSQL-compatible streaming database in the cloud. ☁️
 - [ratel-rust/toolshed](https://github.com/ratel-rust/toolshed) - Arena allocator and a handful of useful data structures
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) - 
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
