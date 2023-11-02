@@ -67,6 +67,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
+- [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -146,6 +147,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -874,6 +876,10 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+
+## finance 
+
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ## firebase 
 
@@ -2416,6 +2422,18 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
+
+## pentesting 
+
+- [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+- [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
+- [ihebski/A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+- [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
+- [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 
 ## php 
 
