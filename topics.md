@@ -1564,7 +1564,7 @@
 
 ## mac 
 
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 
 ## machine-learning 
 
@@ -1604,7 +1604,7 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [LumaKernel/dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -1620,7 +1620,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 
@@ -1828,6 +1828,7 @@
 
 ## others 
 
+- [TES5Edit/TES5Edit](https://github.com/TES5Edit/TES5Edit) - xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator written in Rust
 - [ee-uet/UETRV-PCore](https://github.com/ee-uet/UETRV-PCore) - Linux Capable 32-bit RISC-V based SoC
@@ -2622,7 +2623,7 @@
 - [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 - [xcv58/Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -3139,11 +3140,11 @@
 - [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) - Peer-to-peer cluster implementation for Swift Distributed Actors
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 
 ## swiftui 
 
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 
 ## tensorflow 
 
