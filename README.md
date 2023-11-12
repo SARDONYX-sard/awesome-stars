@@ -200,6 +200,7 @@
 
 ## C++ 
 
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [ianpatt/skse64](https://github.com/ianpatt/skse64) - Skyrim SE Script Extender
 - [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
 - [ersh1/OpenAnimationReplacer](https://github.com/ersh1/OpenAnimationReplacer) - 
@@ -789,6 +790,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [intelxed/xed](https://github.com/intelxed/xed) - x86 encoder decoder
@@ -874,6 +876,7 @@
 
 ## Rust 
 
+- [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator written in Rust
