@@ -200,6 +200,7 @@
 
 ## C++ 
 
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [ianpatt/skse64](https://github.com/ianpatt/skse64) - Skyrim SE Script Extender
 - [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
