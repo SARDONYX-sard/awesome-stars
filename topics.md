@@ -2309,7 +2309,7 @@
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [cocoa-mhlw/cocoa](https://github.com/cocoa-mhlw/cocoa) - 
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-- [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
+- [max-mapper/extract-zip](https://github.com/max-mapper/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
