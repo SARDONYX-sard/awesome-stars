@@ -505,7 +505,7 @@
 - [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
-- [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
+- [max-mapper/extract-zip](https://github.com/max-mapper/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [electron-userland/spectron](https://github.com/electron-userland/spectron) - DEPRECATED: 🔎 Test Electron apps using ChromeDriver
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
