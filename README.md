@@ -913,7 +913,7 @@
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [PumpkinSeed/fakeit](https://github.com/PumpkinSeed/fakeit) - Fake data generator library with 130+ functions written in Rust
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [pftbest/ldparser](https://github.com/pftbest/ldparser) - Linker Script parser
 - [idanarye/rust-smart-default](https://github.com/idanarye/rust-smart-default) - Rust macro for automatically generating default
 - [cole14/rust-elf](https://github.com/cole14/rust-elf) - Library for parsing ELF files for Rust
