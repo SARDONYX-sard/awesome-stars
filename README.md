@@ -51,6 +51,7 @@
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [V](#v)
 - [VHDL](#vhdl)
 - [Vala](#vala)
 - [Verilog](#verilog)
@@ -74,7 +75,6 @@
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) - Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
-- [v420v/vas](https://github.com/v420v/vas) - Self-hosted x86-64 Assembler written in V
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
@@ -1593,6 +1593,10 @@
 - [thesugar/thesugar.me](https://github.com/thesugar/thesugar.me) - my personal website
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
+
+## V 
+
+- [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
 
 ## VHDL 
 
