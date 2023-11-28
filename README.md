@@ -87,6 +87,7 @@
 
 ## C 
 
+- [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 - [StevenBaby/onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [bsauce/kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
@@ -198,6 +199,7 @@
 
 ## C++ 
 
+- [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [ianpatt/skse64](https://github.com/ianpatt/skse64) - Skyrim SE Script Extender
@@ -1442,7 +1444,7 @@
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [Xiphe/cachified](https://github.com/Xiphe/cachified) - wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
+- [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified) - 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
@@ -1600,6 +1602,7 @@
 
 ## V 
 
+- [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source implementation of Papyrus scripting language compiler
 - [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
 
 ## VHDL 
