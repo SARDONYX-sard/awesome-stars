@@ -87,6 +87,7 @@
 
 ## C 
 
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 - [StevenBaby/onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -302,7 +303,7 @@
 - [cvpaperchallenge/Ascender](https://github.com/cvpaperchallenge/Ascender) - Accelerator of Scientific Development and Research. A project template developed by XCCV group of cvpaper.challenge.
 - [msyksphinz-self/support_ca_llvm_book](https://github.com/msyksphinz-self/support_ca_llvm_book) - 
 - [matsuu/docker-isucon](https://github.com/matsuu/docker-isucon) - Dockerfile for isucon
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 
 ## Fortran 
 
@@ -1470,7 +1471,7 @@
 - [node-casl2-comet2/vscode-casl2-comet2](https://github.com/node-casl2-comet2/vscode-casl2-comet2) - CASL2/COMET2 support for Visual Studio Code
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [nazo6/nvim-types](https://github.com/nazo6/nvim-types) - 
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -1607,6 +1608,7 @@
 
 ## VHDL 
 
+- [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) - 
 - [ee-uet/UETRV-PCore](https://github.com/ee-uet/UETRV-PCore) - Linux Capable 32-bit RISC-V based SoC
 - [stnolting/neorv32](https://github.com/stnolting/neorv32) - 🖥️ A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 
