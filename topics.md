@@ -568,7 +568,7 @@
 - [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to portable C
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
-- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -702,7 +702,7 @@
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
 - [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Rust implementation of autonomous distributed key-value store which has REST interfaces
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -1229,7 +1229,7 @@
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -2960,7 +2960,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) - A Rust equivalent of Unix command "which".
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store) - [READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
@@ -3035,7 +3035,7 @@
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -3055,7 +3055,7 @@
 
 ## sass 
 
-- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [yashash-pugalia/win11-settings](https://github.com/yashash-pugalia/win11-settings) - Windows 11 settings app recreated with React.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 
