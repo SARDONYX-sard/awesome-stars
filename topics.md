@@ -1853,6 +1853,7 @@
 
 ## others 
 
+- [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
 - [xmake-io/xmake-repo](https://github.com/xmake-io/xmake-repo) - 📦 An official xmake package repository
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) - 
