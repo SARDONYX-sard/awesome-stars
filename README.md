@@ -87,6 +87,7 @@
 
 ## C 
 
+- [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [TASEmulators/desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 - [StevenBaby/onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
