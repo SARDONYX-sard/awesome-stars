@@ -75,7 +75,6 @@
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) - Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
@@ -108,6 +107,7 @@
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [Codetector1374/GuideOS](https://github.com/Codetector1374/GuideOS) - Tutorial for Writing a Kernel
+- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs) - high-level Capstone system bindings for Rust
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
@@ -730,7 +730,7 @@
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gedevan-Aleksizde/pandas-cheat-sheet-ja](https://github.com/Gedevan-Aleksizde/pandas-cheat-sheet-ja) - pandas 公式チートシートの非公式翻訳版
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [foldmap/awsm.fish](https://github.com/foldmap/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [ABZ-Aaron/CheatSheets](https://github.com/ABZ-Aaron/CheatSheets) - Just a place to store cheatsheets
 - [mebiusbox/lab](https://github.com/mebiusbox/lab) - 
 - [IQAndreas/markdown-licenses](https://github.com/IQAndreas/markdown-licenses) - A collection of open source licenses in Markdown format. Contributions are always welcome!
@@ -1388,7 +1388,7 @@
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+- [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish
 - [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
