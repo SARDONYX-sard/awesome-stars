@@ -301,7 +301,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
@@ -1271,6 +1271,7 @@
 
 ## iot 
 
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 
@@ -1933,7 +1934,7 @@
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [fortra/nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M
-- [joshua-maros/ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
+- [someguynamedjosh/ouroboros](https://github.com/someguynamedjosh/ouroboros) - Easy self-referential struct generation for Rust.
 - [dwing4g/openmw](https://github.com/dwing4g/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [orium/cargo-rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the README.md from your crate's documentation
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
@@ -2008,7 +2009,7 @@
 - [joric/bluetooth-battery-monitor](https://github.com/joric/bluetooth-battery-monitor) - Open source Bluetooth battery monitor for Windows
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tool + environment manager
 - [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action
 - [TheRealOrange/icer_compression](https://github.com/TheRealOrange/icer_compression) - Progressive, error tolerant, wavelet-based image compression algorithm
 - [microsoft/win32metadata](https://github.com/microsoft/win32metadata) - Tooling to generate metadata for Win32 APIs in the Windows SDK.
@@ -2200,7 +2201,7 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [HariboteOS/harib27f](https://github.com/HariboteOS/harib27f) - Haribote OS source package with cross-platform compilation support.
-- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [himika/libSkyrim](https://github.com/himika/libSkyrim) - A library to make SKSE plugin easy
