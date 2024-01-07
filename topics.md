@@ -1748,6 +1748,7 @@
 
 ## nlp 
 
+- [daac-tools/vibrato](https://github.com/daac-tools/vibrato) - 🎤 vibrato: Viterbi-based accelerated tokenizer
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [akaza-im/akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
 - [daac-tools/vaporetto](https://github.com/daac-tools/vaporetto) - 🛥 Vaporetto: Very accelerated pointwise prediction based tokenizer
@@ -1870,6 +1871,7 @@
 
 ## others 
 
+- [bitwizeshift/result](https://github.com/bitwizeshift/result) - A lightweight C++11-compatible error-handling mechanism
 - [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -2790,6 +2792,7 @@
 
 ## rust 
 
+- [daac-tools/vibrato](https://github.com/daac-tools/vibrato) - 🎤 vibrato: Viterbi-based accelerated tokenizer
 - [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
