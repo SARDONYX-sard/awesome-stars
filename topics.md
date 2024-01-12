@@ -1871,12 +1871,13 @@
 
 ## others 
 
+- [gabriellandau/PPLFault](https://github.com/gabriellandau/PPLFault) - 
 - [bitwizeshift/result](https://github.com/bitwizeshift/result) - A lightweight C++11-compatible error-handling mechanism
 - [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-- [getml/reflect-cpp](https://github.com/getml/reflect-cpp) - A C++-20 library for fast serialization, deserialization and validation using reflection.
+- [getml/reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection.
 - [timsong-cpp/cppwp](https://github.com/timsong-cpp/cppwp) - HTML version of the current C++ working paper
 - [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -2199,7 +2200,7 @@
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [nullpo-head/WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [hikalium/liumos](https://github.com/hikalium/liumos) - A toy operating system which supports NVDIMM natively.
 - [phasetr/mathcodes](https://github.com/phasetr/mathcodes) - my codes for math or phys, and so on
