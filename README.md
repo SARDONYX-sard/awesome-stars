@@ -87,6 +87,7 @@
 
 ## C 
 
+- [gabriellandau/PPLFault](https://github.com/gabriellandau/PPLFault) - 
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -154,7 +155,7 @@
 - [micrictor/stuxnet](https://github.com/micrictor/stuxnet) - Open-source decompile of Stuxnet/myRTUs
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [hikalium/liumos](https://github.com/hikalium/liumos) - A toy operating system which supports NVDIMM natively.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HariboteOS/harib27f](https://github.com/HariboteOS/harib27f) - Haribote OS source package with cross-platform compilation support.
@@ -210,7 +211,7 @@
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
-- [getml/reflect-cpp](https://github.com/getml/reflect-cpp) - A C++-20 library for fast serialization, deserialization and validation using reflection.
+- [getml/reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection.
 - [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
@@ -658,7 +659,6 @@
 - [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) - Working draft of the proposed RISC-V Bitmanipulation extension
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [riscv-non-isa/riscv-elf-psabi-doc](https://github.com/riscv-non-isa/riscv-elf-psabi-doc) - A RISC-V ELF psABI Document
 
 ## Markdown 
 
@@ -854,6 +854,7 @@
 - [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+- [riscv-non-isa/riscv-elf-psabi-doc](https://github.com/riscv-non-isa/riscv-elf-psabi-doc) - A RISC-V ELF psABI Document
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) - Animation Behavior Patching Tool
