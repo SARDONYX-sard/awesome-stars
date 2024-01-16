@@ -525,7 +525,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [typicode/pinst](https://github.com/typicode/pinst) - 🍺 dev only postinstall hooks (package.json)
-- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
 - [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
@@ -1559,6 +1558,7 @@
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTra
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [Quramy/eslint-plugin-tutorial](https://github.com/Quramy/eslint-plugin-tutorial) - A tutorial/template repository to explain how to create your eslint plugins
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) - A GitHub Action that configure authentication to a GKE cluster.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
