@@ -1347,7 +1347,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [rust-lang/style-team](https://github.com/rust-lang/style-team) - Home of the Rust style team
 - [yoshd/stun-client](https://github.com/yoshd/stun-client) - A simple async-std-based STUN client written in Rust
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
