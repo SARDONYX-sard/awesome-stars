@@ -1604,7 +1604,7 @@
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
@@ -1889,6 +1889,7 @@
 
 ## others 
 
+- [Dexesttp/hkxpack](https://github.com/Dexesttp/hkxpack) - HKXPack is a tool to pack and unpack HKX files from and to the TagXML format.
 - [pulp-platform/riscv-dbg](https://github.com/pulp-platform/riscv-dbg) - RISC-V Debug Support for our PULP RISC-V Cores
 - [gabriellandau/PPLFault](https://github.com/gabriellandau/PPLFault) - 
 - [bitwizeshift/result](https://github.com/bitwizeshift/result) - A lightweight C++11-compatible error-handling mechanism
@@ -2984,7 +2985,7 @@
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [rayon-rs/either](https://github.com/rayon-rs/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
