@@ -1892,6 +1892,7 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Dexesttp/hkxpack](https://github.com/Dexesttp/hkxpack) - HKXPack is a tool to pack and unpack HKX files from and to the TagXML format.
 - [pulp-platform/riscv-dbg](https://github.com/pulp-platform/riscv-dbg) - RISC-V Debug Support for our PULP RISC-V Cores
 - [gabriellandau/PPLFault](https://github.com/gabriellandau/PPLFault) - 
