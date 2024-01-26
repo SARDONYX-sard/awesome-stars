@@ -1158,7 +1158,7 @@
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The SQL streaming database. Engineered to offer the simplest and most cost-efficient way for event stream processing, analytics, and management.
 - [ratel-rust/toolshed](https://github.com/ratel-rust/toolshed) - Arena allocator and a handful of useful data structures
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) - 
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
