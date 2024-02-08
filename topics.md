@@ -218,6 +218,7 @@
 
 ## ai 
 
+- [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -370,7 +371,7 @@
 
 ## backend 
 
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
 
@@ -439,6 +440,7 @@
 
 ## chatgpt 
 
+- [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
@@ -471,6 +473,7 @@
 
 ## cli 
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
@@ -545,7 +548,7 @@
 
 - [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source implementation of Papyrus scripting language compiler
 - [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -629,7 +632,7 @@
 
 ## csharp 
 
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -813,7 +816,7 @@
 
 ## dotnet 
 
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
@@ -990,6 +993,7 @@
 
 ## git 
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1317,6 +1321,7 @@
 
 ## javascript 
 
+- [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -2556,6 +2561,7 @@
 
 ## privacy 
 
+- [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
