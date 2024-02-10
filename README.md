@@ -69,7 +69,6 @@
 - [memorysafety/rav1d](https://github.com/memorysafety/rav1d) - An AV1 decoder in Rust.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) - Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [nanochess/bootOS](https://github.com/nanochess/bootOS) - bootOS is a monolithic operating system in 512 bytes of x86 machine code.
 - [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [riscv-non-isa/riscv-arch-test](https://github.com/riscv-non-isa/riscv-arch-test) - 
@@ -680,6 +679,7 @@
 - [tennashi/lsp_spec_ja](https://github.com/tennashi/lsp_spec_ja) - LSP 仕様の日本語訳
 - [tandasat/UEFI-BIOS-Security](https://github.com/tandasat/UEFI-BIOS-Security) - Security Camp 2021 & GCC 2022
 - [msyksphinz-self/xv6_translate](https://github.com/msyksphinz-self/xv6_translate) - translation of XV6
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) - Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [takenobu-hs/haskell-symbol-search-cheatsheet](https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet) - Haskell/GHC symbol search cheatsheet
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
@@ -1037,7 +1037,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
