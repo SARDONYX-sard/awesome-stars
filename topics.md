@@ -3174,7 +3174,7 @@
 ## self-hosted 
 
 - [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 
 ## server 
 
