@@ -1895,6 +1895,9 @@
 
 ## others 
 
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
+- [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lyxell/nway](https://github.com/lyxell/nway) - Algorithms for n-way diffing and merging of files with a common ancestor
 - [Quuxplusone/difdef](https://github.com/Quuxplusone/difdef) - Utility to do an N-way diff and N-way merge, for N&gt;2. Uses the patience diff algorithm.
 - [BlueGreenMagick/xml-doc](https://github.com/BlueGreenMagick/xml-doc) - Rust xml tree parser to read, modify, and write xml
