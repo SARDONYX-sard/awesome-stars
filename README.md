@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lyxell/nway](https://github.com/lyxell/nway) - Algorithms for n-way diffing and merging of files with a common ancestor
 - [Quuxplusone/difdef](https://github.com/Quuxplusone/difdef) - Utility to do an N-way diff and N-way merge, for N&gt;2. Uses the patience diff algorithm.
@@ -1135,7 +1136,7 @@
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [yoshitsugu/hariboteos_in_rust](https://github.com/yoshitsugu/hariboteos_in_rust) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
+- [kakoune-lsp/kakoune-lsp](https://github.com/kakoune-lsp/kakoune-lsp) - Kakoune Language Server Protocol Client
 - [gluon-lang/lsp-types](https://github.com/gluon-lang/lsp-types) - Types for communicating with a language server
 - [daac-tools/vaporetto](https://github.com/daac-tools/vaporetto) - 🛥 Vaporetto: Very accelerated pointwise prediction based tokenizer
 - [matklad/xshell](https://github.com/matklad/xshell) - 
