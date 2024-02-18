@@ -274,7 +274,7 @@
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
-- [LoliGothick/mitama-cpp-result](https://github.com/LoliGothick/mitama-cpp-result) - A Library that provides `result&lt;T, E&gt;` and `maybe&lt;T&gt;` and monadic functions for them.
+- [loliGothicK/mitama-cpp-result](https://github.com/loliGothicK/mitama-cpp-result) - A Library that provides `result&lt;T, E&gt;` and `maybe&lt;T&gt;` and monadic functions for them.
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 - [Samsung/rlottie](https://github.com/Samsung/rlottie) - A platform independent standalone library that plays Lottie Animation.
 - [crftwr/pyauto](https://github.com/crftwr/pyauto) - windows low-level feature library
@@ -1460,7 +1460,6 @@
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
-- [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
@@ -1469,7 +1468,7 @@
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
