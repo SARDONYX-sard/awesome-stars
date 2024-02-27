@@ -412,7 +412,6 @@
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ics-creative/210414_requestAnimationFrame](https://github.com/ics-creative/210414_requestAnimationFrame) - 
 - [sergioramos/remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism
 - [node4good/lodash-contrib](https://github.com/node4good/lodash-contrib) - The brass buckles on lodash's utility belt
@@ -558,6 +557,7 @@
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [cornerstonejs/cornerstoneTools](https://github.com/cornerstonejs/cornerstoneTools) - A framework for tools built on top of Cornerstone.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -901,6 +901,7 @@
 
 ## Rust 
 
+- [ImJeremyHe/xmlserde](https://github.com/ImJeremyHe/xmlserde) - A user-friendly Rust library for serializing or deserializing the XML files
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
 - [BlueGreenMagick/xml-doc](https://github.com/BlueGreenMagick/xml-doc) - Rust xml tree parser to read, modify, and write xml
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1161,7 +1162,7 @@
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
