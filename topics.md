@@ -2840,7 +2840,6 @@
 
 ## rust 
 
-- [ImJeremyHe/xmlserde](https://github.com/ImJeremyHe/xmlserde) - A user-friendly Rust library for serializing or deserializing the XML files
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
 - [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
 - [daac-tools/vibrato](https://github.com/daac-tools/vibrato) - 🎤 vibrato: Viterbi-based accelerated tokenizer
@@ -3604,7 +3603,6 @@
 
 ## xml 
 
-- [ImJeremyHe/xmlserde](https://github.com/ImJeremyHe/xmlserde) - A user-friendly Rust library for serializing or deserializing the XML files
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
 
 
