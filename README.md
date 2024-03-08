@@ -898,6 +898,7 @@
 
 ## Rust 
 
+- [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
 - [BlueGreenMagick/xml-doc](https://github.com/BlueGreenMagick/xml-doc) - Rust xml tree parser to read, modify, and write xml
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
