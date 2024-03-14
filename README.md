@@ -201,6 +201,7 @@
 
 ## C++ 
 
+- [BrannigansLaw/Skyrim-Behavior-Editor-](https://github.com/BrannigansLaw/Skyrim-Behavior-Editor-) - WIP: A work in progress tool for viewing and editing the contents of Havok's "hk_2010.2.0-r1" hkx-xml behavior files.
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lyxell/nway](https://github.com/lyxell/nway) - Algorithms for n-way diffing and merging of files with a common ancestor
