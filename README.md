@@ -566,7 +566,6 @@
 - [gopinav/Chrome-Extensions](https://github.com/gopinav/Chrome-Extensions) - All the Chrome Extensions from the Youtube tutorial series!
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
-- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA)
 - [nakajmg/ScriptAutoRunner](https://github.com/nakajmg/ScriptAutoRunner) - Injects to any Script into a Website. It can be autorun as well.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [svitejs/svite](https://github.com/svitejs/svite) - 
@@ -900,6 +899,7 @@
 
 ## Rust 
 
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language. (In Construction)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
@@ -1656,7 +1656,7 @@
 ## VHDL 
 
 - [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) - 
-- [ee-uet/UETRV-PCore](https://github.com/ee-uet/UETRV-PCore) - Linux Capable 32-bit RISC-V based SoC
+- [ee-uet/UETRV-PCore](https://github.com/ee-uet/UETRV-PCore) - Linux Capable 32-bit RISC-V based SoC in System Verilog
 - [stnolting/neorv32](https://github.com/stnolting/neorv32) - :rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 
 ## Vala 
@@ -1680,6 +1680,7 @@
 
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA)
 - [microcmsio/microcms-blog](https://github.com/microcmsio/microcms-blog) - microCMS official blog
 
 ## WebAssembly 
