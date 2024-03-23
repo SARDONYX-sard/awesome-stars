@@ -566,7 +566,6 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [gopinav/Chrome-Extensions](https://github.com/gopinav/Chrome-Extensions) - All the Chrome Extensions from the Youtube tutorial series!
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [nakajmg/ScriptAutoRunner](https://github.com/nakajmg/ScriptAutoRunner) - Injects to any Script into a Website. It can be autorun as well.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [svitejs/svite](https://github.com/svitejs/svite) - 
@@ -902,6 +901,7 @@
 
 ## Rust 
 
+- [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [near/borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
@@ -1607,6 +1607,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [xcv58/Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website
 - [google/intermock](https://github.com/google/intermock) - Mocking library to create mock objects with fake data for TypeScript interfaces
+- [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘Super fast browser dictionary
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [wexond/rpc](https://github.com/wexond/rpc) - Type-safe inter-process communication for Electron and Node.js
