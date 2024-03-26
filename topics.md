@@ -1924,6 +1924,7 @@
 
 ## others 
 
+- [minirust/minirust](https://github.com/minirust/minirust) - A precise specification for "Rust lite / MIR plus"
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [BrannigansLaw/Skyrim-Behavior-Editor-](https://github.com/BrannigansLaw/Skyrim-Behavior-Editor-) - WIP: A work in progress tool for viewing and editing the contents of Havok's "hk_2010.2.0-r1" hkx-xml behavior files.
