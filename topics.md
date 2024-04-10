@@ -912,6 +912,7 @@
 
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
 - [ryansonshine/typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Boilerplate to kickstart creating an npm package using TypeScript
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
@@ -1938,6 +1939,7 @@
 
 ## others 
 
+- [songrun/SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 - [ElliotKillick/windows-vs-linux-loader-architecture](https://github.com/ElliotKillick/windows-vs-linux-loader-architecture) - Side-by-side comparison of the Windows and Linux (GNU) Loaders
@@ -2143,7 +2145,7 @@
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
 - [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [winsecurity/Offensive-Rust](https://github.com/winsecurity/Offensive-Rust) - 
-- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring and tuning software designed for 64-bit processors.
 - [chyyuu/os_course_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
@@ -2449,7 +2451,6 @@
 - [sinya8282/Regen](https://github.com/sinya8282/Regen) - regular expression, generator
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
-- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [poc-sleepy/full-stack-open-2020](https://github.com/poc-sleepy/full-stack-open-2020) - For Full Stack Open 2020 Exercises
 - [asciidwango/ExpertPython3_Source](https://github.com/asciidwango/ExpertPython3_Source) - 
 - [AdaptiveCode/AdaptiveCode](https://github.com/AdaptiveCode/AdaptiveCode) - Master repository for all of the accompanying sample code from 'Adaptive Code'
