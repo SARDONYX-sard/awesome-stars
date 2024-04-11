@@ -84,6 +84,7 @@
 
 ## C 
 
+- [tidwall/neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 - [gabriellandau/PPLFault](https://github.com/gabriellandau/PPLFault) - 
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
