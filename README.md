@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
 - [Coq](#coq)
+- [Cuda](#cuda)
 - [Dockerfile](#dockerfile)
 - [Fortran](#fortran)
 - [Go](#go)
@@ -205,6 +206,7 @@
 
 ## C++ 
 
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [songrun/SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
 - [BrannigansLaw/Skyrim-Behavior-Editor-](https://github.com/BrannigansLaw/Skyrim-Behavior-Editor-) - WIP: A work in progress tool for viewing and editing the contents of Havok's "hk_2010.2.0-r1" hkx-xml behavior files.
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -315,6 +317,10 @@
 ## Coq 
 
 - [riscv/sail-riscv](https://github.com/riscv/sail-riscv) - Sail RISC-V model
+
+## Cuda 
+
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 
 ## Dockerfile 
 
