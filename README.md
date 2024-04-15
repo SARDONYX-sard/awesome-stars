@@ -85,6 +85,7 @@
 
 ## C 
 
+- [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [tidwall/neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 - [gabriellandau/PPLFault](https://github.com/gabriellandau/PPLFault) - 
@@ -917,6 +918,7 @@
 
 ## Rust 
 
+- [emabee/flexi_logger](https://github.com/emabee/flexi_logger) - A flexible logger for rust programs that can write to stderr, stdout, and/or to log files
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.
@@ -1194,7 +1196,7 @@
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [ratel-rust/toolshed](https://github.com/ratel-rust/toolshed) - Arena allocator and a handful of useful data structures
 - [rust-osdev/linked-list-allocator](https://github.com/rust-osdev/linked-list-allocator) - 
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
