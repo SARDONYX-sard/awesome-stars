@@ -125,7 +125,6 @@
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [TheRealOrange/icer_compression](https://github.com/TheRealOrange/icer_compression) - Progressive, error tolerant, wavelet-based image compression algorithm
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
@@ -922,6 +921,7 @@
 
 ## Rust 
 
+- [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
@@ -1060,7 +1060,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
-- [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+- [AleoNet/snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
@@ -1701,6 +1701,7 @@
 
 - [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) - 
 - [ee-uet/UETRV-PCore](https://github.com/ee-uet/UETRV-PCore) - Linux Capable 32-bit RISC-V based SoC in System Verilog
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 
 ## Vala 
 
