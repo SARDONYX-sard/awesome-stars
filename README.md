@@ -320,6 +320,7 @@
 ## Cuda 
 
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 
 ## Dockerfile 
 
@@ -1323,7 +1324,6 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [jochasinga/systemd-parser](https://github.com/jochasinga/systemd-parser) - A minimal Systemd unit file parser
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [dtolnay/miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
