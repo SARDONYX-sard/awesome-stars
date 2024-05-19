@@ -3067,7 +3067,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
-- [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see https://github.com/rustsbi/standalone.
+- [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi) - RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see https://github.com/rustsbi/prototyper.
 - [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC-V in Rust from scratch!
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [moratorium08/osmium](https://github.com/moratorium08/osmium) - A toy operating system written in Rust on RISC V(rv32im)
