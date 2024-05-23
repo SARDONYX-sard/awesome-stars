@@ -207,6 +207,7 @@
 
 ## C++ 
 
+- [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [songrun/SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
 - [BrannigansLaw/Skyrim-Behavior-Editor-](https://github.com/BrannigansLaw/Skyrim-Behavior-Editor-) - WIP: A work in progress tool for viewing and editing the contents of Havok's "hk_2010.2.0-r1" hkx-xml behavior files.
@@ -1106,7 +1107,7 @@
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
-- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
+- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust
 - [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
 - [akaza-im/akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
