@@ -654,7 +654,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [glepnir/nvim](https://github.com/glepnir/nvim) - neovim configuration written in lua
-- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
@@ -1178,7 +1178,7 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) - 
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
-- [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [yoshitsugu/hariboteos_in_rust](https://github.com/yoshitsugu/hariboteos_in_rust) - 
@@ -1712,6 +1712,7 @@
 
 ## Verilog 
 
+- [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [AngeloJacobo/FPGA_Book_Experiments](https://github.com/AngeloJacobo/FPGA_Book_Experiments) - My completed projects from "FPGA Prototyping by Verilog Examples"  book by Pong P. Chu
 - [ataradov/riscv](https://github.com/ataradov/riscv) - Verilog implementation of a RISC-V core
 
