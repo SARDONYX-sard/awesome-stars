@@ -836,6 +836,7 @@
 
 ## Python 
 
+- [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare) - 
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
 - [Lord-Akkrand/Skyrim-NX-Toolkit](https://github.com/Lord-Akkrand/Skyrim-NX-Toolkit) - A set of scripts to convert mods from Skyrim SE to Skyrim NX
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
