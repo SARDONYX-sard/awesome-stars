@@ -1326,7 +1326,7 @@
 ## html 
 
 - [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [markuplint/Markuplint](https://github.com/markuplint/Markuplint) - An HTML linter for all markup developers.
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -2643,7 +2643,7 @@
 
 ## php 
 
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [markuplint/Markuplint](https://github.com/markuplint/Markuplint) - An HTML linter for all markup developers.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
@@ -2804,7 +2804,7 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [markuplint/Markuplint](https://github.com/markuplint/Markuplint) - An HTML linter for all markup developers.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
@@ -3404,7 +3404,7 @@
 ## svelte 
 
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [markuplint/Markuplint](https://github.com/markuplint/Markuplint) - An HTML linter for all markup developers.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
@@ -3620,7 +3620,7 @@
 ## vue 
 
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [markuplint/Markuplint](https://github.com/markuplint/Markuplint) - An HTML linter for all markup developers.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [vueuse/vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
