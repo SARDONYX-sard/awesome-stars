@@ -1994,6 +1994,7 @@
 
 ## others 
 
+- [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare) - 
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - This is the repository for the master files that comprise the  SPDX License List
