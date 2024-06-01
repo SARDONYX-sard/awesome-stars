@@ -1526,7 +1526,7 @@
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
-- [markuplint/Markuplint](https://github.com/markuplint/Markuplint) - An HTML linter for all markup developers.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
