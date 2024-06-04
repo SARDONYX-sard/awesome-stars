@@ -1994,6 +1994,7 @@
 
 ## others 
 
+- [SAP/xml-tools](https://github.com/SAP/xml-tools) - A Set of libraries for working with XML in JavaScript, mainly focused on Editor Tooling Scenarios.
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare) - 
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
