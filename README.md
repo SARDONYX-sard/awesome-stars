@@ -929,6 +929,7 @@
 
 ## Rust 
 
+- [servo/html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
@@ -1206,7 +1207,7 @@
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
