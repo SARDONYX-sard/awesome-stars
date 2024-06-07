@@ -707,7 +707,6 @@
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [CyberSecurityUP/OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
 - [shafik/cpp_blogs](https://github.com/shafik/cpp_blogs) - C++ Blogs (plus other stuff we should care about like undefined behavior)
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
@@ -967,6 +966,7 @@
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator written in Rust for desktop devices and the web, with debugging features and a focus on accuracy
