@@ -33,6 +33,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mermaid](#mermaid)
 - [Mojo](#mojo)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -694,6 +695,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 
+## Mermaid 
+
+- [hiboma/hiboma](https://github.com/hiboma/hiboma) - memos of experiments, examinations, source reading, ... etc
+
 ## Mojo 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -955,7 +960,6 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
-- [BlueGreenMagick/xml-doc](https://github.com/BlueGreenMagick/xml-doc) - Rust xml tree parser to read, modify, and write xml
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1007,7 +1011,6 @@
 - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [silvanshade/tower-lsp-web-demo](https://github.com/silvanshade/tower-lsp-web-demo) - A minimal wasm demo with an in-browser editor and language server built with tower-lsp
 - [denoland/monch](https://github.com/denoland/monch) - Inspired by nom, but specifically for strings.
-- [shadaj/tree-sitter-c2rust](https://github.com/shadaj/tree-sitter-c2rust) - A fork of Tree Sitter with a pure Rust runtime for WASM support
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [PumpkinSeed/fakeit](https://github.com/PumpkinSeed/fakeit) - Fake data generator library with 130+ functions written in Rust
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
@@ -1097,7 +1100,7 @@
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [urholaukkarinen/bleasy](https://github.com/urholaukkarinen/bleasy) - High-level BLE communication library for Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
@@ -1367,7 +1370,6 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
@@ -1445,7 +1447,6 @@
 
 ## Scheme 
 
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 
 ## Shell 
