@@ -992,7 +992,7 @@
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
-- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
+- [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
