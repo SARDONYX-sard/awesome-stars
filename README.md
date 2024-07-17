@@ -273,6 +273,7 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [thezdi/PoC](https://github.com/thezdi/PoC) - Proofs-of-concept
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [eclipse-che4z/che-che4z-lsp-for-hlasm](https://github.com/eclipse-che4z/che-che4z-lsp-for-hlasm) - HLASM Language Support is an LSP extension that adds support for the High Level Assembler language to IDEs
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
@@ -282,6 +283,7 @@
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - Multiplayer Mod & TypeScript SDK for Skyrim Special Edition
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [himika/libSkyrim](https://github.com/himika/libSkyrim) - A library to make SKSE plugin easy
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
@@ -418,6 +420,7 @@
 
 ## HTML 
 
+- [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [ElliotKillick/windows-vs-linux-loader-architecture](https://github.com/ElliotKillick/windows-vs-linux-loader-architecture) - Side-by-side comparison of the Windows and Linux (GNU) Loaders
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
@@ -754,11 +757,9 @@
 - [syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese](https://github.com/syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese) - 
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [flano-yuki/http3-note](https://github.com/flano-yuki/http3-note) - My HTTP/3 Note
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [kentutorialbook/30minLearningJavaScriptMonad](https://github.com/kentutorialbook/30minLearningJavaScriptMonad) - 30分でわかるJavaScriptプログラマのためのモナド入門
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
