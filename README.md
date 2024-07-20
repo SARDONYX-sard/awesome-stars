@@ -119,7 +119,7 @@
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
 - [bluekitchen/btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
-- [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
+- [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2024年春季OS课程Slides
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [C-Chads/tinycc](https://github.com/C-Chads/tinycc) - C-Chads Maintained fork of Tiny C Compiler, regularly pulled from https://repo.or.cz/w/tinycc.git
@@ -1367,7 +1367,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [h3r2tic/h3keys3](https://github.com/h3r2tic/h3keys3) - Colemak keyboard layout + custom key layers + mouse utils
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Rust implementation of autonomous distributed key-value store which has REST interfaces
+- [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Autonomous distributed key-value store which has REST interfaces in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
