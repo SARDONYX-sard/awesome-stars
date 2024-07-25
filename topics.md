@@ -756,6 +756,7 @@
 
 ## database 
 
+- [JourneyOver/CTRPF-AR-CHEAT-CODES](https://github.com/JourneyOver/CTRPF-AR-CHEAT-CODES) - [Database] CTRPF AR CHEAT CODES TO BE USED WITH CTRPF WITH ACTION REPLAY SUPPORT
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
@@ -2003,6 +2004,7 @@
 
 ## others 
 
+- [S3cur3Th1sSh1t/Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell) - This repo contains some Amsi Bypass methods i found on different Blog Posts.
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [bminor/glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository. Updated daily.
@@ -2333,7 +2335,6 @@
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [h-ohsaki/asm](https://github.com/h-ohsaki/asm) - 「独習アセンブラ 新版」(翔泳社) サポートページ
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [oriansj/stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
@@ -3124,6 +3125,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
+- [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
