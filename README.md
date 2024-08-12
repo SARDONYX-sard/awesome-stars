@@ -940,6 +940,7 @@
 
 ## Rust 
 
+- [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [servo/html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
