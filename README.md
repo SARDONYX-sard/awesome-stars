@@ -1150,7 +1150,7 @@
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) - Tool and framework for securely reading untrusted USB mass storage devices.
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A framework for building typesafe web backends in Rust
 - [rcore-os/zCore](https://github.com/rcore-os/zCore) - Zircon microkernel reimplemented in Rust.
