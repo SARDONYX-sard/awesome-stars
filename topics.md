@@ -2030,6 +2030,8 @@
 
 ## others 
 
+- [wisonye/rust-ffi-demo](https://github.com/wisonye/rust-ffi-demo) - 
+- [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [riscv-tests-intro/riscv-tests-intro](https://github.com/riscv-tests-intro/riscv-tests-intro) - Открытый ознакомительный курс "Введение в функциональную верификацию RISC-V ядер"
 - [openhwgroup/cv32e40x](https://github.com/openhwgroup/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
