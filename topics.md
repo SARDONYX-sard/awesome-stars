@@ -2991,6 +2991,7 @@
 
 ## rust 
 
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
