@@ -3722,7 +3722,6 @@
 
 ## webpack 
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) - Webpack plugin for Google Apps Script
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
