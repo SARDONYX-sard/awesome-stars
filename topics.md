@@ -522,7 +522,7 @@
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -3021,7 +3021,7 @@
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator written in Rust for desktop devices and the web, with debugging features and a focus on accuracy
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
@@ -3487,7 +3487,7 @@
 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
