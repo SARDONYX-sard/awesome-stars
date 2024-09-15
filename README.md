@@ -39,6 +39,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [Papyrus](#papyrus)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -186,6 +187,7 @@
 
 ## C# # 
 
+- [vawser/Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
 - [soulsmods/DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring.
 - [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 - [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
@@ -822,6 +824,10 @@
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scr
+
+## Papyrus 
+
+- [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source implementation of Papyrus scripting language compiler
 
 ## Pascal 
 
@@ -1724,7 +1730,6 @@
 
 ## V 
 
-- [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source implementation of Papyrus scripting language compiler
 - [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
 
 ## VHDL 
