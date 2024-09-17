@@ -483,7 +483,7 @@
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 - [E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book) - 拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [mixi-inc/AndroidTraining](https://github.com/mixi-inc/AndroidTraining) - Training course repository for android app development
 
 ## JavaScript 
