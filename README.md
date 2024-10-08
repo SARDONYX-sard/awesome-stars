@@ -951,6 +951,7 @@
 
 ## Rust 
 
+- [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It supports XOR encryption and remote file transmission.
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [wisonye/rust-ffi-demo](https://github.com/wisonye/rust-ffi-demo) - 
