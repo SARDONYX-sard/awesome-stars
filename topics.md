@@ -667,6 +667,7 @@
 
 ## cpp 
 
+- [google/pigweed](https://github.com/google/pigweed) - Modern software development for embedded systems
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -939,6 +940,7 @@
 
 ## embedded 
 
+- [google/pigweed](https://github.com/google/pigweed) - Modern software development for embedded systems
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
@@ -3015,6 +3017,7 @@
 
 ## rust 
 
+- [uazu/qcell](https://github.com/uazu/qcell) - Statically-checked alternatives to RefCell and RwLock
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
