@@ -904,7 +904,7 @@
 - [smartnews-smri/house-of-councillors](https://github.com/smartnews-smri/house-of-councillors) - 参議院の公式ウェブサイトから議案、議員、会派、質問主意書をデータベース化しました。商用・非商用を問わず、自由にデータのダウンロードや検索が可能です。
 - [peternguyen93/lldbinit](https://github.com/peternguyen93/lldbinit) - A fork version of lldbinit https://github.com/gdbinit/lldbinit
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) - fortls - Fortran Language Server
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Michael-F-Bryan/static-analyser-in-rust](https://github.com/Michael-F-Bryan/static-analyser-in-rust) - An experiment in using literate programming to write a static analysis tool in Rust
 - [OpenResearchComputation/fable](https://github.com/OpenResearchComputation/fable) - Project for converting Fortran Code to C - accepted for publication in Open Research Computation
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
