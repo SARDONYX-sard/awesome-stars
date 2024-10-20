@@ -729,6 +729,7 @@
 
 ## Others 
 
+- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learn Haskell by building a blog generator - an introductory book about Haskell.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [rust-lang/unsafe-code-guidelines](https://github.com/rust-lang/unsafe-code-guidelines) - Forum for discussion about what unsafe code can and can't do
