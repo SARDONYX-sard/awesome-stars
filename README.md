@@ -1779,7 +1779,7 @@
 
 ## Zig 
 
-- [kubkon/zld](https://github.com/kubkon/zld) - ld drop-in replacement written in Zig
+- [kubkon/emerald](https://github.com/kubkon/emerald) - ld drop-in replacement written in Zig
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
