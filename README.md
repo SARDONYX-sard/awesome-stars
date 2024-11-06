@@ -555,6 +555,7 @@
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
 - [plasma-umass/browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
@@ -627,6 +628,7 @@
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -687,7 +689,7 @@
 ## MDX 
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
+- [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## Makefile 
@@ -885,7 +887,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [fay59/x86doc](https://github.com/fay59/x86doc) - HTML representation of the Intel x86 instructions documentation.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [devicetree-org/devicetree-specification](https://github.com/devicetree-org/devicetree-specification) - Devicetree Specification document source files
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
@@ -956,6 +958,8 @@
 
 ## Rust 
 
+- [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust
+- [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
 - [uazu/qcell](https://github.com/uazu/qcell) - Statically-checked alternatives to RefCell and RwLock
@@ -1029,7 +1033,7 @@
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [rems-project/isla](https://github.com/rems-project/isla) - Symbolic execution tool for Sail ISA specifications
-- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - [Deprecated]  An early language server for Typst, plus a VS Code extension
 - [ebkalderon/nix-language-server](https://github.com/ebkalderon/nix-language-server) - Language server for the Nix language (WIP)
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
@@ -1053,7 +1057,7 @@
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [dtolnay/seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - A thin-hypervisor that runs on aarch64 CPUs.
@@ -1419,7 +1423,7 @@
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [Kenta11/px86_in_rust](https://github.com/Kenta11/px86_in_rust) - A simple x86 emulator in Rust
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
@@ -1427,7 +1431,6 @@
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [teru01/toytcp](https://github.com/teru01/toytcp) - Toy TCP implementation with Rust （技術書典10「Rustで始めるTCP自作入門」ソースコード）
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
@@ -1719,7 +1722,6 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
