@@ -39,7 +39,6 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
-- [Papyrus](#papyrus)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -226,7 +225,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [songrun/SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
 - [BrannigansLaw/Skyrim-Behavior-Editor-](https://github.com/BrannigansLaw/Skyrim-Behavior-Editor-) - WIP: A work in progress tool for viewing and editing the contents of Havok's "hk_2010.2.0-r1" hkx-xml behavior files.
-- [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
+- [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [lyxell/nway](https://github.com/lyxell/nway) - Algorithms for n-way diffing and merging of files with a common ancestor
 - [Quuxplusone/difdef](https://github.com/Quuxplusone/difdef) - Utility to do an N-way diff and N-way merge, for N&gt;2. Uses the patience diff algorithm.
@@ -835,10 +834,6 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scr
 
-## Papyrus 
-
-- [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source implementation of Papyrus scripting language compiler
-
 ## Pascal 
 
 - [TES5Edit/TES5Edit](https://github.com/TES5Edit/TES5Edit) - xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp
@@ -858,7 +853,6 @@
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 - [amano41/scoop-bucket](https://github.com/amano41/scoop-bucket) - Scoop bucket for my personal use.
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell
@@ -912,6 +906,7 @@
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) - fortls - Fortran Language Server
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Michael-F-Bryan/static-analyser-in-rust](https://github.com/Michael-F-Bryan/static-analyser-in-rust) - An experiment in using literate programming to write a static analysis tool in Rust
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [OpenResearchComputation/fable](https://github.com/OpenResearchComputation/fable) - Project for converting Fortran Code to C - accepted for publication in Open Research Computation
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -1538,6 +1533,7 @@
 
 ## TeX 
 
+- [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [syuu1228/howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor) - Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
@@ -1545,6 +1541,7 @@
 
 ## TypeScript 
 
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) - VSCode public API plugged on the monaco editor
@@ -1748,6 +1745,7 @@
 
 ## V 
 
+- [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source implementation of Papyrus scripting language compiler
 - [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
 
 ## VHDL 
