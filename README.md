@@ -214,6 +214,7 @@
 
 ## C++ 
 
+- [nagisa/rust_tracy_client](https://github.com/nagisa/rust_tracy_client) - Tracy client libraries for Rust
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [google/pigweed](https://github.com/google/pigweed) - Modern software development for embedded systems
@@ -487,6 +488,7 @@
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 - [E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book) - 拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [mixi-inc/AndroidTraining](https://github.com/mixi-inc/AndroidTraining) - Training course repository for android app development
 
 ## JavaScript 
@@ -1345,7 +1347,7 @@
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
@@ -1534,6 +1536,7 @@
 
 ## TeX 
 
+- [paulmckrcu/perfbook](https://github.com/paulmckrcu/perfbook) - Is Parallel Programming Hard, And If So, What Can You Do About It?
 - [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [syuu1228/howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor) - Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ
@@ -1726,6 +1729,7 @@
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
