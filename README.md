@@ -504,7 +504,6 @@
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-- [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
@@ -999,7 +998,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [daac-tools/vibrato](https://github.com/daac-tools/vibrato) - 🎤 vibrato: Viterbi-based accelerated tokenizer
@@ -1582,6 +1581,7 @@
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
+- [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
@@ -1634,7 +1634,7 @@
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [zat-dev/VarTrace](https://github.com/zat-dev/VarTrace) - time travel debug and analyzer for Python
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
-- [aspida/pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
+- [aspida/pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js.
 - [hikalium/opv86](https://github.com/hikalium/opv86) - Opcode / Instruction finder for x86_64
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
