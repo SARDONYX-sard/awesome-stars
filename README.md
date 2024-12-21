@@ -86,6 +86,7 @@
 
 ## C 
 
+- [saminiir/level-ip](https://github.com/saminiir/level-ip) - A hacker's userspace TCP/IP stack
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
@@ -214,6 +215,7 @@
 
 ## C++ 
 
+- [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [nagisa/rust_tracy_client](https://github.com/nagisa/rust_tracy_client) - Tracy client libraries for Rust
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -733,6 +735,7 @@
 
 ## Others 
 
+- [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - A new Citra fork
 - [TimorYang/Computer-Networking-Keith-Ross](https://github.com/TimorYang/Computer-Networking-Keith-Ross) - 计算机网络 自顶向下方法 中国科学技术大学
 - [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learn Haskell by building a blog generator - an introductory book about Haskell.
@@ -1070,7 +1073,6 @@
 - [cbiffle/lilos](https://github.com/cbiffle/lilos) - A wee async RTOS for Cortex-M
 - [someguynamedjosh/ouroboros](https://github.com/someguynamedjosh/ouroboros) - Easy self-referential struct generation for Rust.
 - [orium/cargo-rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the README.md from your crate's documentation
-- [ceejbot/soulsy](https://github.com/ceejbot/soulsy) - A minimal Souls-like HUD for Skyrim AE & SE. SKSE plugin.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast and flexible allocator for no_std and WebAssembly
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
@@ -1401,7 +1403,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [h3r2tic/h3keys3](https://github.com/h3r2tic/h3keys3) - Colemak keyboard layout + custom key layers + mouse utils
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Autonomous distributed key-value store which has REST interfaces in Rust
+- [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Autonomous distributed key-value store which has REST interfaces implemented in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
