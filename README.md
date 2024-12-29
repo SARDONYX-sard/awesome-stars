@@ -401,7 +401,7 @@
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
-- [YukiOnishi1129/go-docker-restapi-sample](https://github.com/YukiOnishi1129/go-docker-restapi-sample) - golang docker REST APIのサンプル
+- [YukiOnishi1129/go-docker-restapi-sample](https://github.com/YukiOnishi1129/go-docker-restapi-sample) - golang docker REST API sample
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
