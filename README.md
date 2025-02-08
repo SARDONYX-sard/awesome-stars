@@ -288,7 +288,6 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [thezdi/PoC](https://github.com/thezdi/PoC) - Proofs-of-concept
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [eclipse-che4z/che-che4z-lsp-for-hlasm](https://github.com/eclipse-che4z/che-che4z-lsp-for-hlasm) - HLASM Language Support is an LSP extension that adds support for the High Level Assembler language to IDEs
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
@@ -371,7 +370,7 @@
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
+- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
@@ -437,7 +436,7 @@
 
 - [nananapo/veryl-riscv-book](https://github.com/nananapo/veryl-riscv-book) - Write RISC-V CPU in Veryl
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
-- [ElliotKillick/windows-vs-linux-loader-architecture](https://github.com/ElliotKillick/windows-vs-linux-loader-architecture) - Side-by-side comparison of the Windows and Linux (GNU) Loaders
+- [ElliotKillick/operating-system-design-review](https://github.com/ElliotKillick/operating-system-design-review) - Operating System Design Review: A systemic analysis of modern systems architecture
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2024年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 - [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
@@ -523,6 +522,7 @@
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) - A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [bpceee/oldest](https://github.com/bpceee/oldest) - Go to the oldest page of commits.
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
@@ -884,7 +884,7 @@
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [intelxed/xed](https://github.com/intelxed/xed) - The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64) instructions
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [TheWeirdDev/Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) - A python script to get battery level from Bluetooth headsets
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -965,6 +965,8 @@
 
 ## Rust 
 
+- [gimli-rs/cpp_demangle](https://github.com/gimli-rs/cpp_demangle) - A crate for demangling C++ symbols
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -974,7 +976,7 @@
 - [iliekturtles/uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [pascalkuthe/imara-diff](https://github.com/pascalkuthe/imara-diff) - Reliably performant diffing
 - [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
@@ -1005,7 +1007,7 @@
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [minirust/minirust](https://github.com/minirust/minirust) - A precise specification for "Rust lite / MIR plus"
-- [google/zerocopy](https://github.com/google/zerocopy) - 
+- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write unsafe so you don’t have to.
 - [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [near/borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
@@ -1029,7 +1031,7 @@
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator written in Rust for desktop devices and the web, with debugging features and a focus on accuracy
@@ -1413,7 +1415,7 @@
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [h3r2tic/h3keys3](https://github.com/h3r2tic/h3keys3) - Colemak keyboard layout + custom key layers + mouse utils
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Autonomous distributed key-value store which has REST interfaces implemented in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
@@ -1780,6 +1782,7 @@
 
 ## Verilog 
 
+- [riscv-mcu/e203_hbirdv2](https://github.com/riscv-mcu/e203_hbirdv2) - The Ultra-Low Power RISC-V Core
 - [dawsonjon/fpu](https://github.com/dawsonjon/fpu) - synthesiseable ieee 754 floating point library in verilog
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [AngeloJacobo/FPGA_Book_Experiments](https://github.com/AngeloJacobo/FPGA_Book_Experiments) - My completed projects from "FPGA Prototyping by Verilog Examples"  book by Pong P. Chu
