@@ -22,7 +22,6 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Idris](#idris)
-- [Isabelle](#isabelle)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -216,6 +215,7 @@
 
 ## C++ 
 
+- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim mod to play online!
@@ -482,10 +482,6 @@
 
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 
-## Isabelle 
-
-- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
-
 ## Java 
 
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
@@ -737,6 +733,7 @@
 
 ## OCaml 
 
+- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮
 
@@ -876,6 +873,7 @@
 
 ## Python 
 
+- [idapython/src](https://github.com/idapython/src) - IDAPython project for Hex-Ray's IDA Pro
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 - [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare) - 
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
@@ -1595,7 +1593,7 @@
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library that gives you the tools you need to build AI-powered products.
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
