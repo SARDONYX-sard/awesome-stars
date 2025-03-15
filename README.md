@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
