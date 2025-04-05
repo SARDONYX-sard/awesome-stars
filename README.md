@@ -216,6 +216,7 @@
 
 ## C++ 
 
+- [Perchik71/Creation-Kit-Platform-Extended](https://github.com/Perchik71/Creation-Kit-Platform-Extended) - A collection of modifications, enhancements, and reverse engineered resources for Creation Kit by Bethesda.
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
