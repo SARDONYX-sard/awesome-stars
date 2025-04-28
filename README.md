@@ -968,6 +968,7 @@
 
 ## Rust 
 
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm) - hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -985,7 +986,7 @@
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains complete resources and coding practices for malware development using Rust 🦀.
 - [kevinmehall/nusb](https://github.com/kevinmehall/nusb) - A new pure-Rust library for cross-platform low-level access to USB devices.
 - [iliekturtles/uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Markdown Language Server
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [pascalkuthe/imara-diff](https://github.com/pascalkuthe/imara-diff) - Reliably performant diffing
