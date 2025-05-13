@@ -502,6 +502,7 @@
 
 ## JavaScript 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [SAP/xml-tools](https://github.com/SAP/xml-tools) - A Set of libraries for working with XML in JavaScript, mainly focused on Editor Tooling Scenarios.
