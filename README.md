@@ -1657,7 +1657,7 @@
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [takefumi-yoshii/nextjs-testing-strategy-2022](https://github.com/takefumi-yoshii/nextjs-testing-strategy-2022) - nextjs-testing-strategy-2022
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [node-casl2-comet2/vscode-casl2-comet2](https://github.com/node-casl2-comet2/vscode-casl2-comet2) - CASL2/COMET2 support for Visual Studio Code
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
