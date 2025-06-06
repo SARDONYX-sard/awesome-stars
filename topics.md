@@ -249,6 +249,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -813,7 +814,7 @@
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
 - [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [JourneyOver/CTRPF-AR-CHEAT-CODES](https://github.com/JourneyOver/CTRPF-AR-CHEAT-CODES) - [Database] CTRPF AR CHEAT CODES TO BE USED WITH CTRPF WITH ACTION REPLAY SUPPORT
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
@@ -984,7 +985,7 @@
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - 🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 
 ## emoji 
@@ -1266,7 +1267,7 @@
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 
 ## hacking 
@@ -2139,7 +2140,7 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [kevinmehall/nusb](https://github.com/kevinmehall/nusb) - A new pure-Rust library for cross-platform low-level access to USB devices.
 - [dawsonjon/fpu](https://github.com/dawsonjon/fpu) - synthesiseable ieee 754 floating point library in verilog
-- [nananapo/veryl-riscv-book](https://github.com/nananapo/veryl-riscv-book) - Write RISC-V CPU in Veryl
+- [nananapo/veryl-riscv-book](https://github.com/nananapo/veryl-riscv-book) - Let's write RISC-V CPU in Veryl!
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
 - [saminiir/level-ip](https://github.com/saminiir/level-ip) - A hacker's userspace TCP/IP stack
 - [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
@@ -2419,7 +2420,7 @@
 - [michaeljclark/riscv-meta](https://github.com/michaeljclark/riscv-meta) - RISC-V Instruction Set Metadata
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2
 - [connormcgarr/Exploit-Development](https://github.com/connormcgarr/Exploit-Development) - 
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
@@ -2646,7 +2647,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [rust-lang/style-team](https://github.com/rust-lang/style-team) - Home of the Rust style team
 - [yoshd/stun-client](https://github.com/yoshd/stun-client) - A simple async-std-based STUN client written in Rust
-- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
 - [PortSwigger/css-exfiltration](https://github.com/PortSwigger/css-exfiltration) - 
 - [ABZ-Aaron/cheat-sheets](https://github.com/ABZ-Aaron/cheat-sheets) - Just a place to store cheatsheets
@@ -2879,6 +2880,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [TheWeirdDev/Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) - A python script to get battery level from Bluetooth headsets
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -3576,7 +3578,7 @@
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
@@ -3774,7 +3776,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
