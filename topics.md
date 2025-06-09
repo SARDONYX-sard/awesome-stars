@@ -446,7 +446,7 @@
 ## bitcoin 
 
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA)
+- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux.
 
 ## blockchain 
 
@@ -459,7 +459,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
-- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA)
+- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux.
 
 ## c 
 
@@ -719,7 +719,7 @@
 
 ## cryptocurrency 
 
-- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA)
+- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux.
 
 ## cryptography 
 
@@ -2867,7 +2867,7 @@
 
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA)
+- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux.
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 
 ## python 
