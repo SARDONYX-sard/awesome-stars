@@ -541,7 +541,7 @@
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) - A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [bpceee/oldest](https://github.com/bpceee/oldest) - Go to the oldest page of commits.
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
@@ -1430,7 +1430,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
-- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - A language server implementation for the WGSL and WESL
+- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - A language server implementation for WGSL and WESL
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [siketyan/jpki-rs](https://github.com/siketyan/jpki-rs) - 🔐 Read certificates, sign and verify documents using your JPKI card.
 - [rust-num/num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
@@ -1484,7 +1484,7 @@
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [teru01/toytcp](https://github.com/teru01/toytcp) - Toy TCP implementation with Rust （技術書典10「Rustで始めるTCP自作入門」ソースコード）
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing, templating and rendering PDF
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing and rendering PDF
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
