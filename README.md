@@ -987,6 +987,7 @@
 
 ## Rust 
 
+- [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - A dynasm-like tool for rust.
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) - An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in Rust (with no-compromises #![no_std] support)
