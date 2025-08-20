@@ -989,6 +989,8 @@
 
 ## Rust 
 
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - A dynasm-like tool for rust.
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
@@ -1516,6 +1518,7 @@
 
 ## SCSS 
 
+- [shepmaster/rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [yashash-pugalia/win11-settings](https://github.com/yashash-pugalia/win11-settings) - Windows 11 settings app recreated with React.
 - [AyumuNekozuki/niconico-darkmode](https://github.com/AyumuNekozuki/niconico-darkmode) - ニコニコをダークモードにする拡張機能
