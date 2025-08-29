@@ -283,7 +283,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
-- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Internet Archive, Node.js, Clickhouse, Redpanda, Kong, Telegram, Datadog and Cloudflare Workers.
+- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Internet Archive, Node.js, Clickhouse, Redpanda, Kong, Telegram, Adguard, Datadog and Cloudflare Workers.
 - [bg1bgst333/Sample](https://github.com/bg1bgst333/Sample) - Sample Program
 - [joric/bluetooth-battery-monitor](https://github.com/joric/bluetooth-battery-monitor) - Open source Bluetooth battery monitor for Windows
 - [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
@@ -550,7 +550,6 @@
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) - Webpack plugin for Google Apps Script
-- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
@@ -655,7 +654,6 @@
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -927,7 +925,7 @@
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [exo-lang/exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -989,6 +987,7 @@
 
 ## Rust 
 
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - A dynasm-like tool for rust.
@@ -1384,7 +1383,7 @@
 - [utam0k/r9cc](https://github.com/utam0k/r9cc) - Toy C compiler
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
+- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) - A Rust equivalent of Unix command "which".
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
@@ -1608,6 +1607,7 @@
 
 ## TypeScript 
 
+- [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
@@ -1700,6 +1700,7 @@
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
+- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [zat-dev/VarTrace](https://github.com/zat-dev/VarTrace) - time travel debug and analyzer for Python
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
@@ -1804,6 +1805,7 @@
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
