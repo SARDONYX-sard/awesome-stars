@@ -298,7 +298,7 @@
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
-- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
 - [CyberAgentGameEntertainment/UnityPerformanceTuningBible](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible) - Unity Performance Tuning knowledge book
 - [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 - [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
@@ -459,7 +459,7 @@
 
 - [nananapo/veryl-riscv-book](https://github.com/nananapo/veryl-riscv-book) - Let's write RISC-V CPU in Veryl!
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
-- [ElliotKillick/operating-system-design-review](https://github.com/ElliotKillick/operating-system-design-review) - Operating System Design Review: A systemic analysis of modern systems architecture
+- [ElliotKillick/operating-system-design-review](https://github.com/ElliotKillick/operating-system-design-review) - Operating System Design Review: A systematic analysis of modern systems architecture
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 - [kaityo256/sevendayshpc](https://github.com/kaityo256/sevendayshpc) - 一週間でなれる！スパコンプログラマ
@@ -483,7 +483,6 @@
 - [ics-creative/210414_requestAnimationFrame](https://github.com/ics-creative/210414_requestAnimationFrame) - 
 - [sergioramos/remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism
 - [node4good/lodash-contrib](https://github.com/node4good/lodash-contrib) - The brass buckles on lodash's utility belt
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 
@@ -540,7 +539,7 @@
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) - A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
@@ -679,6 +678,7 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [makaishi2/math_dl_book_info](https://github.com/makaishi2/math_dl_book_info) - 書籍「最短コースでわかる ディープラーニングの数学」用サポートサイト
 - [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch) - 『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## Kotlin 
 
@@ -758,6 +758,7 @@
 
 ## Others 
 
+- [Dmgvol/UE_Modding](https://github.com/Dmgvol/UE_Modding) - Collection of UE4/5 Modding Guides
 - [S3cur3Th1sSh1t/Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell) - This repo contains some Amsi Bypass methods i found on different Blog Posts.
 - [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 - [TimorYang/Computer-Networking-Keith-Ross](https://github.com/TimorYang/Computer-Networking-Keith-Ross) - 计算机网络 自顶向下方法 中国科学技术大学
@@ -1007,7 +1008,7 @@
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [gimli-rs/cpp_demangle](https://github.com/gimli-rs/cpp_demangle) - A crate for demangling C++ symbols
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -1256,7 +1257,7 @@
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [apollographql/apollo-rs](https://github.com/apollographql/apollo-rs) - Spec compliant GraphQL Tools in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
@@ -1537,7 +1538,7 @@
 - [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
 - [ucb-bar/riscv-sodor](https://github.com/ucb-bar/riscv-sodor) - educational microarchitectures for risc-v isa
 - [chadyuu/riscv-chisel-book](https://github.com/chadyuu/riscv-chisel-book) - 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 - [debasishg/frdomain](https://github.com/debasishg/frdomain) - Code repo for Functional and Reactive Domain Modeling
 - [crossroad0201/ddd-on-scala](https://github.com/crossroad0201/ddd-on-scala) - DDD sample implementation by Scala.
@@ -1620,7 +1621,7 @@
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) - VSCode public API plugged on the monaco editor
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
