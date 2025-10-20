@@ -2221,6 +2221,7 @@
 
 ## others 
 
+- [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [shepmaster/rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
