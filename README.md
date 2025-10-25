@@ -1729,7 +1729,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
+- [nodejs/corepack](https://github.com/nodejs/corepack) - Package manager version manager for Node.js projects
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
