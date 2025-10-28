@@ -671,7 +671,7 @@
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
 - [lfortran/lfortran](https://github.com/lfortran/lfortran) - Official main repository for LFortran
@@ -828,7 +828,7 @@
 
 ## data-engineering 
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 
 ## data-science 
 
@@ -869,7 +869,7 @@
 - [KOBA789/relly](https://github.com/KOBA789/relly) - RDBMS のしくみを学ぶための小さな RDBMS 実装
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Blazing analytics, fast search, geo insights, vector AI. Built for multimodal analytics, Open-source Snowflake alternative. https://databend.com
 - [ryogrid/FunnelKVS](https://github.com/ryogrid/FunnelKVS) - Autonomous distributed key-value store which has REST interfaces implemented in Rust
@@ -1901,6 +1901,7 @@
 
 ## mac 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 
 ## machine-learning 
@@ -2060,6 +2061,7 @@
 
 ## nextjs 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [i18next/next-i18next](https://github.com/i18next/next-i18next) - The easiest way to translate your NextJs apps.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2166,6 +2168,7 @@
 
 ## open-source 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE), implemented in V. Focused on faster compilation, clearer error messages, and PEX file analysis.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -2942,7 +2945,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 
@@ -3098,6 +3101,7 @@
 
 ## react 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
@@ -3262,6 +3266,7 @@
 
 ## rust 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
@@ -3463,7 +3468,7 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, low-latency serving, and Iceberg management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
@@ -3862,6 +3867,7 @@
 
 ## typescript 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
