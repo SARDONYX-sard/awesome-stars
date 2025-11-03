@@ -1676,7 +1676,7 @@
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified) - 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
