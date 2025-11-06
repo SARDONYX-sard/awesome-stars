@@ -1010,7 +1010,7 @@
 - [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) - An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in Rust (with no-compromises #![no_std] support)
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [veeenu/hudhook](https://github.com/veeenu/hudhook) - A videogame overlay framework written in Rust, supporting DirectX and OpenGL
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm) - hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
@@ -1614,7 +1614,6 @@
 ## TeX 
 
 - [paulmckrcu/perfbook](https://github.com/paulmckrcu/perfbook) - Is Parallel Programming Hard, And If So, What Can You Do About It?
-- [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
 - [syuu1228/howto_implement_hypervisor](https://github.com/syuu1228/howto_implement_hypervisor) - Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
