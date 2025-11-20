@@ -2246,7 +2246,7 @@
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
-- [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
+- [TanStack/db](https://github.com/TanStack/db) - The reactive client store for your API.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [kinnay/NintendoClients](https://github.com/kinnay/NintendoClients) - Python package to communicate with Switch, Wii U and 3DS servers
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
