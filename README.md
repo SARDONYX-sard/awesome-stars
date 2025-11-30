@@ -387,6 +387,7 @@
 
 ## Go 
 
+- [smaTc/RemotePlayDetached](https://github.com/smaTc/RemotePlayDetached) - Remote Play Detached
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
