@@ -1208,7 +1208,6 @@
 
 ## game 
 
-- [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) - Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
 - [Perchik71/Creation-Kit-Platform-Extended](https://github.com/Perchik71/Creation-Kit-Platform-Extended) - A collection of modifications, enhancements, and reverse engineered resources for Creation Kit by Bethesda.
 - [Mezeporta/Erupe](https://github.com/Mezeporta/Erupe) - Monster Hunter Frontier Server Emulator
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -2282,6 +2281,7 @@
 
 ## others 
 
+- [Chakratos/mhf-save-manager](https://github.com/Chakratos/mhf-save-manager) - A Webapplication to manage Character saves used by the MHF Server emulator Erupe
 - [smaTc/RemotePlayDetached](https://github.com/smaTc/RemotePlayDetached) - Remote Play Detached
 - [tier4/awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 - [ktgw0316/milewski-ctfp-markdown](https://github.com/ktgw0316/milewski-ctfp-markdown) - Bartosz Milewski's 'Category Theory for Programmers' unofficial markdown source
