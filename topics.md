@@ -653,6 +653,7 @@
 
 ## code-quality 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
@@ -1358,6 +1359,7 @@
 
 ## good-first-issue 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
@@ -1420,6 +1422,7 @@
 
 ## hacktoberfest 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -2281,7 +2284,6 @@
 
 ## others 
 
-- [Chakratos/mhf-save-manager](https://github.com/Chakratos/mhf-save-manager) - A Webapplication to manage Character saves used by the MHF Server emulator Erupe
 - [smaTc/RemotePlayDetached](https://github.com/smaTc/RemotePlayDetached) - Remote Play Detached
 - [tier4/awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 - [ktgw0316/milewski-ctfp-markdown](https://github.com/ktgw0316/milewski-ctfp-markdown) - Bartosz Milewski's 'Category Theory for Programmers' unofficial markdown source
@@ -3073,6 +3075,7 @@
 
 ## python 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
@@ -3329,6 +3332,7 @@
 
 ## rust 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [aquova/gb-book](https://github.com/aquova/gb-book) - An introduction to Game Boy emulation using the Rust programming language
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
