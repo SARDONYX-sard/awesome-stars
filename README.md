@@ -386,6 +386,7 @@
 
 ## Go 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [smaTc/RemotePlayDetached](https://github.com/smaTc/RemotePlayDetached) - Remote Play Detached
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
@@ -861,7 +862,6 @@
 
 ## PHP 
 
-- [Chakratos/mhf-save-manager](https://github.com/Chakratos/mhf-save-manager) - A Webapplication to manage Character saves used by the MHF Server emulator Erupe
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
@@ -1000,6 +1000,7 @@
 
 ## Rust 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [tier4/awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 - [aquova/gb-book](https://github.com/aquova/gb-book) - An introduction to Game Boy emulation using the Rust programming language
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
