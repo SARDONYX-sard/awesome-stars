@@ -567,6 +567,7 @@
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [Hawkbat/SkyrimControlMapper](https://github.com/Hawkbat/SkyrimControlMapper) - A web-based tool for editing the controlmap.txt file for Skyrim key binding.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
@@ -999,6 +1000,7 @@
 
 ## Rust 
 
+- [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [tier4/awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 - [aquova/gb-book](https://github.com/aquova/gb-book) - An introduction to Game Boy emulation using the Rust programming language
@@ -1160,7 +1162,7 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [koute/not-perf](https://github.com/koute/not-perf) - A sampling CPU profiler for Linux
@@ -1439,7 +1441,7 @@
 - [qryxip/cargo-compete](https://github.com/qryxip/cargo-compete) - A Cargo subcommand for competitive programming
 - [maekawatoshiki/rapidus](https://github.com/maekawatoshiki/rapidus) - ECMAScript implementation in Rust
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Blazing analytics, fast search, geo insights, vector AI. Built for multimodal analytics, Open-source Snowflake alternative. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - One Warehouse for  Analytics, Search, AI. Snowflake + Elasticsearch + Vector DB — rebuilt from scratch. Unified architecture on your S3.
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
 - [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -1734,7 +1736,6 @@
 - [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [microsoft/setup-msbuild](https://github.com/microsoft/setup-msbuild) - A GitHub Action to facilitate configuring MSBuild in the workflow PATH for building .NET Framework applications.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [RyutaKojima/simpleGestures](https://github.com/RyutaKojima/simpleGestures) - simpleGesture is Google Chrome extension.
