@@ -2490,7 +2490,6 @@
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) - RISC-V Architecture Profiles
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-- [dtolnay/seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code
 - [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
