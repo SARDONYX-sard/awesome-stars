@@ -1647,7 +1647,7 @@
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) - VSCode public API plugged on the monaco editor
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
