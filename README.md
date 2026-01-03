@@ -627,7 +627,7 @@
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [cornerstonejs/cornerstoneTools](https://github.com/cornerstonejs/cornerstoneTools) - [Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
