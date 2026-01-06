@@ -1593,6 +1593,7 @@
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 
@@ -2836,7 +2837,6 @@
 - [plhery/node-twitter-api-v2](https://github.com/plhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 - [debasishg/frdomain](https://github.com/debasishg/frdomain) - Code repo for Functional and Reactive Domain Modeling
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book) - 拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
 - [captn3m0/pystitcher](https://github.com/captn3m0/pystitcher) - pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input
 - [teru01/toytcp](https://github.com/teru01/toytcp) - Toy TCP implementation with Rust （技術書典10「Rustで始めるTCP自作入門」ソースコード）
@@ -3689,6 +3689,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [fschutt/printpdf](https://github.com/fschutt/printpdf) - Rust / WASM library for reading, writing and rendering PDF
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
