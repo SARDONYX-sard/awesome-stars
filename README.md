@@ -1002,6 +1002,7 @@
 
 ## Rust 
 
+- [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [domenicquirl/cstree](https://github.com/domenicquirl/cstree) - Concrete Syntax Tree library
 - [compio-rs/compio](https://github.com/compio-rs/compio) - A thread-per-core Rust runtime with IOCP/io_uring/polling.
