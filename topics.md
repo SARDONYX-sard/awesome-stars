@@ -239,6 +239,7 @@
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [userscript](#userscript)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -1477,7 +1478,6 @@
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
-- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -2312,6 +2312,7 @@
 
 ## others 
 
+- [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [domenicquirl/cstree](https://github.com/domenicquirl/cstree) - Concrete Syntax Tree library
@@ -2613,6 +2614,7 @@
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [CharmedBaryon/CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG) - This is a reverse engineered library for Skyrim Special Edition and Skyrim VR.
 - [PlatformLab/Homa](https://github.com/PlatformLab/Homa) - Low-Latency Data Center Network Transport
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [NordicPlayground/vscode-nrf-devicetree](https://github.com/NordicPlayground/vscode-nrf-devicetree) - Devicetree syntax and language support for vscode
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
@@ -2799,7 +2801,7 @@
 - [riscv-non-isa/riscv-elf-psabi-doc](https://github.com/riscv-non-isa/riscv-elf-psabi-doc) - A RISC-V ELF psABI Document
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-- [cygwin/cygwin](https://github.com/cygwin/cygwin) - Mirror of  Cygwin repository at https://cygwin.com/.  DO NOT SUBMIT PULL REQUESTS.  Read https://cygwin.com/contrib.html and submit patches via the mailing list cygwin-patches AT cygwin DOT com.
+- [cygwin/cygwin](https://github.com/cygwin/cygwin) - Mirror of  Cygwin repository at https://cygwin.com/cgit/newlib-cygwin/.  DO NOT SUBMIT PULL REQUESTS.  Read https://cygwin.com/contrib.html and submit patches via the mailing list cygwin-patches AT cy
 - [x360ce/x360ce](https://github.com/x360ce/x360ce) - Primary repository for the x360ce library, front-end and tools.
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
@@ -2908,7 +2910,6 @@
 - [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [svanheulen/mhff](https://github.com/svanheulen/mhff) - Monster Hunter File Formats
 - [microsoft/DesktopBridgeToUWP-Samples](https://github.com/microsoft/DesktopBridgeToUWP-Samples) - This repo contains the samples that demonstrate the usage patterns for the Desktop Conversion extensions.
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [wtetsu/webextensions-webpack-boilerplate](https://github.com/wtetsu/webextensions-webpack-boilerplate) - 
 - [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch) - 『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
@@ -4115,6 +4116,13 @@
 ## userscript 
 
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
+
+## video 
+
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 
 ## vim 
 
