@@ -134,7 +134,7 @@
 - [openSIL/openSIL](https://github.com/openSIL/openSIL) - 
 - [bluekitchen/btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - https://learningos.cn/os-lectures/ 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [C-Chads/tinycc](https://github.com/C-Chads/tinycc) - C-Chads Maintained fork of Tiny C Compiler, regularly pulled from https://repo.or.cz/w/tinycc.git
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) - Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and serv
