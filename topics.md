@@ -145,6 +145,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [microservices](#microservices)
@@ -1221,6 +1222,7 @@
 
 ## game 
 
+- [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) - Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
 - [Perchik71/Creation-Kit-Platform-Extended](https://github.com/Perchik71/Creation-Kit-Platform-Extended) - A collection of modifications, enhancements, and reverse engineered resources for Creation Kit by Bethesda.
 - [Mezeporta/Erupe](https://github.com/Mezeporta/Erupe) - Monster Hunter Frontier Server Emulator
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -2041,6 +2043,14 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## malware 
+
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
+- [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
+- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+
 ## markdown 
 
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -2665,7 +2675,6 @@
 - [amirrezaask/loki](https://github.com/amirrezaask/loki) - Loki, Simple experimental compiler that generates native binaries
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [Cr4sh/s6_pcie_microblaze](https://github.com/Cr4sh/s6_pcie_microblaze) - PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese](https://github.com/syarochan/Operating-Systems-Three-Easy-Pieces-in-japanese) - 
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
@@ -3382,7 +3391,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - A dynasm-like tool for rust.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
