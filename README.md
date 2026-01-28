@@ -338,7 +338,6 @@
 - [Samsung/rlottie](https://github.com/Samsung/rlottie) - A platform independent standalone library that plays Lottie Animation.
 - [crftwr/pyauto](https://github.com/crftwr/pyauto) - windows low-level feature library
 - [fuzzuf/fuzzuf](https://github.com/fuzzuf/fuzzuf) - Fuzzing Unification Framework
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [sinya8282/Regen](https://github.com/sinya8282/Regen) - regular expression, generator
@@ -1003,6 +1002,7 @@
 - [TakeshiOkamoto/mpp_react_crud](https://github.com/TakeshiOkamoto/mpp_react_crud) - Rails + React + AjaxでCRUDのサンプルプロジェクト。(学習用)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mixi-inc/RubyTraining](https://github.com/mixi-inc/RubyTraining) - Ruby training course for new employees
 
 ## Rust 
@@ -1640,6 +1640,7 @@
 
 ## TypeScript 
 
+- [LibPDF-js/core](https://github.com/LibPDF-js/core) - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
