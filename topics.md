@@ -2330,6 +2330,7 @@
 
 ## others 
 
+- [dmtrKovalenko/zlob](https://github.com/dmtrKovalenko/zlob) - 
 - [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os) - Universal controller firmware core for adapters and custom controllers.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
