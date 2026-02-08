@@ -1909,7 +1909,7 @@
 
 ## Zig 
 
-- [dmtrKovalenko/zlob](https://github.com/dmtrKovalenko/zlob) - 
+- [dmtrKovalenko/zlob](https://github.com/dmtrKovalenko/zlob) - 100% POSIX and glibc compatible globbing library for C, Zig, and Rust that is faster and supports all the modern globbing formats and gitignore
 - [kubkon/bold](https://github.com/kubkon/bold) - bold: the bold linker
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
