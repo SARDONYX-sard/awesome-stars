@@ -156,7 +156,7 @@
 - [redox-os/binutils-gdb](https://github.com/redox-os/binutils-gdb) - Mirror of https://gitlab.redox-os.org/redox-os/binutils-gdb
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) - [MIRROR] Alpine package manager
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
@@ -910,6 +910,7 @@
 
 ## Python 
 
+- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [kotaro-kinoshita/yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [Azr43lKn1ght/DFIR-LABS](https://github.com/Azr43lKn1ght/DFIR-LABS) - DFIR LABS - A compilation of challenges that aims to provide practice in simple to advanced concepts in the following topics: Digital Forensics, Incident Response, Malware Analysis and Threat Hunting.
