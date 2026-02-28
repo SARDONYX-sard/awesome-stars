@@ -716,7 +716,7 @@
 
 ## compiler 
 
-- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX1030/11/12/ machine code.
+- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [robertmuth/Cwerg](https://github.com/robertmuth/Cwerg) - The best C-like language that can be implemented in 10kLOC.
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
