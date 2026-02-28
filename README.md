@@ -90,7 +90,7 @@
 
 ## C 
 
-- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX1030/11/12/ machine code.
+- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 - [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os) - Universal controller firmware core for adapters and custom controllers.
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
@@ -229,6 +229,7 @@
 
 ## C++ 
 
+- [brxxn/ds-anywhere](https://github.com/brxxn/ds-anywhere) - Emulate a Nintendo DS securely inside your browser
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
 - [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) - Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
@@ -745,6 +746,7 @@
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) - Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -833,7 +835,6 @@
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [JuanitoFatas/what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - Solving the second hard problem in Computer Science.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gedevan-Aleksizde/pandas-cheat-sheet-ja](https://github.com/Gedevan-Aleksizde/pandas-cheat-sheet-ja) - pandas 公式チートシートの非公式翻訳版
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [ABZ-Aaron/cheat-sheets](https://github.com/ABZ-Aaron/cheat-sheets) - Just a place to store cheatsheets
@@ -1032,7 +1033,7 @@
 - [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) - An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in Rust (with no-compromises #![no_std] support)
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [veeenu/hudhook](https://github.com/veeenu/hudhook) - A videogame overlay framework written in Rust, supporting DirectX and OpenGL
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - One database for metrics, logs, and traces. The unified OpenTelemetry  backend that replaces Prometheus, Loki, and ES — with SQL + PromQL  on object storage.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm) - hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
@@ -1704,7 +1705,7 @@
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [yy0931/gitconfig-lsp](https://github.com/yy0931/gitconfig-lsp) - 
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified) - 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
