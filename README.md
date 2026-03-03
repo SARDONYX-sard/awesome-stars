@@ -229,6 +229,7 @@
 
 ## C++ 
 
+- [jshafer817/vJoy](https://github.com/jshafer817/vJoy) - Virtual Joystick
 - [brxxn/ds-anywhere](https://github.com/brxxn/ds-anywhere) - Emulate a Nintendo DS securely inside your browser
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
 - [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) - Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
