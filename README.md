@@ -395,6 +395,7 @@
 
 ## Go 
 
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [smaTc/RemotePlayDetached](https://github.com/smaTc/RemotePlayDetached) - Remote Play Detached
@@ -1032,7 +1033,7 @@
 - [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) - An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in Rust (with no-compromises #![no_std] support)
 - [gimli-rs/object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 - [veeenu/hudhook](https://github.com/veeenu/hudhook) - A videogame overlay framework written in Rust, supporting DirectX and OpenGL
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - One database for metrics, logs, and traces. The unified OpenTelemetry  backend that replaces Prometheus, Loki, and ES — with SQL + PromQL  on object storage.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki & ES.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm) - hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
@@ -1857,7 +1858,7 @@
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
+- [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - A performant, lightweight React slider/carousel for media and content transitions, featuring 60fps animations, modular styling, optional HOCs, and fullpage navigation utilities. 🖥️📱
 - [frourios/frourio](https://github.com/frourios/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [thesugar/thesugar.me](https://github.com/thesugar/thesugar.me) - my personal website
