@@ -789,7 +789,7 @@
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
-- [CyberSecurityUP/OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
+- [JoasASantos/OSCE3-Complete-Guide](https://github.com/JoasASantos/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
 - [shafik/cpp_blogs](https://github.com/shafik/cpp_blogs) - C++ Blogs (plus other stuff we should care about like undefined behavior)
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [tennashi/lsp_spec_ja](https://github.com/tennashi/lsp_spec_ja) - LSP 仕様の日本語訳
@@ -1233,7 +1233,7 @@
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [urholaukkarinen/bleasy](https://github.com/urholaukkarinen/bleasy) - High-level BLE communication library for Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
