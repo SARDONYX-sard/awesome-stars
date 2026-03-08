@@ -95,7 +95,7 @@
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
-- [FlyGoat/CSMWrap](https://github.com/FlyGoat/CSMWrap) - Get PC BIOS back on UEFI only system
+- [CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) - Get PC BIOS back on UEFI only system
 - [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [saminiir/level-ip](https://github.com/saminiir/level-ip) - A hacker's userspace TCP/IP stack
@@ -229,6 +229,8 @@
 
 ## C++ 
 
+- [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt) - Vulnerability detection framework by Binarly's REsearch team
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [jshafer817/vJoy](https://github.com/jshafer817/vJoy) - Virtual Joystick
 - [brxxn/ds-anywhere](https://github.com/brxxn/ds-anywhere) - Emulate a Nintendo DS securely inside your browser
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
@@ -1211,7 +1213,7 @@
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A zkVM for Decentralized Private Computations (DPC)
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
-- [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
+- [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to kill processes and containers running on specified ports.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
