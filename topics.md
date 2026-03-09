@@ -561,6 +561,7 @@
 
 ## chatgpt 
 
+- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 - [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -947,7 +948,6 @@
 
 ## deep-learning 
 
-- [kotaro-kinoshita/yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
@@ -2313,6 +2313,7 @@
 
 ## openai 
 
+- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -2355,7 +2356,7 @@
 
 ## others 
 
-- [jshafer817/vJoy](https://github.com/jshafer817/vJoy) - Virtual Joystick
+- [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - DeDRM tools for ebooks
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
 - [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os) - Universal controller firmware core for adapters and custom controllers.
@@ -2574,7 +2575,6 @@
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) - A WASI implementation that uses VS Code's extension host as the implementing API
 - [bluekitchen/btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
-- [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [nholthaus/win-bluetooth](https://github.com/nholthaus/win-bluetooth) - A set of modern c++ classes for using bluetooth on windows
 - [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively
@@ -3145,7 +3145,6 @@
 ## python 
 
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
-- [kotaro-kinoshita/yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
@@ -3209,7 +3208,6 @@
 
 ## pytorch 
 
-- [kotaro-kinoshita/yomitoku](https://github.com/kotaro-kinoshita/yomitoku) - YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
