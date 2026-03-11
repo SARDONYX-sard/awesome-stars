@@ -2358,7 +2358,7 @@
 
 - [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - DeDRM tools for ebooks
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os) - Universal controller firmware core for adapters and custom controllers.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
@@ -2377,7 +2377,7 @@
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [jkevin/PS3EyeDirectShow](https://github.com/jkevin/PS3EyeDirectShow) - DirectShow source filter for PS3 Eye via WinUSB
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
-- [CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) - Get PC BIOS back on UEFI only system
+- [CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) - Get PC BIOS back on UEFI only systems.
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [Azr43lKn1ght/DFIR-LABS](https://github.com/Azr43lKn1ght/DFIR-LABS) - DFIR LABS - A compilation of challenges that aims to provide practice in simple to advanced concepts in the following topics: Digital Forensics, Incident Response, Malware Analysis and Threat Hunting.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
