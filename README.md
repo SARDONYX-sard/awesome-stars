@@ -364,7 +364,6 @@
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [Yagami360/My_NoteBook](https://github.com/Yagami360/My_NoteBook) - サイエンス、テクノロジー、エンジニアリング関連の情報を記載したノート（忘備録）です。
 - [eliasson/liquorice](https://github.com/eliasson/liquorice) - Liquorice is a small black and white theme for Hugo.
-- [opera7133/Blonde](https://github.com/opera7133/Blonde) - Blonde, A simple theme using Tailwind CSS.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
@@ -458,7 +457,7 @@
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
 - [jiro4989/slotchmod](https://github.com/jiro4989/slotchmod) - slotchmod changes file permission with a slot.
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+- [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
@@ -494,6 +493,7 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
+- [opera7133/Blonde](https://github.com/opera7133/Blonde) - Blonde, A simple theme using Tailwind CSS.
 - [PortSwigger/css-exfiltration](https://github.com/PortSwigger/css-exfiltration) - 
 - [tttza/ULE4JIS](https://github.com/tttza/ULE4JIS) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
@@ -1253,7 +1253,7 @@
 - [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
-- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust
+- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust and C#
 - [veryl-lang/veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
 - [akaza-im/akaza](https://github.com/akaza-im/akaza) - Yet another Japanese IME for IBus/Linux
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
@@ -1275,7 +1275,7 @@
 - [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) - Tool and framework for securely reading untrusted USB mass storage devices.
