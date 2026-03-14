@@ -1234,7 +1234,7 @@
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [urholaukkarinen/bleasy](https://github.com/urholaukkarinen/bleasy) - High-level BLE communication library for Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [tjdevries/vim9jit](https://github.com/tjdevries/vim9jit) - a vim9script -&gt; lua transpiler (written in Rust)
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
@@ -1624,6 +1624,7 @@
 
 ## SystemVerilog 
 
+- [FareedKhan-dev/small-gpu](https://github.com/FareedKhan-dev/small-gpu) - Building a Tiny GPU to understand AI hardware engineering
 - [RoaLogic/RV12](https://github.com/RoaLogic/RV12) - RISC-V CPU Core
 - [riscv-tests-intro/riscv-tests-intro](https://github.com/riscv-tests-intro/riscv-tests-intro) - Открытый ознакомительный курс "Введение в функциональную верификацию RISC-V ядер"
 - [openhwgroup/cv32e40x](https://github.com/openhwgroup/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
