@@ -2363,6 +2363,8 @@
 
 ## others 
 
+- [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybi
+- [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - DeDRM tools for ebooks
@@ -3714,7 +3716,7 @@
 - [rust-num/num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
-- [j5ik2o/oni-comb-rs](https://github.com/j5ik2o/oni-comb-rs) - A zero-cost parser combinator library for Rust — named after Oni-Kombu (鬼昆布)
+- [j5ik2o/oni-comb-rs](https://github.com/j5ik2o/oni-comb-rs) - A parser-monad combinator library for Rust — named after Oni-Kombu (鬼昆布)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [qnighy/yasna.rs](https://github.com/qnighy/yasna.rs) - ASN.1 library for Rust
