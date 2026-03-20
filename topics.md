@@ -2363,6 +2363,7 @@
 
 ## others 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [Grarak/DSVita](https://github.com/Grarak/DSVita) - Fast NDS Emulator for ARM32/PSVita
 - [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybi
 - [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
