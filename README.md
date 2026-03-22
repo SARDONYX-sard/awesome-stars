@@ -975,7 +975,7 @@
 - [FFRI/FEXRD](https://github.com/FFRI/FEXRD) - Feature Extractor for FFRI Dataset
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [crftwr/keyhac-win](https://github.com/crftwr/keyhac-win) - python based key customization utility
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [captn3m0/pystitcher](https://github.com/captn3m0/pystitcher) - pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -1828,6 +1828,7 @@
 - [xcv58/Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website
 - [google/intermock](https://github.com/google/intermock) - Mocking library to create mock objects with fake data for TypeScript interfaces
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
+- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux.
 - [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘Super fast browser dictionary
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [wexond/rpc](https://github.com/wexond/rpc) - Type-safe inter-process communication for Electron and Node.js
@@ -1910,7 +1911,6 @@
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [Adamant-im/adamant-im](https://github.com/Adamant-im/adamant-im) - ADAMANT Decentralized Messenger and Crypto Wallet. Progressive Web Application (PWA) for Web, Tor, Android, macOS, Windows, and Linux.
 - [microcmsio/microcms-blog](https://github.com/microcmsio/microcms-blog) - microCMS official blog
 
 ## WebAssembly 
