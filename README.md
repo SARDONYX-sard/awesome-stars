@@ -1608,7 +1608,7 @@
 - [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
-- [loxygenK/dotfiles](https://github.com/loxygenK/dotfiles) - My own dotfiles.
+- [loxygenK/old-dotfiles](https://github.com/loxygenK/old-dotfiles) - My own dotfiles.
 - [jraleman/42](https://github.com/jraleman/42) - Repository of all my work during the program of Ecole 42 SIlicon Valley; a private, project-based and tuition-free coding school.
 - [LumaKernel/dotfiles](https://github.com/LumaKernel/dotfiles) - ⭐ My own world.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
