@@ -82,6 +82,7 @@
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [fastapi](#fastapi)
@@ -807,7 +808,6 @@
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
-- [pigweed-project/pigweed](https://github.com/pigweed-project/pigweed) - Modern software development for embedded systems
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -1128,7 +1128,6 @@
 
 - [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub) - An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in Rust (with no-compromises #![no_std] support)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [pigweed-project/pigweed](https://github.com/pigweed-project/pigweed) - Modern software development for embedded systems
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
@@ -1184,6 +1183,11 @@
 - [ryansonshine/typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Boilerplate to kickstart creating an npm package using TypeScript
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+## esp32 
+
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 
 ## ethereum 
 
@@ -2449,6 +2453,7 @@
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
+- [pigweed-project/pigweed](https://github.com/pigweed-project/pigweed) - Modern software development for embedded systems
 - [safedv/RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump. It can be compiled as shellcode (PIC), supports XOR encryption, and remote file transmission.
 - [rust-lang/unsafe-code-guidelines](https://github.com/rust-lang/unsafe-code-guidelines) - Forum for discussion about what unsafe code can and can't do
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
@@ -3063,7 +3068,7 @@
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 
 ## penetration-testing 
@@ -3957,6 +3962,7 @@
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+- [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - A programmable spreadsheet engine for frontend apps with formulas, async computation, and spill support. React-first with a framework-agnostic core.
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
