@@ -1890,6 +1890,7 @@
 
 ## Verilog 
 
+- [darklife/darkriscv](https://github.com/darklife/darkriscv) - opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 - [ultraembedded/biriscv](https://github.com/ultraembedded/biriscv) - 32-bit Superscalar RISC-V CPU
 - [riscv-mcu/e203_hbirdv2](https://github.com/riscv-mcu/e203_hbirdv2) - The Ultra-Low Power RISC-V Core
 - [dawsonjon/fpu](https://github.com/dawsonjon/fpu) - synthesiseable ieee 754 floating point library in verilog
