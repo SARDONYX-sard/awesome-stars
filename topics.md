@@ -2385,6 +2385,7 @@
 
 ## others 
 
+- [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
 - [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) - 
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
