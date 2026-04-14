@@ -280,6 +280,7 @@
 ## ai 
 
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [FareedKhan-dev/small-gpu](https://github.com/FareedKhan-dev/small-gpu) - Building a Tiny GPU to understand AI hardware engineering
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
@@ -2326,6 +2327,7 @@
 ## open-source 
 
 - [FerrisMind/shadcn-rs](https://github.com/FerrisMind/shadcn-rs) - shadcn/ui inspired component library for the Rust GUI
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE), implemented in V. Focused on faster compilation, clearer error messages, and PEX file analysis.
@@ -2392,7 +2394,6 @@
 - [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybi
 - [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - DeDRM tools for ebooks
 - [Qucs/qucs](https://github.com/Qucs/qucs) - Qucs Project official mirror
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
@@ -4271,6 +4272,7 @@
 
 ## vue 
 
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - A programmable spreadsheet engine for frontend apps with formulas, async computation, and spill support. React-first with a framework-agnostic core.
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
