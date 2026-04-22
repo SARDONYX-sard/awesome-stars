@@ -2458,7 +2458,6 @@
 - [RoaLogic/RV12](https://github.com/RoaLogic/RV12) - RISC-V CPU Core
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
-- [TimorYang/Computer-Networking-Keith-Ross](https://github.com/TimorYang/Computer-Networking-Keith-Ross) - 计算机网络 自顶向下方法 中国科学技术大学
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
