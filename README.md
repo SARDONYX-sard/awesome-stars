@@ -830,7 +830,7 @@
 - [GitbookIO/javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [willelz/nvim-lua-guide-ja](https://github.com/willelz/nvim-lua-guide-ja) - A guide to using Lua in Neovim
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [Kixiron/rust-langdev](https://github.com/Kixiron/rust-langdev) - Language development libraries for Rust
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [JuanitoFatas/what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - Solving the second hard problem in Computer Science.
