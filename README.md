@@ -581,7 +581,7 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
+- [nilbuild/pennywise](https://github.com/nilbuild/pennywise) - Cross-platform application to open any website or media in a floating window
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained
@@ -1591,6 +1591,7 @@
 
 ## Shell 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [hiboma/hiboma](https://github.com/hiboma/hiboma) - memos of experiments, examinations, source reading, ... etc
@@ -1844,7 +1845,7 @@
 - [ics-creative/project-japanese-proofreading](https://github.com/ics-creative/project-japanese-proofreading) - テキストファイルやMarkdownファイルの日本語の文章をチェックするVS Codeの拡張機能
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
