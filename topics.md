@@ -2395,6 +2395,7 @@
 
 ## others 
 
+- [AetiasHax/ds-decomp](https://github.com/AetiasHax/ds-decomp) - Toolkit for decompiling DS games
 - [vadimgrn/usbip-win2](https://github.com/vadimgrn/usbip-win2) - USB/IP Client for Windows
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
 - [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) - 
@@ -3562,7 +3563,7 @@
 - [EmbarkStudios/rust-ecosystem](https://github.com/EmbarkStudios/rust-ecosystem) - Rust wants & tracking for Embark 🦀
 - [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
-- [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
+- [mmastrac/linktime](https://github.com/mmastrac/linktime) - Module initialization/global constructor functions for Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [memN0ps/redlotus-rs](https://github.com/memN0ps/redlotus-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
