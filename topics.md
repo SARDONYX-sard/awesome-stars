@@ -1269,7 +1269,6 @@
 
 ## game 
 
-- [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) - Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
 - [Perchik71/Creation-Kit-Platform-Extended](https://github.com/Perchik71/Creation-Kit-Platform-Extended) - A collection of modifications, enhancements, and reverse engineered resources for Creation Kit by Bethesda.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - Multiplayer Mod & TypeScript SDK for Skyrim Special Edition
