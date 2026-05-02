@@ -775,6 +775,7 @@
 
 ## Others 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [Dmgvol/UE_Modding](https://github.com/Dmgvol/UE_Modding) - Collection of UE4/5 Modding Guides
 - [S3cur3Th1sSh1t/Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell) - This repo contains some Amsi Bypass methods i found on different Blog Posts.
