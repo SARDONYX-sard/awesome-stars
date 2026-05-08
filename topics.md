@@ -1713,7 +1713,7 @@
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs) - A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -2035,6 +2035,7 @@
 
 ## lua 
 
+- [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -3300,7 +3301,7 @@
 - [tmikov/imgui-react-runtime](https://github.com/tmikov/imgui-react-runtime) - React + Dear ImGui + Static Hermes
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -3423,6 +3424,7 @@
 
 ## reverse-engineering 
 
+- [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt) - Vulnerability detection framework by Binarly's REsearch team
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -3472,6 +3474,7 @@
 
 ## rust 
 
+- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
 - [FerrisMind/shadcn-rs](https://github.com/FerrisMind/shadcn-rs) - shadcn/ui inspired component library for the Rust GUI
 - [Grarak/DSVita](https://github.com/Grarak/DSVita) - Extremely fast NDS Emulator for ARM32/PSVita
 - [dmtrKovalenko/zlob](https://github.com/dmtrKovalenko/zlob) - 100% POSIX and glibc compatible globbing library for C, Zig, and Rust that is faster and supports all the modern globbing formats and gitignore
