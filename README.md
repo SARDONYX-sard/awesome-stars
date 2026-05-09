@@ -1887,7 +1887,7 @@
 ## V 
 
 - [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE), implemented in V. Focused on faster compilation, clearer error messages, and PEX file analysis.
-- [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V
+- [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V for ELF/Mach-O/PE
 
 ## VHDL 
 
