@@ -654,7 +654,6 @@
 - [z-edit/zedit](https://github.com/z-edit/zedit) - An integrated development environment for Bethesda Plugin Files.
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [ics-creative/170330_webpack](https://github.com/ics-creative/170330_webpack) - 「最新版で学ぶwebpack入門」のサンプルコード集です。ReactやBabelなど30以上の構成のサンプルを用意しています。
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -1846,6 +1845,7 @@
 - [wexond/rpc](https://github.com/wexond/rpc) - Type-safe inter-process communication for Electron and Node.js
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [hokaccha/electron-template-2021](https://github.com/hokaccha/electron-template-2021) - 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
