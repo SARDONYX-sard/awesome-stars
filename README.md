@@ -90,7 +90,7 @@
 
 ## C 
 
-- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA and HIP compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
+- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA, Triton and HIP compiler targeting multiple GPU architectures.
 - [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os) - Universal controller firmware core for adapters and custom controllers.
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
@@ -253,7 +253,6 @@
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim mod to play online!
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C++ package manager and build system
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [nagisa/rust_tracy_client](https://github.com/nagisa/rust_tracy_client) - Tracy client libraries for Rust
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
@@ -908,6 +907,8 @@
 
 ## Python 
 
+- [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) - 
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [Satsuoni/DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - DeDRM tools for ebooks
@@ -1019,7 +1020,7 @@
 - [AetiasHax/ds-decomp](https://github.com/AetiasHax/ds-decomp) - Toolkit for decompiling DS games
 - [Alia5/SISR](https://github.com/Alia5/SISR) - SISR (Steam Input System Redirector; pronounced "scissor") is a tool that allows users to redirect Steam Input configurations to a system level, either on localhost or even over the network.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
-- [FerrisMind/shadcn-rs](https://github.com/FerrisMind/shadcn-rs) - shadcn/ui inspired component library for the Rust GUI
+- [FerrisMind/shadcn-rs](https://github.com/FerrisMind/shadcn-rs) - shadcn/ui-inspired Rust GUI component system
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [Grarak/DSVita](https://github.com/Grarak/DSVita) - Extremely fast NDS Emulator for ARM32/PSVita
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
@@ -1064,6 +1065,7 @@
 - [kevinmehall/nusb](https://github.com/kevinmehall/nusb) - A new pure-Rust library for cross-platform low-level access to USB devices.
 - [iliekturtles/uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C++ package manager and build system
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [pascalkuthe/imara-diff](https://github.com/pascalkuthe/imara-diff) - Reliably performant diffing
@@ -1220,7 +1222,7 @@
 - [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A zkVM for Decentralized Private Computations (DPC)
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to kill processes and containers running on specified ports.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
