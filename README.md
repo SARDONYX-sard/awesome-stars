@@ -1065,7 +1065,7 @@
 - [kevinmehall/nusb](https://github.com/kevinmehall/nusb) - A new pure-Rust library for cross-platform low-level access to USB devices.
 - [iliekturtles/uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C++ package manager and build system
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - C/C++ package manager and build system
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [pascalkuthe/imara-diff](https://github.com/pascalkuthe/imara-diff) - Reliably performant diffing
