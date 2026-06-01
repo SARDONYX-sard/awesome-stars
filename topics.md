@@ -566,7 +566,7 @@
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C and C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C/C++
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -1051,7 +1051,7 @@
 ## docker 
 
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
@@ -1901,7 +1901,7 @@
 
 ## kubernetes 
 
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -1967,7 +1967,7 @@
 ## linux 
 
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [ultraembedded/biriscv](https://github.com/ultraembedded/biriscv) - 32-bit Superscalar RISC-V CPU
@@ -3075,7 +3075,7 @@
 ## package-manager 
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C and C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C/C++
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
