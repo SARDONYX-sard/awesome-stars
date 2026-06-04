@@ -291,6 +291,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -987,7 +988,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1735,7 +1736,7 @@
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -2122,7 +2123,6 @@
 ## malware 
 
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
@@ -2661,7 +2661,6 @@
 - [ataradov/riscv](https://github.com/ataradov/riscv) - Verilog implementation of a RISC-V core
 - [intelxed/xed](https://github.com/intelxed/xed) - The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64) instructions
 - [k0kubun/ruby-jit-challenge](https://github.com/k0kubun/ruby-jit-challenge) - Tutorial to write a Ruby JIT
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
 - [C-Chads/tinycc](https://github.com/C-Chads/tinycc) - C-Chads Maintained fork of Tiny C Compiler, regularly pulled from https://repo.or.cz/w/tinycc.git
@@ -3516,7 +3515,6 @@
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
 - [hermit-os/kernel](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel.
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
 - [iliekturtles/uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
 - [joaoviictorti/shadow](https://github.com/joaoviictorti/shadow) - Windows Kernel Rootkit in Rust
@@ -3537,7 +3535,7 @@
 - [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [near/borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [candy-lang/candy](https://github.com/candy-lang/candy) - 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.
 - [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
@@ -4134,7 +4132,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -4386,10 +4384,9 @@
 - [veeenu/hudhook](https://github.com/veeenu/hudhook) - A videogame overlay framework written in Rust, supporting DirectX and OpenGL
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [joaoviictorti/shadow](https://github.com/joaoviictorti/shadow) - Windows Kernel Rootkit in Rust
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [ilammy/msvc-dev-cmd](https://github.com/ilammy/msvc-dev-cmd) - GitHub Action to setup Developer Command Prompt for Microsoft Visual C++
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
