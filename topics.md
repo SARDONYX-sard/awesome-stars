@@ -2855,7 +2855,7 @@
 - [watilde/beeplay](https://github.com/watilde/beeplay) - Write a song in JavaScript
 - [micrictor/stuxnet](https://github.com/micrictor/stuxnet) - Open-source decompile of Stuxnet/myRTUs
 - [fiberplane/fp-bindgen](https://github.com/fiberplane/fp-bindgen) - Bindings generator for full-stack WASM plugins
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [hikalium/opv86](https://github.com/hikalium/opv86) - Opcode / Instruction finder for x86_64
 - [naudio/NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
