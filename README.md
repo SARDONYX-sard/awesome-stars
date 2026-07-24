@@ -778,6 +778,7 @@
 
 ## Others 
 
+- [mgba-emu/gbatek](https://github.com/mgba-emu/gbatek) - GBATEK Markdown Fork
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
 - [Dmgvol/UE_Modding](https://github.com/Dmgvol/UE_Modding) - Collection of UE4/5 Modding Guides
