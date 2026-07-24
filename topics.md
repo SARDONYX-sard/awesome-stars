@@ -2434,6 +2434,7 @@
 
 ## others 
 
+- [mgba-emu/gbatek](https://github.com/mgba-emu/gbatek) - GBATEK Markdown Fork
 - [isene/frame](https://github.com/isene/frame) - Pure-asm X11 display server for the CHasm desktop. No libc, no Mesa, no Xlib — just NASM, syscalls, and the X11 wire protocol.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [pjankiewicz/egui-shadcn](https://github.com/pjankiewicz/egui-shadcn) - shadcn styled egui components
