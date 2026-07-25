@@ -1523,7 +1523,7 @@
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [redox-os/ion](https://github.com/redox-os/ion) - Mirror of https://gitlab.redox-os.org/redox-os/ion
-- [probablykasper/cpc](https://github.com/probablykasper/cpc) - Text calculator with support for units and conversion
+- [kasper9n/cpc](https://github.com/kasper9n/cpc) - Text calculator with support for units and conversion
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
