@@ -341,7 +341,7 @@
 
 - [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Python, Swift, Kotlin, and more
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -1694,7 +1694,7 @@
 
 ## ios 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -2104,7 +2104,7 @@
 ## macos 
 
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -4147,7 +4147,7 @@
 
 ## typescript 
 
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [LibPDF-js/core](https://github.com/LibPDF-js/core) - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
@@ -4414,7 +4414,7 @@
 ## windows 
 
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
-- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [microsoft/winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app f
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
