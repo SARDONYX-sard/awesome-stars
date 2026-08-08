@@ -1011,7 +1011,7 @@
 - [k0kubun/ruby-jit-challenge](https://github.com/k0kubun/ruby-jit-challenge) - Tutorial to write a Ruby JIT
 - [five-embeddev/riscv-isa-data](https://github.com/five-embeddev/riscv-isa-data) - Machine readable ISA data
 - [TakeshiOkamoto/mpp_react_crud](https://github.com/TakeshiOkamoto/mpp_react_crud) - Rails + React + AjaxでCRUDのサンプルプロジェクト。(学習用)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [mixi-inc/RubyTraining](https://github.com/mixi-inc/RubyTraining) - Ruby training course for new employees
 
