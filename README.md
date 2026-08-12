@@ -770,7 +770,6 @@
 
 ## OCaml 
 
-- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮
 
@@ -1221,7 +1220,7 @@
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [bokuweb/r2](https://github.com/bokuweb/r2) - A RISC-V emulator written in Rust :crab:
@@ -1588,6 +1587,7 @@
 ## Sail 
 
 - [riscv/sail-riscv](https://github.com/riscv/sail-riscv) - Sail RISC-V model
+- [rems-project/sail](https://github.com/rems-project/sail) - Sail architecture definition language
 
 ## Scala 
 
