@@ -450,6 +450,7 @@
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -3052,7 +3053,6 @@
 - [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
-- [svitejs/svite](https://github.com/svitejs/svite) - 
 - [rui314/rui314.github.io](https://github.com/rui314/rui314.github.io) - 
 - [z-edit/zedit](https://github.com/z-edit/zedit) - An integrated development environment for Bethesda Plugin Files.
 - [wexond/rpc](https://github.com/wexond/rpc) - Type-safe inter-process communication for Electron and Node.js
@@ -3095,6 +3095,7 @@
 
 ## p2p 
 
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
