@@ -2436,6 +2436,7 @@
 
 ## others 
 
+- [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [DuncanWasHere/blender_niftools_addon](https://github.com/DuncanWasHere/blender_niftools_addon) - Blender Niftools Addon fork adding various fixes and QOL features, including support for multi-material MOPP.
 - [PSI-Rockin/ps2tek](https://github.com/PSI-Rockin/ps2tek) - PS2 documentation, themed after no$cash's documentation
 - [aerisarn/ck-cmd](https://github.com/aerisarn/ck-cmd) - command line helper for executing some Creation Kit/Engine commands
