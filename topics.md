@@ -2436,6 +2436,7 @@
 
 ## others 
 
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [DuncanWasHere/blender_niftools_addon](https://github.com/DuncanWasHere/blender_niftools_addon) - Blender Niftools Addon fork adding various fixes and QOL features, including support for multi-material MOPP.
 - [PSI-Rockin/ps2tek](https://github.com/PSI-Rockin/ps2tek) - PS2 documentation, themed after no$cash's documentation
@@ -2947,7 +2948,6 @@
 - [uhyo/css-grid-quiz](https://github.com/uhyo/css-grid-quiz) - 
 - [DmitrySoshnikov/syntax](https://github.com/DmitrySoshnikov/syntax) - Syntactic analysis toolkit, language-agnostic parser generator.
 - [HeadlightStudios/bestyled-gamepad](https://github.com/HeadlightStudios/bestyled-gamepad) - A stylish gamepad component for React, Preact, etc.
-- [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) - Animation Behavior Patching Tool
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 - [rescript-lang/rescript-vscode](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
