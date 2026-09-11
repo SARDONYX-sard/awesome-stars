@@ -561,6 +561,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [brandonmp/gatsby-source-google-sheets](https://github.com/brandonmp/gatsby-source-google-sheets) - A GatsbyJS plugin that pulls nodes from rows in a Google Sheet.
@@ -722,7 +723,6 @@
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
@@ -1033,7 +1033,7 @@
 - [boltffi/boltffi](https://github.com/boltffi/boltffi) - A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Python, Swift, Kotlin, and more
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [Modding-Forge/bethkit](https://github.com/Modding-Forge/bethkit) - 
-- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
+- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
 - [AetiasHax/ds-decomp](https://github.com/AetiasHax/ds-decomp) - Toolkit for decompiling DS games
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
@@ -1157,7 +1157,7 @@
 - [Byron/jwalk](https://github.com/Byron/jwalk) - Filesystem walk performed in parallel with streamed and sorted results
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - virtio implementation
+- [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio) - This is a public archive. The code now lives in the mono-repo: https://github.com/rust-vmm/rust-vmm/
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
