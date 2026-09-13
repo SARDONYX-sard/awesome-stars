@@ -2437,6 +2437,7 @@
 
 ## others 
 
+- [rui314/mold-macho](https://github.com/rui314/mold-macho) - 
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [DuncanWasHere/blender_niftools_addon](https://github.com/DuncanWasHere/blender_niftools_addon) - Blender Niftools Addon fork adding various fixes and QOL features, including support for multi-material MOPP.
