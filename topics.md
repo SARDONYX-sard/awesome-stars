@@ -1220,7 +1220,7 @@
 ## eslint 
 
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
-- [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
+- [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules. owner: @platform-engineering-group
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
 - [ryansonshine/typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Boilerplate to kickstart creating an npm package using TypeScript
@@ -2599,6 +2599,7 @@
 - [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [ersh1/OpenAnimationReplacer](https://github.com/ersh1/OpenAnimationReplacer) - 
+- [JoasASantos/OSCE3-Complete-Guide](https://github.com/JoasASantos/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [pulp-platform/bender](https://github.com/pulp-platform/bender) - A dependency management tool for hardware projects.
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
