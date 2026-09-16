@@ -2437,6 +2437,7 @@
 
 ## others 
 
+- [TanStack/redact](https://github.com/TanStack/redact) - An alternative logical projection of React with 100% API compliancy but simpler implementation resulting in smaller bundle size and better performance.
 - [rui314/mold-macho](https://github.com/rui314/mold-macho) - 
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
@@ -2529,7 +2530,7 @@
 - [wisonye/rust-ffi-demo](https://github.com/wisonye/rust-ffi-demo) - 
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [riscv-tests-intro/riscv-tests-intro](https://github.com/riscv-tests-intro/riscv-tests-intro) - Открытый ознакомительный курс "Введение в функциональную верификацию RISC-V ядер"
-- [openhwgroup/cv32e40x](https://github.com/openhwgroup/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
+- [openhwfoundation/cv32e40x](https://github.com/openhwfoundation/cv32e40x) - 4 stage, in-order, compute RISC-V core based on the CV32E40P
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
@@ -2641,7 +2642,7 @@
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
+- [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) - The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - A thin-hypervisor that runs on aarch64 CPUs.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -2654,12 +2655,12 @@
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) - Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [openhwgroup/cvw](https://github.com/openhwgroup/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
+- [openhwfoundation/cvw](https://github.com/openhwfoundation/cvw) - CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches,
 - [pulp-platform/axi](https://github.com/pulp-platform/axi) - AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [kyren/gc-arena](https://github.com/kyren/gc-arena) - Incremental garbage collection from safe Rust
 - [riscv-non-isa/riscv-sbi-doc](https://github.com/riscv-non-isa/riscv-sbi-doc) - Documentation for the RISC-V Supervisor Binary Interface
-- [openhwgroup/cv32e40p](https://github.com/openhwgroup/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
+- [openhwfoundation/cv32e40p](https://github.com/openhwfoundation/cv32e40p) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
@@ -2738,7 +2739,7 @@
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [fay59/x86doc](https://github.com/fay59/x86doc) - HTML representation of the Intel x86 instructions documentation.
 - [withastro/language-tools](https://github.com/withastro/language-tools) - Language tools for Astro
-- [openhwgroup/core-v-verif](https://github.com/openhwgroup/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
+- [openhwfoundation/core-v-verif](https://github.com/openhwfoundation/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [winsecurity/Offensive-Rust](https://github.com/winsecurity/Offensive-Rust) - 
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for the 64-bit processors.
 - [chyyuu/os_course_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
@@ -2930,7 +2931,7 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [jochasinga/systemd-parser](https://github.com/jochasinga/systemd-parser) - A minimal Systemd unit file parser
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [dtolnay/miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [willelz/nvim-lua-guide-ja](https://github.com/willelz/nvim-lua-guide-ja) - A guide to using Lua in Neovim
