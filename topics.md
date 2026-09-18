@@ -2995,7 +2995,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [rust-lang/style-team](https://github.com/rust-lang/style-team) - Home of the Rust style team
 - [yoshd/stun-client](https://github.com/yoshd/stun-client) - A simple async-std-based STUN client written in Rust
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 - [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
 - [PortSwigger/css-exfiltration](https://github.com/PortSwigger/css-exfiltration) - 
 - [ABZ-Aaron/cheat-sheets](https://github.com/ABZ-Aaron/cheat-sheets) - Just a place to store cheatsheets
