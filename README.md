@@ -354,7 +354,6 @@
 - [crftwr/pyauto](https://github.com/crftwr/pyauto) - windows low-level feature library
 - [fuzzuf/fuzzuf](https://github.com/fuzzuf/fuzzuf) - Fuzzing Unification Framework
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [sinya8282/Regen](https://github.com/sinya8282/Regen) - regular expression, generator
 - [Exit-9B/AutoInputSwitch](https://github.com/Exit-9B/AutoInputSwitch) - 
@@ -1576,6 +1575,7 @@
 - [rust-lang/style-team](https://github.com/rust-lang/style-team) - Home of the Rust style team
 - [yoshd/stun-client](https://github.com/yoshd/stun-client) - A simple async-std-based STUN client written in Rust
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
+- [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
