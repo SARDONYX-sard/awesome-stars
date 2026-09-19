@@ -2002,7 +2002,7 @@
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -2117,7 +2117,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
@@ -2440,7 +2440,6 @@
 ## others 
 
 - [TanStack/redact](https://github.com/TanStack/redact) - An alternative logical projection of React with 100% API compliancy but simpler implementation resulting in smaller bundle size and better performance.
-- [rui314/mold-macho](https://github.com/rui314/mold-macho) - 
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [DuncanWasHere/blender_niftools_addon](https://github.com/DuncanWasHere/blender_niftools_addon) - Blender Niftools Addon fork adding various fixes and QOL features, including support for multi-material MOPP.
@@ -3620,7 +3619,7 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [sile/erlls](https://github.com/sile/erlls) - Erlang language server
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [SFBdragon/talc](https://github.com/SFBdragon/talc) - A fast and flexible allocator for no_std and WebAssembly
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
@@ -4447,7 +4446,7 @@
 - [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [memN0ps/redlotus-rs](https://github.com/memN0ps/redlotus-rs) - Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename: RedLotus)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
