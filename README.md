@@ -236,6 +236,7 @@
 
 ## C++ 
 
+- [D7ry/wheeler](https://github.com/D7ry/wheeler) - Embeds a quick action wheel seamlessly into Skyrim's gameplay, providing a convenient interface for accurate and customized access and usage of spells, weapons, powers, shouts, potions, and poisons in
 - [fastfloat/fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and WebKit/Safari
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 - [aerisarn/ck-cmd](https://github.com/aerisarn/ck-cmd) - command line helper for executing some Creation Kit/Engine commands
