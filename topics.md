@@ -2449,6 +2449,7 @@
 
 ## others 
 
+- [D7ry/wheeler](https://github.com/D7ry/wheeler) - Embeds a quick action wheel seamlessly into Skyrim's gameplay, providing a convenient interface for accurate and customized access and usage of spells, weapons, powers, shouts, potions, and poisons in
 - [TanStack/redact](https://github.com/TanStack/redact) - An alternative logical projection of React with 100% API compliancy but simpler implementation resulting in smaller bundle size and better performance.
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
