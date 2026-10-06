@@ -870,7 +870,7 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Mod loader, scripting platform, and VR support for all RE Engine games
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -1010,7 +1010,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 
 ## deno 
 
@@ -2071,7 +2071,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 
 ## localization 
 
@@ -2163,7 +2163,6 @@
 
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## markdown 
 
@@ -3541,6 +3540,7 @@
 
 ## rust 
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [raygon-renderer/thermite](https://github.com/raygon-renderer/thermite) - Thermite SIMD: Melt your CPU
 - [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs) - Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on i386 in QEMU.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
