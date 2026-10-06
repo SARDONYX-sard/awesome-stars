@@ -84,7 +84,6 @@
 - [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 - [openhwfoundation/core-v-verif](https://github.com/openhwfoundation/core-v-verif) - Functional verification project for the CORE-V family of RISC-V cores.
 - [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test) - The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [h-ohsaki/asm](https://github.com/h-ohsaki/asm) - 「独習アセンブラ 新版」(翔泳社) サポートページ
 - [oriansj/stage0](https://github.com/oriansj/stage0) - A set of minimal dependency bootstrap binaries
@@ -343,7 +342,7 @@
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [skyrim-multiplayer/skymp](https://github.com/skyrim-multiplayer/skymp) - Multiplayer Mod & TypeScript SDK for Skyrim Special Edition
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -1028,6 +1027,7 @@
 
 ## Rust 
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [raygon-renderer/thermite](https://github.com/raygon-renderer/thermite) - Thermite SIMD: Melt your CPU
 - [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs) - Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on i386 in QEMU.
