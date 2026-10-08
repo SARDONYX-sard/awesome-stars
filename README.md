@@ -1027,6 +1027,7 @@
 
 ## Rust 
 
+- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
 - [vricosti/ruzu-emu](https://github.com/vricosti/ruzu-emu) - Switch emulator written in rust and ported with LLMs initally from yuzu/eden
 - [RainbowCookie32/rusty-psn](https://github.com/RainbowCookie32/rusty-psn) - A GUI/CLI tool for downloading PS3, PS4, and PSVita game updates
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
