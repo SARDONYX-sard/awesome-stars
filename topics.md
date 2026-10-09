@@ -1619,7 +1619,6 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -2452,6 +2451,8 @@
 
 ## others 
 
+- [Hydr8gon/NooDS](https://github.com/Hydr8gon/NooDS) - A (hopefully!) speedy DS emulator
+- [droogie/bbhost](https://github.com/droogie/bbhost) - Definitive Bloodborne PC Experience
 - [vricosti/ruzu-emu](https://github.com/vricosti/ruzu-emu) - Switch emulator written in rust and ported with LLMs initally from yuzu/eden
 - [RainbowCookie32/rusty-psn](https://github.com/RainbowCookie32/rusty-psn) - A GUI/CLI tool for downloading PS3, PS4, and PSVita game updates
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
