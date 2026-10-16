@@ -2572,7 +2572,7 @@
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare) - 
 - [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - Source XML and test text files for the SPDX License List
-- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
+- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's CVS src repository. This only includes the main branch; use CVS for -stable or release branches. Send any diffs to the tech@ mailing list.
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [Lord-Akkrand/Skyrim-NX-Toolkit](https://github.com/Lord-Akkrand/Skyrim-NX-Toolkit) - A set of scripts to convert mods from Skyrim SE to Skyrim NX
 - [rust-bakery/nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom
