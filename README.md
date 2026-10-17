@@ -110,7 +110,7 @@
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [bminor/glibc](https://github.com/bminor/glibc) - Unofficial mirror of sourceware glibc repository.
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
-- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
+- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's CVS src repository. This only includes the main branch; use CVS for -stable or release branches. Send any diffs to the tech@ mailing list.
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [tidwall/neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
@@ -409,7 +409,7 @@
 
 ## Go 
 
-- [unstablebuild/rune](https://github.com/unstablebuild/rune) - the development environment for pros
+- [unstablebuild/rune](https://github.com/unstablebuild/rune) - a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
 - [Alia5/SISR](https://github.com/Alia5/SISR) - SISR (Steam Input System Redirector; pronounced "scissor") is a tool that allows users to redirect Steam Input configurations to a system level, either on localhost or even over the network.
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -507,6 +507,7 @@
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [yuki-yano/dotfiles](https://github.com/yuki-yano/dotfiles) - My configuration files.
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
 - [opera7133/Blonde](https://github.com/opera7133/Blonde) - Blonde, A simple theme using Tailwind CSS.
 - [PortSwigger/css-exfiltration](https://github.com/PortSwigger/css-exfiltration) - 
@@ -620,7 +621,6 @@
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
 - [plasma-umass/browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [yuki-yano/dotfiles](https://github.com/yuki-yano/dotfiles) - My configuration files.
 - [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
@@ -919,6 +919,7 @@
 
 ## Python 
 
+- [bryantmh/tes4skyrim](https://github.com/bryantmh/tes4skyrim) - Complete and automated Gamebryo to TES5 plugin and asset conversion
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [DuncanWasHere/blender_niftools_addon](https://github.com/DuncanWasHere/blender_niftools_addon) - Blender Niftools Addon fork adding various fixes and QOL features, including support for multi-material MOPP.
 - [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
