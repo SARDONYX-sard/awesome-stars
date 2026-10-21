@@ -2460,6 +2460,7 @@
 
 ## others 
 
+- [tobi/disktree](https://github.com/tobi/disktree) - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 - [bryantmh/tes4skyrim](https://github.com/bryantmh/tes4skyrim) - Complete and automated Gamebryo to TES5 plugin and asset conversion
 - [Hydr8gon/NooDS](https://github.com/Hydr8gon/NooDS) - A (hopefully!) speedy DS emulator
 - [droogie/bbhost](https://github.com/droogie/bbhost) - Definitive Bloodborne PC Experience
