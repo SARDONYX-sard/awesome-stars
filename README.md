@@ -558,7 +558,7 @@
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
-- [SAP/xml-tools](https://github.com/SAP/xml-tools) - A Set of libraries for working with XML in JavaScript, mainly focused on Editor Tooling Scenarios.
+- [SAP-archive/xml-tools](https://github.com/SAP-archive/xml-tools) - A Set of libraries for working with XML in JavaScript, mainly focused on Editor Tooling Scenarios.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [ilammy/msvc-dev-cmd](https://github.com/ilammy/msvc-dev-cmd) - GitHub Action to setup Developer Command Prompt for Microsoft Visual C++
 - [requarks/changelog-action](https://github.com/requarks/changelog-action) - GitHub Action to generate changelog from conventional commits
@@ -1029,6 +1029,7 @@
 
 ## Rust 
 
+- [tobi/disktree](https://github.com/tobi/disktree) - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
