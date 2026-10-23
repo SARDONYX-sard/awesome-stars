@@ -313,6 +313,7 @@
 
 ## ai-agent 
 
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
@@ -406,6 +407,7 @@
 
 ## automation 
 
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
@@ -2130,6 +2132,7 @@
 ## macos 
 
 - [fastfloat/fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and WebKit/Safari
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
@@ -2200,6 +2203,7 @@
 
 ## mcp 
 
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ## microservices 
@@ -2469,7 +2473,6 @@
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
 - [D7ry/wheeler](https://github.com/D7ry/wheeler) - Embeds a quick action wheel seamlessly into Skyrim's gameplay, providing a convenient interface for accurate and customized access and usage of spells, weapons, powers, shouts, potions, and poisons in
 - [TanStack/redact](https://github.com/TanStack/redact) - An alternative logical projection of React with 100% API compliancy but simpler implementation resulting in smaller bundle size and better performance.
-- [crftwr/keyhac](https://github.com/crftwr/keyhac) - 
 - [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer) - Lightweight Rust LSP optimized for low memory usage
 - [DuncanWasHere/blender_niftools_addon](https://github.com/DuncanWasHere/blender_niftools_addon) - Blender Niftools Addon fork adding various fixes and QOL features, including support for multi-material MOPP.
 - [PSI-Rockin/ps2tek](https://github.com/PSI-Rockin/ps2tek) - PS2 documentation, themed after no$cash's documentation
@@ -2718,7 +2721,6 @@
 - [ThomasJaeger/VisualMASM](https://github.com/ThomasJaeger/VisualMASM) - Visual MASM - Assembly IDE for Microsoft MASM
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 - [rust-embedded/riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [ataradov/riscv](https://github.com/ataradov/riscv) - Verilog implementation of a RISC-V core
@@ -2891,7 +2893,7 @@
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
+- [osohq/oso](https://github.com/osohq/oso) - Legacy Oso open source library (archived)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 - [mars-research/redleaf](https://github.com/mars-research/redleaf) - RedLeaf Operating System
@@ -3277,6 +3279,7 @@
 
 ## python 
 
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
@@ -3672,6 +3675,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [0x5457/riscv-emulator](https://github.com/0x5457/riscv-emulator) - 🖥️ a toy riscv emulator
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionalit
@@ -4463,6 +4467,7 @@
 ## windows 
 
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+- [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
