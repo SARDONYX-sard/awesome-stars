@@ -556,7 +556,7 @@
 - [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [dmtrKovalenko/zlob](https://github.com/dmtrKovalenko/zlob) - *Very* fast recursive file walking and globbing library for Zig, C, and Rust. With gitignore support. 100% POSIX compatible
-- [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
+- [Zuhaitz-dev/zenc-lang](https://github.com/Zuhaitz-dev/zenc-lang) - Write like a high-level language, run like C.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -782,7 +782,7 @@
 
 - [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
 - [Zaneham/Booth](https://github.com/Zaneham/Booth) - Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.
-- [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
+- [Zuhaitz-dev/zenc-lang](https://github.com/Zuhaitz-dev/zenc-lang) - Write like a high-level language, run like C.
 - [robertmuth/Cwerg](https://github.com/robertmuth/Cwerg) - The best C-like language that can be implemented in 10kLOC.
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
 - [open-papyrus/papyrus-compiler](https://github.com/open-papyrus/papyrus-compiler) - Open-source compiler for the Papyrus scripting language of Bethesda games.
@@ -899,7 +899,7 @@
 ## csharp 
 
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -1200,7 +1200,7 @@
 
 ## emulator 
 
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [Alia5/SISR](https://github.com/Alia5/SISR) - SISR (Steam Input System Redirector; pronounced "scissor") is a tool that allows users to redirect Steam Input configurations to a system level, either on localhost or even over the network.
 - [brxxn/ds-anywhere](https://github.com/brxxn/ds-anywhere) - Emulate a Nintendo DS securely inside your browser
@@ -2010,7 +2010,7 @@
 ## linux 
 
 - [fastfloat/fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and WebKit/Safari
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs) - Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on i386 in QEMU.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
@@ -2133,7 +2133,6 @@
 
 - [fastfloat/fast_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, DuckDB, Chromium, Redis and WebKit/Safari
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2405,7 +2404,7 @@
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
-- [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
+- [Zuhaitz-dev/zenc-lang](https://github.com/Zuhaitz-dev/zenc-lang) - Write like a high-level language, run like C.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [russo-2025/papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - An open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE), implemented in V. Focused on faster compilation, clearer error messages, and PEX file analysis.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
@@ -2534,7 +2533,7 @@
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
-- [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux
+- [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux and WebAssembly
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [kevinmehall/nusb](https://github.com/kevinmehall/nusb) - A new pure-Rust library for cross-platform low-level access to USB devices.
 - [dawsonjon/fpu](https://github.com/dawsonjon/fpu) - synthesiseable ieee 754 floating point library in verilog
@@ -4469,7 +4468,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [crftwr/keyhac](https://github.com/crftwr/keyhac) - Python-scriptable keyboard customization for Windows and macOS: remap keys, bind them to Python, drive apps and windows. An AI assistant can write the automation for you — then it runs without AI.
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [microsoft/winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app f
