@@ -2467,6 +2467,8 @@
 
 ## others 
 
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
+- [tanakh/plamo-translate-desktop](https://github.com/tanakh/plamo-translate-desktop) - 
 - [tobi/disktree](https://github.com/tobi/disktree) - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 - [bryantmh/tes4skyrim](https://github.com/bryantmh/tes4skyrim) - Complete and automated Gamebryo to TES5 plugin and asset conversion
 - [Hydr8gon/NooDS](https://github.com/Hydr8gon/NooDS) - A (hopefully!) speedy DS emulator
@@ -3677,7 +3679,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [0x5457/riscv-emulator](https://github.com/0x5457/riscv-emulator) - 🖥️ a toy riscv emulator
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
+- [smallvec/smallvec](https://github.com/smallvec/smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [arceos-org/arceos](https://github.com/arceos-org/arceos) - An experimental modular OS written in Rust.
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionalit
