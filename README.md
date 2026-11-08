@@ -1028,11 +1028,13 @@
 
 ## Rust 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
+- [paisu-supai/sonoba](https://github.com/paisu-supai/sonoba) - 画面の文字をその場で訳文に置き換える Windows 11 用の常駐アプリ。OCR も翻訳も PC の中で動きます（PP-OCRv6、PLaMo 3 Translate）。
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
+- [tanakh/plamo-translate-desktop](https://github.com/tanakh/plamo-translate-desktop) - 
 - [Mudcrab-Team/mudcrab](https://github.com/Mudcrab-Team/mudcrab) - Open-source rewrite of Skyrim, built with Bevy in Rust
 - [tobi/disktree](https://github.com/tobi/disktree) - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
-- [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
 - [vricosti/ruzu-emu](https://github.com/vricosti/ruzu-emu) - Switch emulator written in rust and ported with LLMs initally from yuzu/eden
 - [RainbowCookie32/rusty-psn](https://github.com/RainbowCookie32/rusty-psn) - A GUI/CLI tool for downloading PS3, PS4, and PSVita game updates
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
@@ -1232,7 +1234,7 @@
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [0x5457/riscv-emulator](https://github.com/0x5457/riscv-emulator) - 🖥️ a toy riscv emulator
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
+- [smallvec/smallvec](https://github.com/smallvec/smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-embedded/riscv](https://github.com/rust-embedded/riscv) - Low level access to RISC-V processors
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
