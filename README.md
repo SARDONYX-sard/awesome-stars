@@ -786,6 +786,7 @@
 
 ## Others 
 
+- [Kohei-Wada/houritsu](https://github.com/Kohei-Wada/houritsu) - Japanese laws as git history, one commit per amendment (generated from the e-Gov law API)
 - [mgba-emu/gbatek](https://github.com/mgba-emu/gbatek) - GBATEK Markdown Fork
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [pizlonator/fil-c](https://github.com/pizlonator/fil-c) - Fil-C: completely compatible memory safety for C and C++
@@ -1027,6 +1028,7 @@
 
 ## Rust 
 
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [ibisjp/ibis-office](https://github.com/ibisjp/ibis-office) - The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate editing for DOCX, XLSX, and PPTX with pixel-perfect rendering. Powered by DirectX, Metal, Vulkan & WebG
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
@@ -1051,7 +1053,7 @@
 - [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) - NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
 - [AetiasHax/ds-decomp](https://github.com/AetiasHax/ds-decomp) - Toolkit for decompiling DS games
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [Grarak/DSVita](https://github.com/Grarak/DSVita) - Extremely fast NDS Emulator for ARM32/PSVita
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
