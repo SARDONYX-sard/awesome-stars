@@ -1028,6 +1028,7 @@
 
 ## Rust 
 
+- [makepad/relax](https://github.com/makepad/relax) - Relax Rust JIT
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [ibisjp/ibis-office](https://github.com/ibisjp/ibis-office) - The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate editing for DOCX, XLSX, and PPTX with pixel-perfect rendering. Powered by DirectX, Metal, Vulkan & WebG
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
