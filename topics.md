@@ -2475,6 +2475,7 @@
 
 ## others 
 
+- [makepad/relax](https://github.com/makepad/relax) - Relax Rust JIT
 - [Kohei-Wada/houritsu](https://github.com/Kohei-Wada/houritsu) - Japanese laws as git history, one commit per amendment (generated from the e-Gov law API)
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [paisu-supai/sonoba](https://github.com/paisu-supai/sonoba) - 画面の文字をその場で訳文に置き換える Windows 11 用の常駐アプリ。OCR も翻訳も PC の中で動きます（PP-OCRv6、PLaMo 3 Translate）。
