@@ -2477,6 +2477,7 @@
 
 ## others 
 
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [makepad/relax](https://github.com/makepad/relax) - Relax Rust JIT
 - [Kohei-Wada/houritsu](https://github.com/Kohei-Wada/houritsu) - Japanese laws as git history, one commit per amendment (generated from the e-Gov law API)
