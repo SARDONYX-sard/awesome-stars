@@ -3581,6 +3581,7 @@
 
 ## rust 
 
+- [Tihvert/sekiro-coop](https://github.com/Tihvert/sekiro-coop) - Sekiro Together: online co-op mod for Sekiro: Shadows Die Twice (2-6 players, beta, buggy, open source)
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [ibisjp/ibis-office](https://github.com/ibisjp/ibis-office) - The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate editing for DOCX, XLSX, and PPTX with pixel-perfect rendering. Powered by DirectX, Metal, Vulkan & WebG
