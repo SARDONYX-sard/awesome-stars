@@ -29,6 +29,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Lean](#lean)
 - [Linker Script](#linker-script)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -234,6 +235,7 @@
 
 ## C++ 
 
+- [AzaharPlus/AzaharPlus](https://github.com/AzaharPlus/AzaharPlus) - A fork of the Azahar 3DS emulator with extra features
 - [Hydr8gon/NooDS](https://github.com/Hydr8gon/NooDS) - A (hopefully!) speedy DS emulator
 - [droogie/bbhost](https://github.com/droogie/bbhost) - Definitive Bloodborne PC Experience
 - [D7ry/wheeler](https://github.com/D7ry/wheeler) - Embeds a quick action wheel seamlessly into Skyrim's gameplay, providing a convenient interface for accurate and customized access and usage of spells, weapons, powers, shouts, potions, and poisons in
@@ -267,7 +269,6 @@
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) - A library of C++ coroutine abstractions for the coroutines TS
 - [nagisa/rust_tracy_client](https://github.com/nagisa/rust_tracy_client) - Tracy client libraries for Rust
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
-- [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [pigweed-project/pigweed](https://github.com/pigweed-project/pigweed) - Modern software development for embedded systems
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
@@ -717,6 +718,10 @@
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+## Lean 
+
+- [openai/math](https://github.com/openai/math) - 
+
 ## Linker Script 
 
 - [pftbest/ldparser](https://github.com/pftbest/ldparser) - Linker Script parser
@@ -1030,6 +1035,7 @@
 
 ## Rust 
 
+- [Tihvert/sekiro-coop](https://github.com/Tihvert/sekiro-coop) - Sekiro Together: online co-op mod for Sekiro: Shadows Die Twice (2-6 players, beta, buggy, open source)
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [makepad/relax](https://github.com/makepad/relax) - Relax Rust JIT
@@ -1261,7 +1267,7 @@
 - [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to kill processes and containers running on specified ports.
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
@@ -1748,6 +1754,7 @@
 - [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -1964,7 +1971,6 @@
 ## Vue 
 
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [microcmsio/microcms-blog](https://github.com/microcmsio/microcms-blog) - microCMS official blog
 
